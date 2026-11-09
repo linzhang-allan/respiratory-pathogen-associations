@@ -1,0 +1,59 @@
+﻿Stratification,Stratum code,Stratum,Pathogen zh,Pathogen,Pathogen family,Tested encounters,Positive encounters,Positive rate (%)
+region,North,North,巨细胞病毒,CMV,Viral pathogens,1059,234,22.096317280453256
+region,South,South,巨细胞病毒,CMV,Viral pathogens,1208,266,22.019867549668874
+region,North,North,新冠,SARS-CoV-2,Viral pathogens,77229,8881,11.499566225122686
+region,South,South,新冠,SARS-CoV-2,Viral pathogens,219332,32503,14.819087046121862
+region,North,North,EB病毒,EBV,Viral pathogens,4183,2240,53.550083672005734
+region,South,South,EB病毒,EBV,Viral pathogens,10015,1570,15.676485272091861
+region,North,North,腺病毒,HAdV,Viral pathogens,52598,2293,4.359481349100727
+region,South,South,腺病毒,HAdV,Viral pathogens,211981,6381,3.0101754402517207
+region,North,North,博卡病毒,HBoV,Viral pathogens,20682,214,1.0347161783193115
+region,South,South,博卡病毒,HBoV,Viral pathogens,42027,715,1.701287267708854
+region,North,North,季节性冠状病毒,HCoV,Viral pathogens,3875,145,3.741935483870968
+region,South,South,季节性冠状病毒,HCoV,Viral pathogens,35371,2497,7.059455486132707
+region,North,North,偏肺病毒,HMPV,Viral pathogens,12922,621,4.805757622659032
+region,South,South,偏肺病毒,HMPV,Viral pathogens,19034,1050,5.516444257644216
+region,North,North,副流感病毒,HPIV,Viral pathogens,47495,3229,6.798610380040005
+region,South,South,副流感病毒,HPIV,Viral pathogens,103137,4289,4.158546399449277
+region,North,North,鼻病毒,HRV,Viral pathogens,14401,2578,17.90153461565169
+region,South,South,鼻病毒,HRV,Viral pathogens,60649,11202,18.470213853484807
+region,North,North,单纯疱疹病毒,HSV,Viral pathogens,48,19,39.58333333333333
+region,South,South,单纯疱疹病毒,HSV,Viral pathogens,906,166,18.322295805739515
+region,North,North,流感,IFV,Viral pathogens,144759,29068,20.080271347550067
+region,South,South,流感,IFV,Viral pathogens,573080,101985,17.795944719759895
+region,North,North,呼吸道合胞病毒,RSV,Viral pathogens,53170,4775,8.980628173782208
+region,South,South,呼吸道合胞病毒,RSV,Viral pathogens,206205,11381,5.519264809291724
+region,North,North,肺炎支原体,MP,Bacterial pathogens,84349,19063,22.600149379364307
+region,South,South,肺炎支原体,MP,Bacterial pathogens,378057,65698,17.377802818093567
+region,North,North,肺炎衣原体,CP,Bacterial pathogens,17834,559,3.134462263092969
+region,South,South,肺炎衣原体,CP,Bacterial pathogens,89298,1625,1.8197496024547022
+region,North,North,百日咳杆菌,B pertussis,Bacterial pathogens,1411,91,6.449326718639263
+region,South,South,百日咳杆菌,B pertussis,Bacterial pathogens,26436,1451,5.488727492812831
+region,North,North,流感嗜血杆菌,H influenzae,Bacterial pathogens,6630,1139,17.17948717948718
+region,South,South,流感嗜血杆菌,H influenzae,Bacterial pathogens,31541,14436,45.768999080561805
+region,North,North,肺炎克雷伯菌,K pneumoniae,Bacterial pathogens,2002,658,32.86713286713287
+region,South,South,肺炎克雷伯菌,K pneumoniae,Bacterial pathogens,2134,1557,72.96157450796626
+region,North,North,军团菌,Legionella,Bacterial pathogens,11778,289,2.4537272881643744
+region,South,South,军团菌,Legionella,Bacterial pathogens,5077,32,0.6302934804018121
+region,North,North,卡他莫拉菌,M catarrhalis,Bacterial pathogens,760,40,5.263157894736842
+region,South,South,卡他莫拉菌,M catarrhalis,Bacterial pathogens,3203,348,10.864814236653137
+region,North,North,结核分枝杆菌,MTB,Bacterial pathogens,12819,1339,10.445432561042203
+region,South,South,结核分枝杆菌,MTB,Bacterial pathogens,23886,7434,31.122833458929914
+region,North,North,铜绿假单胞菌,P aeruginosa,Bacterial pathogens,3898,296,7.593637762955361
+region,South,South,铜绿假单胞菌,P aeruginosa,Bacterial pathogens,2322,1215,52.32558139534884
+region,North,North,金黄色葡萄球菌,S aureus,Bacterial pathogens,6389,538,8.42072311785882
+region,South,South,金黄色葡萄球菌,S aureus,Bacterial pathogens,11831,1847,15.611529033894007
+region,North,North,嗜麦芽窄食单胞菌,S maltophilia,Bacterial pathogens,1551,799,51.515151515151516
+region,South,South,嗜麦芽窄食单胞菌,S maltophilia,Bacterial pathogens,3035,724,23.85502471169687
+region,North,North,肺炎链球菌,S pneumoniae,Bacterial pathogens,4209,438,10.406272273699216
+region,South,South,肺炎链球菌,S pneumoniae,Bacterial pathogens,5906,979,16.57636302065696
+region,North,North,鲍曼不动杆菌,A baumannii,Bacterial pathogens,2533,1780,70.27240426371891
+region,South,South,鲍曼不动杆菌,A baumannii,Bacterial pathogens,3796,1336,35.19494204425711
+region,North,North,曲霉,Aspergillus,Fungi pathogens,236,29,12.288135593220339
+region,South,South,曲霉,Aspergillus,Fungi pathogens,1453,75,5.161734342739161
+region,North,North,念珠菌,Candida,Fungi pathogens,364,195,53.57142857142857
+region,South,South,念珠菌,Candida,Fungi pathogens,6655,5584,83.9068369646882
+region,North,North,隐球菌,Cryptococcus,Fungi pathogens,1325,29,2.188679245283019
+region,South,South,隐球菌,Cryptococcus,Fungi pathogens,3663,74,2.0202020202020203
+region,North,North,肺孢子菌,Pneumocystis,Fungi pathogens,35,13,37.142857142857146
+region,South,South,肺孢子菌,Pneumocystis,Fungi pathogens,1543,106,6.869734283862606

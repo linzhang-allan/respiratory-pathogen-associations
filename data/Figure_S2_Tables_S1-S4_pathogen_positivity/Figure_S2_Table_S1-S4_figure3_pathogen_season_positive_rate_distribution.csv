@@ -1,0 +1,117 @@
+﻿Stratification,Stratum code,Stratum,Pathogen zh,Pathogen,Pathogen family,Tested encounters,Positive encounters,Positive rate (%)
+season,Spring,Spring,巨细胞病毒,CMV,Viral pathogens,655,118,18.015267175572518
+season,Summer,Summer,巨细胞病毒,CMV,Viral pathogens,723,190,26.279391424619643
+season,Autumn,Autumn,巨细胞病毒,CMV,Viral pathogens,348,77,22.126436781609197
+season,Winter,Winter,巨细胞病毒,CMV,Viral pathogens,533,113,21.200750469043154
+season,Spring,Spring,新冠,SARS-CoV-2,Viral pathogens,76945,12247,15.916563779322892
+season,Summer,Summer,新冠,SARS-CoV-2,Viral pathogens,64574,12253,18.97512930900982
+season,Autumn,Autumn,新冠,SARS-CoV-2,Viral pathogens,57383,5830,10.159803426101806
+season,Winter,Winter,新冠,SARS-CoV-2,Viral pathogens,85473,8463,9.901372363202416
+season,Spring,Spring,EB病毒,EBV,Viral pathogens,3660,1074,29.34426229508197
+season,Summer,Summer,EB病毒,EBV,Viral pathogens,3706,881,23.772261198057205
+season,Autumn,Autumn,EB病毒,EBV,Viral pathogens,2186,616,28.179322964318388
+season,Winter,Winter,EB病毒,EBV,Viral pathogens,3598,1086,30.183435241801
+season,Spring,Spring,腺病毒,HAdV,Viral pathogens,60821,2018,3.317932950790023
+season,Summer,Summer,腺病毒,HAdV,Viral pathogens,49644,1878,3.782934493594392
+season,Autumn,Autumn,腺病毒,HAdV,Viral pathogens,60591,2087,3.444405934874816
+season,Winter,Winter,腺病毒,HAdV,Viral pathogens,80501,2542,3.1577247487608853
+season,Spring,Spring,博卡病毒,HBoV,Viral pathogens,16320,76,0.46568627450980393
+season,Summer,Summer,博卡病毒,HBoV,Viral pathogens,14357,353,2.458730932646096
+season,Autumn,Autumn,博卡病毒,HBoV,Viral pathogens,14472,360,2.4875621890547266
+season,Winter,Winter,博卡病毒,HBoV,Viral pathogens,16349,136,0.8318551593369625
+season,Spring,Spring,季节性冠状病毒,HCoV,Viral pathogens,10610,739,6.965127238454288
+season,Summer,Summer,季节性冠状病毒,HCoV,Viral pathogens,9639,661,6.857557837949995
+season,Autumn,Autumn,季节性冠状病毒,HCoV,Viral pathogens,8661,425,4.907054612631336
+season,Winter,Winter,季节性冠状病毒,HCoV,Viral pathogens,9201,690,7.499184871209651
+season,Spring,Spring,偏肺病毒,HMPV,Viral pathogens,8638,575,6.656633479972215
+season,Summer,Summer,偏肺病毒,HMPV,Viral pathogens,6254,53,0.847457627118644
+season,Autumn,Autumn,偏肺病毒,HMPV,Viral pathogens,6877,391,5.68561872909699
+season,Winter,Winter,偏肺病毒,HMPV,Viral pathogens,9065,625,6.894649751792609
+season,Spring,Spring,副流感病毒,HPIV,Viral pathogens,36075,2278,6.314622314622315
+season,Summer,Summer,副流感病毒,HPIV,Viral pathogens,29026,1879,6.473506511403569
+season,Autumn,Autumn,副流感病毒,HPIV,Viral pathogens,34217,1612,4.711108513312096
+season,Winter,Winter,副流感病毒,HPIV,Viral pathogens,40143,1530,3.8113743367461326
+season,Spring,Spring,鼻病毒,HRV,Viral pathogens,19393,3827,19.733924611973393
+season,Summer,Summer,鼻病毒,HRV,Viral pathogens,19758,2890,14.626986537098896
+season,Autumn,Autumn,鼻病毒,HRV,Viral pathogens,16352,4359,26.657289628180038
+season,Winter,Winter,鼻病毒,HRV,Viral pathogens,18681,2563,13.719822279321237
+season,Spring,Spring,单纯疱疹病毒,HSV,Viral pathogens,201,48,23.88059701492537
+season,Summer,Summer,单纯疱疹病毒,HSV,Viral pathogens,211,45,21.32701421800948
+season,Autumn,Autumn,单纯疱疹病毒,HSV,Viral pathogens,271,51,18.81918819188192
+season,Winter,Winter,单纯疱疹病毒,HSV,Viral pathogens,268,40,14.925373134328357
+season,Spring,Spring,流感,IFV,Viral pathogens,158483,20561,12.973631241205682
+season,Summer,Summer,流感,IFV,Viral pathogens,115718,12767,11.03285573549491
+season,Autumn,Autumn,流感,IFV,Viral pathogens,147942,29129,19.689472901542494
+season,Winter,Winter,流感,IFV,Viral pathogens,264139,65351,24.74114008154797
+season,Spring,Spring,呼吸道合胞病毒,RSV,Viral pathogens,63145,4495,7.118536701243171
+season,Summer,Summer,呼吸道合胞病毒,RSV,Viral pathogens,44506,2654,5.963240911337797
+season,Autumn,Autumn,呼吸道合胞病毒,RSV,Viral pathogens,60193,3482,5.78472579868091
+season,Winter,Winter,呼吸道合胞病毒,RSV,Viral pathogens,76203,5058,6.637533955356088
+season,Spring,Spring,肺炎支原体,MP,Bacterial pathogens,105310,15535,14.751685499952522
+season,Summer,Summer,肺炎支原体,MP,Bacterial pathogens,97663,19642,20.1120178573257
+season,Autumn,Autumn,肺炎支原体,MP,Bacterial pathogens,113277,23485,20.732364028002152
+season,Winter,Winter,肺炎支原体,MP,Bacterial pathogens,129908,24102,18.553129907319025
+season,Spring,Spring,肺炎衣原体,CP,Bacterial pathogens,21011,407,1.9370805768407022
+season,Summer,Summer,肺炎衣原体,CP,Bacterial pathogens,22621,396,1.7505857389151673
+season,Autumn,Autumn,肺炎衣原体,CP,Bacterial pathogens,29605,530,1.7902381354500931
+season,Winter,Winter,肺炎衣原体,CP,Bacterial pathogens,28835,735,2.548985607768337
+season,Spring,Spring,百日咳杆菌,B pertussis,Bacterial pathogens,8189,454,5.544022469165954
+season,Summer,Summer,百日咳杆菌,B pertussis,Bacterial pathogens,7429,727,9.785973886121955
+season,Autumn,Autumn,百日咳杆菌,B pertussis,Bacterial pathogens,6327,182,2.8765607712976133
+season,Winter,Winter,百日咳杆菌,B pertussis,Bacterial pathogens,5742,174,3.0303030303030303
+season,Spring,Spring,流感嗜血杆菌,H influenzae,Bacterial pathogens,10206,3129,30.65843621399177
+season,Summer,Summer,流感嗜血杆菌,H influenzae,Bacterial pathogens,5544,1187,21.41053391053391
+season,Autumn,Autumn,流感嗜血杆菌,H influenzae,Bacterial pathogens,7381,2658,36.01138057173825
+season,Winter,Winter,流感嗜血杆菌,H influenzae,Bacterial pathogens,8258,2725,32.998304674255266
+season,Spring,Spring,肺炎克雷伯菌,K pneumoniae,Bacterial pathogens,1188,593,49.91582491582491
+season,Summer,Summer,肺炎克雷伯菌,K pneumoniae,Bacterial pathogens,1173,559,47.655583972719526
+season,Autumn,Autumn,肺炎克雷伯菌,K pneumoniae,Bacterial pathogens,912,556,60.96491228070175
+season,Winter,Winter,肺炎克雷伯菌,K pneumoniae,Bacterial pathogens,831,480,57.761732851985556
+season,Spring,Spring,军团菌,Legionella,Bacterial pathogens,3517,79,2.2462325845891384
+season,Summer,Summer,军团菌,Legionella,Bacterial pathogens,2047,42,2.051783097215437
+season,Autumn,Autumn,军团菌,Legionella,Bacterial pathogens,3512,89,2.5341685649202734
+season,Winter,Winter,军团菌,Legionella,Bacterial pathogens,4387,100,2.279462046956918
+season,Spring,Spring,卡他莫拉菌,M catarrhalis,Bacterial pathogens,1332,128,9.60960960960961
+season,Summer,Summer,卡他莫拉菌,M catarrhalis,Bacterial pathogens,855,99,11.578947368421053
+season,Autumn,Autumn,卡他莫拉菌,M catarrhalis,Bacterial pathogens,666,75,11.26126126126126
+season,Winter,Winter,卡他莫拉菌,M catarrhalis,Bacterial pathogens,1085,84,7.741935483870968
+season,Spring,Spring,结核分枝杆菌,MTB,Bacterial pathogens,9750,1956,20.06153846153846
+season,Summer,Summer,结核分枝杆菌,MTB,Bacterial pathogens,8273,1274,15.399492324428865
+season,Autumn,Autumn,结核分枝杆菌,MTB,Bacterial pathogens,7420,1671,22.52021563342318
+season,Winter,Winter,结核分枝杆菌,MTB,Bacterial pathogens,10901,3713,34.06109531235666
+season,Spring,Spring,铜绿假单胞菌,P aeruginosa,Bacterial pathogens,1927,413,21.43227815256876
+season,Summer,Summer,铜绿假单胞菌,P aeruginosa,Bacterial pathogens,1118,351,31.3953488372093
+season,Autumn,Autumn,铜绿假单胞菌,P aeruginosa,Bacterial pathogens,927,379,40.88457389428263
+season,Winter,Winter,铜绿假单胞菌,P aeruginosa,Bacterial pathogens,2205,348,15.782312925170066
+season,Spring,Spring,金黄色葡萄球菌,S aureus,Bacterial pathogens,4867,666,13.683994246969386
+season,Summer,Summer,金黄色葡萄球菌,S aureus,Bacterial pathogens,4048,595,14.698616600790515
+season,Autumn,Autumn,金黄色葡萄球菌,S aureus,Bacterial pathogens,2891,460,15.91144932549291
+season,Winter,Winter,金黄色葡萄球菌,S aureus,Bacterial pathogens,5308,568,10.7008289374529
+season,Spring,Spring,嗜麦芽窄食单胞菌,S maltophilia,Bacterial pathogens,1272,377,29.638364779874216
+season,Summer,Summer,嗜麦芽窄食单胞菌,S maltophilia,Bacterial pathogens,1293,496,38.36040216550657
+season,Autumn,Autumn,嗜麦芽窄食单胞菌,S maltophilia,Bacterial pathogens,796,323,40.57788944723618
+season,Winter,Winter,嗜麦芽窄食单胞菌,S maltophilia,Bacterial pathogens,919,322,35.03808487486398
+season,Spring,Spring,肺炎链球菌,S pneumoniae,Bacterial pathogens,3303,603,18.256130790190735
+season,Summer,Summer,肺炎链球菌,S pneumoniae,Bacterial pathogens,2006,218,10.867397806580259
+season,Autumn,Autumn,肺炎链球菌,S pneumoniae,Bacterial pathogens,1978,231,11.678463094034377
+season,Winter,Winter,肺炎链球菌,S pneumoniae,Bacterial pathogens,2780,357,12.841726618705035
+season,Spring,Spring,鲍曼不动杆菌,A baumannii,Bacterial pathogens,1809,890,49.19845218352681
+season,Summer,Summer,鲍曼不动杆菌,A baumannii,Bacterial pathogens,1664,813,48.85817307692308
+season,Autumn,Autumn,鲍曼不动杆菌,A baumannii,Bacterial pathogens,1064,573,53.85338345864662
+season,Winter,Winter,鲍曼不动杆菌,A baumannii,Bacterial pathogens,1469,809,55.071477195371
+season,Spring,Spring,曲霉,Aspergillus,Fungi pathogens,542,29,5.350553505535055
+season,Summer,Summer,曲霉,Aspergillus,Fungi pathogens,544,26,4.779411764705882
+season,Autumn,Autumn,曲霉,Aspergillus,Fungi pathogens,171,14,8.187134502923977
+season,Winter,Winter,曲霉,Aspergillus,Fungi pathogens,305,24,7.868852459016394
+season,Spring,Spring,念珠菌,Candida,Fungi pathogens,2636,2249,85.31866464339909
+season,Summer,Summer,念珠菌,Candida,Fungi pathogens,1238,989,79.88691437802909
+season,Autumn,Autumn,念珠菌,Candida,Fungi pathogens,1881,1740,92.50398724082935
+season,Winter,Winter,念珠菌,Candida,Fungi pathogens,1199,743,61.96830692243537
+season,Spring,Spring,隐球菌,Cryptococcus,Fungi pathogens,1557,42,2.697495183044316
+season,Summer,Summer,隐球菌,Cryptococcus,Fungi pathogens,1470,20,1.3605442176870748
+season,Autumn,Autumn,隐球菌,Cryptococcus,Fungi pathogens,731,19,2.5991792065663475
+season,Winter,Winter,隐球菌,Cryptococcus,Fungi pathogens,1094,16,1.4625228519195612
+season,Spring,Spring,肺孢子菌,Pneumocystis,Fungi pathogens,525,36,6.857142857142858
+season,Summer,Summer,肺孢子菌,Pneumocystis,Fungi pathogens,518,26,5.019305019305019
+season,Autumn,Autumn,肺孢子菌,Pneumocystis,Fungi pathogens,233,25,10.72961373390558
+season,Winter,Winter,肺孢子菌,Pneumocystis,Fungi pathogens,261,28,10.727969348659004

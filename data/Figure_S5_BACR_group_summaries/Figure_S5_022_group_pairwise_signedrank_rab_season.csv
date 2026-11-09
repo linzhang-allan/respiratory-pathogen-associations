@@ -1,0 +1,7 @@
+﻿Group A,Group B,Paired pair-count,Group A median Coinfection risk,Group B median Coinfection risk,raw_p_value,p_value,p_value_stars,posthoc_test_applied,posthoc_method
+Spring,Summer,57,0.5972498443490682,0.7135489258890164,0.23490882177923156,0.28189058613507784,,True,Wilcoxon signed-rank with FDR(BH) adjustment
+Spring,Autumn,58,0.6487107405504942,0.9781613309366823,9.025425015493246e-05,0.0005415255009295948,***,True,Wilcoxon signed-rank with FDR(BH) adjustment
+Spring,Winter,54,0.5769883872002723,0.7690376880778579,0.8768817209080458,0.8768817209080458,,True,Wilcoxon signed-rank with FDR(BH) adjustment
+Summer,Autumn,52,0.7658269339625013,1.0454126080575803,0.0003571020545220848,0.0010713061635662545,**,True,Wilcoxon signed-rank with FDR(BH) adjustment
+Summer,Winter,53,0.7511214864672905,0.7741459247070965,0.16628150796111452,0.24942226194167177,,True,Wilcoxon signed-rank with FDR(BH) adjustment
+Autumn,Winter,52,1.0454126080575803,0.7758921495437947,0.0008188956296302775,0.001637791259260555,**,True,Wilcoxon signed-rank with FDR(BH) adjustment

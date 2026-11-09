@@ -1,0 +1,61 @@
+﻿Pair,Pathogen A,Pathogen B,Both tested n,Coinfection n,Coinfection rate (%),Panel n,LRTI rate (%) numerator,LRTI rate (%) denominator,LRTI rate (%),LRTI known n,Hospitalization rate (%) numerator,Hospitalization rate (%) denominator,Hospitalization rate (%),Hospitalization known n,Death rate (%) numerator,Death rate (%) denominator,Death rate (%),Death known n,ICU rate (%) numerator,ICU rate (%) denominator,ICU rate (%),ICU known n,Age section,Panel,Group,Color,Pair display,Has bacterial
+A baumannii + P aeruginosa,A. baumannii,P. aeruginosa,474,319,67.29957805907173,1136872,268.0,319.0,84.01253918495298,319.0,251.0,319.0,78.68338557993731,319.0,5.0,319.0,1.5673981191222568,319.0,70.0,272.0,25.735294117647054,272.0,All ages,All,All ages,#E69F00,"A baumannii +
+P aeruginosa",True
+EBV + HSV,EBV,HSV,107,68,63.55140186915887,1136872,58.0,68.0,85.29411764705883,68.0,61.0,68.0,89.70588235294117,68.0,5.0,67.0,7.462686567164178,67.0,14.0,68.0,20.588235294117645,68.0,All ages,All,All ages,#E69F00,"EBV +
+HSV",False
+K pneumoniae + P aeruginosa,K. pneumoniae,P. aeruginosa,619,390,63.004846526655896,1136872,331.0,390.0,84.87179487179488,390.0,315.0,390.0,80.76923076923077,390.0,5.0,385.0,1.2987012987012987,385.0,96.0,326.0,29.4478527607362,326.0,All ages,All,All ages,#E69F00,"K pneumoniae +
+P aeruginosa",True
+P aeruginosa + S maltophilia,P. aeruginosa,S. maltophilia,479,283,59.081419624217126,1136872,232.0,283.0,81.97879858657244,283.0,211.0,283.0,74.55830388692578,283.0,2.0,283.0,0.7067137809187279,283.0,41.0,252.0,16.26984126984127,252.0,All ages,All,All ages,#E69F00,"P aeruginosa +
+S maltophilia",True
+CMV + EBV,CMV,EBV,527,263,49.905123339658445,1136872,179.0,263.0,68.06083650190115,263.0,232.0,263.0,88.212927756654,263.0,3.0,258.0,1.162790697674419,258.0,29.0,260.0,11.153846153846157,260.0,All ages,All,All ages,#E69F00,"CMV +
+EBV",False
+Candida + HMPV,Candida,HMPV,118,36,30.508474576271187,144167,36.0,36.0,100.0,36.0,36.0,36.0,100.0,36.0,0.0,17.0,0.0,17.0,0.0,36.0,0.0,36.0,Children (<5 years),All,Children (<5 years),#2C9A66,"Candida +
+HMPV",False
+Candida + HRV,Candida,HRV,893,266,29.78723404255319,144167,248.0,266.0,93.23308270676692,266.0,265.0,266.0,99.62406015037594,266.0,0.0,249.0,0.0,249.0,6.0,265.0,2.2641509433962264,265.0,Children (<5 years),All,Children (<5 years),#2C9A66,"Candida +
+HRV",False
+Candida + RSV,Candida,RSV,896,217,24.21875,144167,214.0,217.0,98.61751152073732,217.0,217.0,217.0,100.0,217.0,0.0,206.0,0.0,206.0,5.0,217.0,2.3041474654377883,217.0,Children (<5 years),All,Children (<5 years),#2C9A66,"Candida +
+RSV",False
+Candida + S pneumoniae,Candida,S. pneumoniae,263,56,21.29277566539924,144167,53.0,56.0,94.64285714285714,56.0,54.0,56.0,96.42857142857144,56.0,0.0,51.0,0.0,51.0,0.0,56.0,0.0,56.0,Children (<5 years),All,Children (<5 years),#2C9A66,"Candida +
+S pneumoniae",True
+EBV + MP,EBV,MP,287,41,14.285714285714285,144167,38.0,41.0,92.6829268292683,41.0,24.0,41.0,58.53658536585365,41.0,0.0,28.0,0.0,28.0,2.0,27.0,7.4074074074074066,27.0,Children (<5 years),All,Children (<5 years),#2C9A66,"EBV +
+MP",False
+EBV + H influenzae,EBV,H. influenzae,119,32,26.89075630252101,298416,30.0,32.0,93.75,32.0,19.0,32.0,59.375,32.0,0.0,19.0,0.0,19.0,4.0,19.0,21.052631578947366,19.0,Adolescents (5-17 years),All,Adolescents (5-17 years),#3B6FB6,"EBV +
+H influenzae",True
+Candida + HRV,Candida,HRV,1472,372,25.271739130434785,298416,318.0,372.0,85.48387096774194,372.0,371.0,372.0,99.73118279569891,372.0,0.0,350.0,0.0,350.0,17.0,371.0,4.5822102425876015,371.0,Adolescents (5-17 years),All,Adolescents (5-17 years),#3B6FB6,"Candida +
+HRV",False
+EBV + S pneumoniae,EBV,S. pneumoniae,101,25,24.752475247524757,298416,23.0,25.0,92.0,25.0,17.0,25.0,68.0,25.0,0.0,17.0,0.0,17.0,3.0,17.0,17.647058823529413,17.0,Adolescents (5-17 years),All,Adolescents (5-17 years),#3B6FB6,"EBV +
+S pneumoniae",True
+CP + EBV,CP,EBV,209,48,22.96650717703349,298416,48.0,48.0,100.0,48.0,23.0,48.0,47.91666666666667,48.0,0.0,23.0,0.0,23.0,2.0,23.0,8.695652173913043,23.0,Adolescents (5-17 years),All,Adolescents (5-17 years),#3B6FB6,"CP +
+EBV",False
+Candida + HMPV,Candida,HMPV,169,31,18.34319526627219,298416,31.0,31.0,100.0,31.0,31.0,31.0,100.0,31.0,0.0,22.0,0.0,22.0,2.0,31.0,6.451612903225806,31.0,Adolescents (5-17 years),All,Adolescents (5-17 years),#3B6FB6,"Candida +
+HMPV",False
+CMV + EBV,CMV,EBV,137,70,51.09489051094891,278393,42.0,70.0,60.0,70.0,57.0,70.0,81.42857142857143,70.0,0.0,68.0,0.0,68.0,5.0,69.0,7.246376811594203,69.0,Adults (18-60 years),All,Adults (18-60 years),#8E6BBE,"CMV +
+EBV",False
+K pneumoniae + P aeruginosa,K. pneumoniae,P. aeruginosa,113,47,41.5929203539823,278393,40.0,47.0,85.1063829787234,47.0,40.0,47.0,85.1063829787234,47.0,0.0,46.0,0.0,46.0,11.0,38.0,28.947368421052637,38.0,Adults (18-60 years),All,Adults (18-60 years),#8E6BBE,"K pneumoniae +
+P aeruginosa",True
+A baumannii + EBV,A. baumannii,EBV,140,39,27.857142857142858,278393,31.0,39.0,79.48717948717949,39.0,28.0,39.0,71.7948717948718,39.0,0.0,33.0,0.0,33.0,0.0,37.0,0.0,37.0,Adults (18-60 years),All,Adults (18-60 years),#8E6BBE,"A baumannii +
+EBV",True
+EBV + S aureus,EBV,S. aureus,212,41,19.33962264150944,278393,25.0,41.0,60.97560975609756,41.0,28.0,41.0,68.29268292682927,41.0,1.0,36.0,2.7777777777777777,36.0,3.0,40.0,7.5,40.0,Adults (18-60 years),All,Adults (18-60 years),#8E6BBE,"EBV +
+S aureus",True
+A baumannii + K pneumoniae,A. baumannii,K. pneumoniae,221,39,17.647058823529413,278393,29.0,39.0,74.35897435897436,39.0,31.0,39.0,79.48717948717949,39.0,1.0,38.0,2.631578947368421,38.0,6.0,36.0,16.666666666666664,36.0,Adults (18-60 years),All,Adults (18-60 years),#8E6BBE,"A baumannii +
+K pneumoniae",True
+A baumannii + P aeruginosa,A. baumannii,P. aeruginosa,245,146,59.591836734693885,196381,143.0,146.0,97.94520547945206,146.0,143.0,146.0,97.94520547945206,146.0,4.0,146.0,2.73972602739726,146.0,43.0,104.0,41.34615384615385,104.0,Older adults (>60 years),All,Older adults (>60 years),#D64F45,"A baumannii +
+P aeruginosa",True
+K pneumoniae + P aeruginosa,K. pneumoniae,P. aeruginosa,334,197,58.98203592814372,196381,190.0,197.0,96.4467005076142,197.0,191.0,197.0,96.95431472081218,197.0,4.0,197.0,2.030456852791878,197.0,67.0,142.0,47.183098591549296,142.0,Older adults (>60 years),All,Older adults (>60 years),#D64F45,"K pneumoniae +
+P aeruginosa",True
+P aeruginosa + S maltophilia,P. aeruginosa,S. maltophilia,235,116,49.361702127659576,196381,113.0,116.0,97.41379310344828,116.0,110.0,116.0,94.82758620689656,116.0,2.0,116.0,1.7241379310344829,116.0,30.0,90.0,33.33333333333333,90.0,Older adults (>60 years),All,Older adults (>60 years),#D64F45,"P aeruginosa +
+S maltophilia",True
+A baumannii + EBV,A. baumannii,EBV,376,178,47.340425531914896,196381,175.0,178.0,98.31460674157304,178.0,171.0,178.0,96.06741573033707,178.0,14.0,178.0,7.865168539325842,178.0,39.0,178.0,21.910112359550563,178.0,Older adults (>60 years),All,Older adults (>60 years),#D64F45,"A baumannii +
+EBV",True
+EBV + S maltophilia,EBV,S. maltophilia,295,124,42.03389830508474,196381,122.0,124.0,98.38709677419357,124.0,119.0,124.0,95.96774193548389,124.0,12.0,124.0,9.67741935483871,124.0,42.0,124.0,33.87096774193548,124.0,Older adults (>60 years),All,Older adults (>60 years),#D64F45,"EBV +
+S maltophilia",True
+K pneumoniae + P aeruginosa,K. pneumoniae,P. aeruginosa,136,132,97.05882352941175,219515,,,,,,,,,,,,,,,,,Unknown,All,Unknown age,#7F7F7F,"K pneumoniae +
+P aeruginosa",True
+A baumannii + P aeruginosa,A. baumannii,P. aeruginosa,147,131,89.1156462585034,219515,,,,,,,,,,,,,,,,,Unknown,All,Unknown age,#7F7F7F,"A baumannii +
+P aeruginosa",True
+P aeruginosa + S maltophilia,P. aeruginosa,S. maltophilia,128,113,88.28125,219515,,,,,,,,,,,,,,,,,Unknown,All,Unknown age,#7F7F7F,"P aeruginosa +
+S maltophilia",True
+K pneumoniae + S maltophilia,K. pneumoniae,S. maltophilia,149,120,80.53691275167785,219515,,,,,,,,,,,,,,,,,Unknown,All,Unknown age,#7F7F7F,"K pneumoniae +
+S maltophilia",True
+S pneumoniae + K pneumoniae,S. pneumoniae,K. pneumoniae,142,114,80.28169014084507,219515,,,,,,,,,,,,,,,,,Unknown,All,Unknown age,#7F7F7F,"S pneumoniae +
+K pneumoniae",True

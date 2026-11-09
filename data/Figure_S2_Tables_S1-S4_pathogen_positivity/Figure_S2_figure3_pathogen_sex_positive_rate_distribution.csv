@@ -1,0 +1,59 @@
+﻿Stratification,Stratum code,Stratum,Pathogen zh,Pathogen,Pathogen family,Tested encounters,Positive encounters,Positive rate (%)
+sex,Male,Male,巨细胞病毒,CMV,Viral pathogens,1358,285,20.986745213549337
+sex,Female,Female,巨细胞病毒,CMV,Viral pathogens,908,214,23.568281938325992
+sex,Male,Male,新冠,SARS-CoV-2,Viral pathogens,155074,19923,12.847414782619909
+sex,Female,Female,新冠,SARS-CoV-2,Viral pathogens,141243,21345,15.112253350608526
+sex,Male,Male,EB病毒,EBV,Viral pathogens,7478,2210,29.55335651243648
+sex,Female,Female,EB病毒,EBV,Viral pathogens,6718,1598,23.78684132182197
+sex,Male,Male,腺病毒,HAdV,Viral pathogens,138015,4674,3.3865884143027927
+sex,Female,Female,腺病毒,HAdV,Viral pathogens,126539,3998,3.159500233129707
+sex,Male,Male,博卡病毒,HBoV,Viral pathogens,37104,569,1.5335273824924536
+sex,Female,Female,博卡病毒,HBoV,Viral pathogens,25604,360,1.4060303077644118
+sex,Male,Male,季节性冠状病毒,HCoV,Viral pathogens,23030,1363,5.918367346938775
+sex,Female,Female,季节性冠状病毒,HCoV,Viral pathogens,16213,1278,7.882563375069389
+sex,Male,Male,偏肺病毒,HMPV,Viral pathogens,19134,932,4.870910421239678
+sex,Female,Female,偏肺病毒,HMPV,Viral pathogens,12822,739,5.763531430354079
+sex,Male,Male,副流感病毒,HPIV,Viral pathogens,83625,4184,5.003288490284006
+sex,Female,Female,副流感病毒,HPIV,Viral pathogens,67002,3334,4.975970866541298
+sex,Male,Male,鼻病毒,HRV,Viral pathogens,43759,8342,19.06350693571608
+sex,Female,Female,鼻病毒,HRV,Viral pathogens,31290,5438,17.37935442633429
+sex,Male,Male,单纯疱疹病毒,HSV,Viral pathogens,547,127,23.217550274223033
+sex,Female,Female,单纯疱疹病毒,HSV,Viral pathogens,407,58,14.250614250614252
+sex,Male,Male,流感,IFV,Viral pathogens,370971,68462,18.45481183165261
+sex,Female,Female,流感,IFV,Viral pathogens,346528,62511,18.039234924739127
+sex,Male,Male,呼吸道合胞病毒,RSV,Viral pathogens,138442,9132,6.596264139495239
+sex,Female,Female,呼吸道合胞病毒,RSV,Viral pathogens,120895,7021,5.807518921378056
+sex,Male,Male,肺炎支原体,MP,Bacterial pathogens,243175,42370,17.423666084095814
+sex,Female,Female,肺炎支原体,MP,Bacterial pathogens,219193,42380,19.334559041575233
+sex,Male,Male,肺炎衣原体,CP,Bacterial pathogens,55266,1037,1.8763796909492272
+sex,Female,Female,肺炎衣原体,CP,Bacterial pathogens,51861,1146,2.20975299357899
+sex,Male,Male,百日咳杆菌,B pertussis,Bacterial pathogens,15776,875,5.546399594320487
+sex,Female,Female,百日咳杆菌,B pertussis,Bacterial pathogens,12068,667,5.527013589658601
+sex,Male,Male,流感嗜血杆菌,H influenzae,Bacterial pathogens,22432,9651,43.02335948644793
+sex,Female,Female,流感嗜血杆菌,H influenzae,Bacterial pathogens,15735,5924,37.64855417858278
+sex,Male,Male,肺炎克雷伯菌,K pneumoniae,Bacterial pathogens,2557,1502,58.74071177160736
+sex,Female,Female,肺炎克雷伯菌,K pneumoniae,Bacterial pathogens,1579,713,45.15516149461685
+sex,Male,Male,军团菌,Legionella,Bacterial pathogens,9381,181,1.9294318302952775
+sex,Female,Female,军团菌,Legionella,Bacterial pathogens,7473,140,1.8734109460725277
+sex,Male,Male,卡他莫拉菌,M catarrhalis,Bacterial pathogens,2324,209,8.993115318416525
+sex,Female,Female,卡他莫拉菌,M catarrhalis,Bacterial pathogens,1639,179,10.921293471629042
+sex,Male,Male,结核分枝杆菌,MTB,Bacterial pathogens,22063,5020,22.753025427185786
+sex,Female,Female,结核分枝杆菌,MTB,Bacterial pathogens,14641,3753,25.6334949798511
+sex,Male,Male,铜绿假单胞菌,P aeruginosa,Bacterial pathogens,3752,1006,26.812366737739872
+sex,Female,Female,铜绿假单胞菌,P aeruginosa,Bacterial pathogens,2468,505,20.461912479740683
+sex,Male,Male,金黄色葡萄球菌,S aureus,Bacterial pathogens,10203,1397,13.692051357443887
+sex,Female,Female,金黄色葡萄球菌,S aureus,Bacterial pathogens,8013,988,12.329963808810684
+sex,Male,Male,嗜麦芽窄食单胞菌,S maltophilia,Bacterial pathogens,2944,1079,36.650815217391305
+sex,Female,Female,嗜麦芽窄食单胞菌,S maltophilia,Bacterial pathogens,1642,444,27.040194884287455
+sex,Male,Male,肺炎链球菌,S pneumoniae,Bacterial pathogens,5865,871,14.85080988917306
+sex,Female,Female,肺炎链球菌,S pneumoniae,Bacterial pathogens,4248,546,12.85310734463277
+sex,Male,Male,鲍曼不动杆菌,A baumannii,Bacterial pathogens,4088,2156,52.73972602739726
+sex,Female,Female,鲍曼不动杆菌,A baumannii,Bacterial pathogens,2241,960,42.8380187416332
+sex,Male,Male,曲霉,Aspergillus,Fungi pathogens,968,61,6.301652892561983
+sex,Female,Female,曲霉,Aspergillus,Fungi pathogens,721,43,5.9639389736477115
+sex,Male,Male,念珠菌,Candida,Fungi pathogens,3961,3280,82.80737187578893
+sex,Female,Female,念珠菌,Candida,Fungi pathogens,3058,2499,81.72007848266841
+sex,Male,Male,隐球菌,Cryptococcus,Fungi pathogens,2987,66,2.2095748242383664
+sex,Female,Female,隐球菌,Cryptococcus,Fungi pathogens,2000,37,1.8499999999999999
+sex,Male,Male,肺孢子菌,Pneumocystis,Fungi pathogens,920,89,9.67391304347826
+sex,Female,Female,肺孢子菌,Pneumocystis,Fungi pathogens,658,30,4.5592705167173255

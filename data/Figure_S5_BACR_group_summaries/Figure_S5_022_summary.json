@@ -1,0 +1,111 @@
+{
+  "master_table": "/data/zhangl/coinfection/codemulti_cleaned_data_ai/06_patient_window_master_igm/patient_window_master_deNone.csv",
+  "output_dir": "/data/zhangl/coinfection/codemulti_cleaned_data_ai/rti_plot_ai/022_group_rab_boxplots",
+  "pathogen_mapping_csv": "/data/zhangl/coinfection/codemulti_cleaned_data_ai/rti_plot_ai/01_population_level_times/pathogen_name_mapping.csv",
+  "target_pathogen_count": 29,
+  "used_pathogen_count": 29,
+  "used_pathogens": [
+    "A. baumannii",
+    "B. pertussis",
+    "CP",
+    "H. influenzae",
+    "K. pneumoniae",
+    "Legionella",
+    "M. catarrhalis",
+    "MP",
+    "MTB",
+    "P. aeruginosa",
+    "S. aureus",
+    "S. maltophilia",
+    "S. pneumoniae",
+    "Aspergillus",
+    "Candida",
+    "Cryptococcus",
+    "Pneumocystis",
+    "CMV",
+    "COVID-19",
+    "EBV",
+    "HAdV",
+    "HBoV",
+    "HCoV",
+    "HMPV",
+    "HPIV",
+    "HRV",
+    "HSV",
+    "IFV",
+    "RSV"
+  ],
+  "min_date": "2023-07-15",
+  "max_date": "2026-04-01",
+  "group_date_batch": "month",
+  "min_single_tested": 500,
+  "min_both_tested": 50,
+  "min_fit_points": 6,
+  "min_rate_both_tested": 100,
+  "north_region_labels": [
+    "Beijing",
+    "Heilongjiang",
+    "Henan",
+    "Liaoning",
+    "Shaanxi",
+    "Shanxi",
+    "Xinjiang"
+  ],
+  "south_region_labels": [
+    "Guangdong",
+    "Hubei",
+    "Hunan",
+    "Jiangsu",
+    "Jiangxi",
+    "Shanghai",
+    "Sichuan",
+    "Yunnan",
+    "Zhejiang"
+  ],
+  "stratification_keys": [
+    "age"
+  ],
+  "results": {
+    "age": {
+      "stratification": "age",
+      "rab": {
+        "group_count": 4,
+        "pair_rows": 183,
+        "global_test": {
+          "group_count": 4,
+          "test_method": "Friedman",
+          "global_statistic": 15.342857142857156,
+          "global_p_value": 0.0015459030469467674,
+          "global_p_value_stars": "**",
+          "complete_pair_count": 21
+        },
+        "files": {
+          "value_csv": "/data/zhangl/coinfection/codemulti_cleaned_data_ai/rti_plot_ai/022_group_rab_boxplots/022_group_pair_rab_age.csv",
+          "pairwise_csv": "/data/zhangl/coinfection/codemulti_cleaned_data_ai/rti_plot_ai/022_group_rab_boxplots/022_group_pairwise_signedrank_rab_age.csv",
+          "pairwise_matrix_csv": "/data/zhangl/coinfection/codemulti_cleaned_data_ai/rti_plot_ai/022_group_rab_boxplots/022_group_pairwise_signedrank_rab_age_matrix.csv",
+          "pairwise_stars_matrix_csv": "/data/zhangl/coinfection/codemulti_cleaned_data_ai/rti_plot_ai/022_group_rab_boxplots/022_group_pairwise_signedrank_rab_age_stars_matrix.csv",
+          "boxplot_png": "/data/zhangl/coinfection/codemulti_cleaned_data_ai/rti_plot_ai/022_group_rab_boxplots/022_group_rab_boxplot_age.png"
+        }
+      },
+      "coinfection_rate": {
+        "group_count": 4,
+        "pair_rows": 927,
+        "global_test": {
+          "group_count": 4,
+          "test_method": "Friedman",
+          "global_statistic": 18.618710134656325,
+          "global_p_value": 0.00032779131725889246,
+          "global_p_value_stars": "***",
+          "complete_pair_count": 147
+        },
+        "files": {
+          "value_csv": "/data/zhangl/coinfection/codemulti_cleaned_data_ai/rti_plot_ai/022_group_rab_boxplots/022_group_pair_coinfection_rate_age.csv",
+          "pairwise_csv": "/data/zhangl/coinfection/codemulti_cleaned_data_ai/rti_plot_ai/022_group_rab_boxplots/022_group_pairwise_signedrank_coinfection_rate_age.csv",
+          "pairwise_matrix_csv": "/data/zhangl/coinfection/codemulti_cleaned_data_ai/rti_plot_ai/022_group_rab_boxplots/022_group_pairwise_signedrank_coinfection_rate_age_matrix.csv",
+          "pairwise_stars_matrix_csv": "/data/zhangl/coinfection/codemulti_cleaned_data_ai/rti_plot_ai/022_group_rab_boxplots/022_group_pairwise_signedrank_coinfection_rate_age_stars_matrix.csv",
+          "boxplot_png": "/data/zhangl/coinfection/codemulti_cleaned_data_ai/rti_plot_ai/022_group_rab_boxplots/022_group_coinfection_rate_boxplot_age.png"
+        }
+      }
+    }
+  }
+}

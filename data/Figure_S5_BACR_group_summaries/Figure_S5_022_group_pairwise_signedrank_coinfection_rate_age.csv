@@ -1,0 +1,7 @@
+﻿Group A,Group B,Paired pair-count,Group A median Observed coinfection rate,Group B median Observed coinfection rate,raw_p_value,p_value,p_value_stars,posthoc_test_applied,posthoc_method
+<5 years,5-18 years,159,0.006338371526084837,0.008849557522123894,0.55454356781514,0.7996187720626031,,True,Wilcoxon signed-rank with FDR(BH) adjustment
+<5 years,18-60 years,147,0.006382978723404255,0.00993425858290723,0.666348976718836,0.7996187720626031,,True,Wilcoxon signed-rank with FDR(BH) adjustment
+<5 years,>60 years,150,0.007168458781362007,0.006330884046691921,0.02768565271589501,0.05537130543179002,,True,Wilcoxon signed-rank with FDR(BH) adjustment
+5-18 years,18-60 years,179,0.009433962264150943,0.009387351778656126,0.9848369055254774,0.9848369055254774,,True,Wilcoxon signed-rank with FDR(BH) adjustment
+5-18 years,>60 years,187,0.009966777408637873,0.006417516043790109,0.01905254118617597,0.05537130543179002,,True,Wilcoxon signed-rank with FDR(BH) adjustment
+18-60 years,>60 years,252,0.009061931910004106,0.006347151864737334,0.010670542108507182,0.05537130543179002,,True,Wilcoxon signed-rank with FDR(BH) adjustment

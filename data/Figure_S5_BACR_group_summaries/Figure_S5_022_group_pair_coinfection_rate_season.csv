@@ -1,0 +1,1068 @@
+﻿Stratification,Group key,Group,Pathogen A,Pathogen B,Pair label,A tested total,B tested total,Both tested total,Both positive total,Eligible A tested total,Eligible B tested total,Eligible both tested total,Eligible both positive total,Eligible time bins,Dropped time bins,"Observed coinfection rate P(a,b) before filtering","Observed coinfection rate P(a,b)",Coinfection risk,Pass tested threshold,"Pass R(a,b) threshold","R(a,b) valid points",Complete across groups
+season,Spring,Spring,A. baumannii,B. pertussis,A. baumannii + B. pertussis,1809,8189,230,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Spring,Spring,A. baumannii,CP,A. baumannii + CP,1809,21011,194,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Spring,Spring,A. baumannii,H. influenzae,A. baumannii + H. influenzae,1809,10206,852,64,0,0,0,0,0,34,0.07511737089201878,0.07511737089201878,,True,False,0,True
+season,Spring,Spring,A. baumannii,K. pneumoniae,A. baumannii + K. pneumoniae,1809,1188,329,112,0,0,0,0,0,34,0.3404255319148936,0.3404255319148936,,True,False,0,True
+season,Spring,Spring,A. baumannii,M. catarrhalis,A. baumannii + M. catarrhalis,1809,1332,394,3,0,0,0,0,0,34,0.007614213197969543,0.007614213197969543,,True,False,0,True
+season,Spring,Spring,A. baumannii,MP,A. baumannii + MP,1809,105310,720,1,0,0,0,0,0,34,0.001388888888888889,0.001388888888888889,,True,False,0,True
+season,Spring,Spring,A. baumannii,MTB,A. baumannii + MTB,1809,9750,398,37,0,0,0,0,0,34,0.09296482412060302,0.09296482412060302,,True,False,0,True
+season,Spring,Spring,A. baumannii,P. aeruginosa,A. baumannii + P. aeruginosa,1809,1927,151,114,0,0,0,0,0,34,0.7549668874172185,0.7549668874172185,,True,False,0,False
+season,Spring,Spring,A. baumannii,S. aureus,A. baumannii + S. aureus,1809,4867,969,110,0,0,0,0,0,34,0.11351909184726522,0.11351909184726522,,True,False,0,True
+season,Spring,Spring,A. baumannii,S. maltophilia,A. baumannii + S. maltophilia,1809,1272,927,138,0,0,0,0,0,34,0.1488673139158576,0.1488673139158576,,True,False,0,True
+season,Spring,Spring,A. baumannii,S. pneumoniae,A. baumannii + S. pneumoniae,1809,3303,254,57,0,0,0,0,0,34,0.22440944881889763,0.22440944881889763,,True,False,0,False
+season,Spring,Spring,A. baumannii,Aspergillus,A. baumannii + Aspergillus,1809,542,208,2,0,0,0,0,0,34,0.009615384615384616,0.009615384615384616,,True,False,0,False
+season,Spring,Spring,A. baumannii,Cryptococcus,A. baumannii + Cryptococcus,1809,1557,256,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,False
+season,Spring,Spring,A. baumannii,Pneumocystis,A. baumannii + Pneumocystis,1809,525,219,2,0,0,0,0,0,34,0.0091324200913242,0.0091324200913242,,True,False,0,False
+season,Spring,Spring,A. baumannii,COVID-19,A. baumannii + COVID-19,1809,76945,436,43,0,0,0,0,0,34,0.09862385321100918,0.09862385321100918,,True,False,0,True
+season,Spring,Spring,A. baumannii,EBV,A. baumannii + EBV,1809,3660,141,54,0,0,0,0,0,34,0.3829787234042553,0.3829787234042553,,True,False,0,False
+season,Spring,Spring,A. baumannii,HAdV,A. baumannii + HAdV,1809,60821,147,1,0,0,0,0,0,34,0.006802721088435374,0.006802721088435374,,True,False,0,False
+season,Spring,Spring,A. baumannii,HBoV,A. baumannii + HBoV,1809,16320,275,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Spring,Spring,A. baumannii,HMPV,A. baumannii + HMPV,1809,8638,220,2,0,0,0,0,0,34,0.00909090909090909,0.00909090909090909,,True,False,0,False
+season,Spring,Spring,A. baumannii,HPIV,A. baumannii + HPIV,1809,36075,364,7,0,0,0,0,0,34,0.019230769230769232,0.019230769230769232,,True,False,0,True
+season,Spring,Spring,A. baumannii,HRV,A. baumannii + HRV,1809,19393,145,4,0,0,0,0,0,34,0.027586206896551724,0.027586206896551724,,True,False,0,True
+season,Spring,Spring,A. baumannii,IFV,A. baumannii + IFV,1809,158483,570,40,0,0,0,0,0,34,0.07017543859649122,0.07017543859649122,,True,False,0,True
+season,Spring,Spring,A. baumannii,RSV,A. baumannii + RSV,1809,63145,272,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Spring,Spring,B. pertussis,CP,B. pertussis + CP,8189,21011,171,3,1656,4062,63,2,1,33,0.017543859649122806,0.017543859649122806,,True,False,1,False
+season,Spring,Spring,B. pertussis,H. influenzae,B. pertussis + H. influenzae,8189,10206,1936,22,6411,8374,1526,13,5,29,0.011363636363636364,0.011363636363636364,,True,False,5,True
+season,Spring,Spring,B. pertussis,K. pneumoniae,B. pertussis + K. pneumoniae,8189,1188,130,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,False
+season,Spring,Spring,B. pertussis,M. catarrhalis,B. pertussis + M. catarrhalis,8189,1332,885,4,0,0,0,0,0,34,0.004519774011299435,0.004519774011299435,,True,False,0,True
+season,Spring,Spring,B. pertussis,MP,B. pertussis + MP,8189,105310,5476,34,7254,86156,4808,30,6,28,0.00620891161431702,0.00620891161431702,0.483855827620115,True,True,6,True
+season,Spring,Spring,B. pertussis,MTB,B. pertussis + MTB,8189,9750,236,0,2719,3974,139,0,2,32,0.0,0.0,,True,False,2,True
+season,Spring,Spring,B. pertussis,S. aureus,B. pertussis + S. aureus,8189,4867,284,0,4375,3238,196,0,3,31,0.0,0.0,,True,False,3,True
+season,Spring,Spring,B. pertussis,S. maltophilia,B. pertussis + S. maltophilia,8189,1272,231,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Spring,Spring,B. pertussis,S. pneumoniae,B. pertussis + S. pneumoniae,8189,3303,884,8,4375,2460,420,0,3,31,0.00904977375565611,0.00904977375565611,,True,False,3,True
+season,Spring,Spring,B. pertussis,Candida,B. pertussis + Candida,8189,2636,273,1,2719,1640,224,1,2,32,0.003663003663003663,0.003663003663003663,,True,False,2,False
+season,Spring,Spring,B. pertussis,COVID-19,B. pertussis + COVID-19,8189,76945,3451,12,7254,52780,2982,10,6,28,0.0034772529701535787,0.0034772529701535787,0.7741866224229487,True,True,6,True
+season,Spring,Spring,B. pertussis,HAdV,B. pertussis + HAdV,8189,60821,1321,0,4939,35946,1218,0,4,30,0.0,0.0,,True,False,4,True
+season,Spring,Spring,B. pertussis,HBoV,B. pertussis + HBoV,8189,16320,2911,0,6690,13141,2493,0,5,29,0.0,0.0,,True,False,5,True
+season,Spring,Spring,B. pertussis,HCoV,B. pertussis + HCoV,8189,10610,1757,2,6690,8626,1483,1,5,29,0.0011383039271485487,0.0011383039271485487,,True,False,5,True
+season,Spring,Spring,B. pertussis,HMPV,B. pertussis + HMPV,8189,8638,398,0,4375,4706,393,0,3,31,0.0,0.0,,True,False,3,False
+season,Spring,Spring,B. pertussis,HPIV,B. pertussis + HPIV,8189,36075,2931,6,6690,28179,2512,5,5,29,0.0020470829068577278,0.0020470829068577278,,True,False,5,True
+season,Spring,Spring,B. pertussis,HRV,B. pertussis + HRV,8189,19393,3105,34,7254,16188,2593,25,6,28,0.010950080515297906,0.010950080515297906,0.7176287912237528,True,True,6,True
+season,Spring,Spring,B. pertussis,IFV,B. pertussis + IFV,8189,158483,4507,10,7254,115177,3932,8,6,28,0.002218770800976259,0.002218770800976259,0.4981278719477779,True,True,6,True
+season,Spring,Spring,B. pertussis,RSV,B. pertussis + RSV,8189,63145,3741,9,6690,46833,3274,8,5,29,0.0024057738572574178,0.0024057738572574178,,True,False,5,True
+season,Spring,Spring,CP,H. influenzae,CP + H. influenzae,21011,10206,219,12,8467,4083,124,7,2,32,0.0547945205479452,0.0547945205479452,,True,False,2,False
+season,Spring,Spring,CP,Legionella,CP + Legionella,21011,3517,1389,1,10913,2173,796,1,3,31,0.0007199424046076314,0.0007199424046076314,,True,False,3,True
+season,Spring,Spring,CP,MP,CP + MP,21011,105310,19882,272,18210,93006,17189,225,7,27,0.013680716225731818,0.013680716225731818,4.636272678393201,True,True,7,True
+season,Spring,Spring,CP,MTB,CP + MTB,21011,9750,1194,4,15812,8174,1080,4,6,28,0.0033500837520938024,0.0033500837520938024,1.2778229995917831,True,True,6,True
+season,Spring,Spring,CP,P. aeruginosa,CP + P. aeruginosa,21011,1927,123,2,4062,563,57,1,1,33,0.016260162601626018,0.016260162601626018,,True,False,1,False
+season,Spring,Spring,CP,S. aureus,CP + S. aureus,21011,4867,255,7,10913,3238,185,5,3,31,0.027450980392156862,0.027450980392156862,,True,False,3,False
+season,Spring,Spring,CP,S. pneumoniae,CP + S. pneumoniae,21011,3303,170,8,4062,886,67,4,1,33,0.047058823529411764,0.047058823529411764,,True,False,1,False
+season,Spring,Spring,CP,Aspergillus,CP + Aspergillus,21011,542,150,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,False
+season,Spring,Spring,CP,Candida,CP + Candida,21011,2636,153,1,0,0,0,0,0,34,0.006535947712418301,0.006535947712418301,,True,False,0,False
+season,Spring,Spring,CP,Cryptococcus,CP + Cryptococcus,21011,1557,255,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Spring,Spring,CP,Pneumocystis,CP + Pneumocystis,21011,525,143,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,False
+season,Spring,Spring,CP,COVID-19,CP + COVID-19,21011,76945,6990,8,18210,66391,6472,5,7,27,0.0011444921316165952,0.0011444921316165952,0.1142298897430883,True,True,7,True
+season,Spring,Spring,CP,EBV,CP + EBV,21011,3660,507,46,6508,1945,262,37,2,32,0.09072978303747535,0.09072978303747535,,True,False,2,True
+season,Spring,Spring,CP,HAdV,CP + HAdV,21011,60821,17163,25,18210,53907,14790,24,7,27,0.001456621802715143,0.001456621802715143,2.643369554198753,True,True,7,True
+season,Spring,Spring,CP,HBoV,CP + HBoV,21011,16320,5137,0,15812,15243,4764,0,6,28,0.0,0.0,0.0,True,True,6,True
+season,Spring,Spring,CP,HCoV,CP + HCoV,21011,10610,743,0,12652,6940,670,0,4,30,0.0,0.0,,True,False,4,True
+season,Spring,Spring,CP,HMPV,CP + HMPV,21011,8638,5127,1,15812,8053,4754,1,6,28,0.0001950458357714063,0.0001950458357714063,0.16694801416807703,True,True,6,True
+season,Spring,Spring,CP,HPIV,CP + HPIV,21011,36075,7944,28,18210,32773,7427,27,7,27,0.003524672708962739,0.003524672708962739,3.908929675609757,True,True,7,True
+season,Spring,Spring,CP,HRV,CP + HRV,21011,19393,3777,12,18210,18442,3599,12,7,27,0.003177124702144559,0.003177124702144559,0.8873816377500253,True,True,7,True
+season,Spring,Spring,CP,IFV,CP + IFV,21011,158483,11866,32,18210,136050,10213,30,7,27,0.0026967807180178663,0.0026967807180178663,1.4915780158317744,True,True,7,True
+season,Spring,Spring,CP,RSV,CP + RSV,21011,63145,10532,36,18210,56663,9376,35,7,27,0.003418154196733764,0.003418154196733764,3.991027297543544,True,True,7,True
+season,Spring,Spring,H. influenzae,K. pneumoniae,H. influenzae + K. pneumoniae,10206,1188,570,69,0,0,0,0,0,34,0.12105263157894737,0.12105263157894737,,True,False,0,True
+season,Spring,Spring,H. influenzae,Legionella,H. influenzae + Legionella,10206,3517,1730,6,6152,2173,1222,3,3,31,0.003468208092485549,0.003468208092485549,,True,False,3,True
+season,Spring,Spring,H. influenzae,M. catarrhalis,H. influenzae + M. catarrhalis,10206,1332,1226,65,0,0,0,0,0,34,0.05301794453507341,0.05301794453507341,,True,False,0,True
+season,Spring,Spring,H. influenzae,MP,H. influenzae + MP,10206,105310,5276,135,8937,87338,4721,112,6,28,0.02558756633813495,0.02558756633813495,0.6904276460528056,True,True,6,True
+season,Spring,Spring,H. influenzae,MTB,H. influenzae + MTB,10206,9750,884,53,6152,6059,789,50,3,31,0.05995475113122172,0.05995475113122172,,True,False,3,True
+season,Spring,Spring,H. influenzae,P. aeruginosa,H. influenzae + P. aeruginosa,10206,1927,1433,74,1946,563,467,19,1,33,0.051639916259595256,0.051639916259595256,,True,False,1,True
+season,Spring,Spring,H. influenzae,S. aureus,H. influenzae + S. aureus,10206,4867,4416,122,6152,3238,2959,99,3,31,0.0276268115942029,0.0276268115942029,,True,False,3,True
+season,Spring,Spring,H. influenzae,S. maltophilia,H. influenzae + S. maltophilia,10206,1272,854,62,0,0,0,0,0,34,0.07259953161592506,0.07259953161592506,,True,False,0,True
+season,Spring,Spring,H. influenzae,S. pneumoniae,H. influenzae + S. pneumoniae,10206,3303,2590,192,6152,2460,1842,124,3,31,0.07413127413127413,0.07413127413127413,,True,False,3,True
+season,Spring,Spring,H. influenzae,Aspergillus,H. influenzae + Aspergillus,10206,542,167,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,False
+season,Spring,Spring,H. influenzae,Candida,H. influenzae + Candida,10206,2636,1526,241,6152,2292,1438,181,3,31,0.15792922673656618,0.15792922673656618,,True,False,3,True
+season,Spring,Spring,H. influenzae,Cryptococcus,H. influenzae + Cryptococcus,10206,1557,367,2,0,0,0,0,0,34,0.005449591280653951,0.005449591280653951,,True,False,0,False
+season,Spring,Spring,H. influenzae,Pneumocystis,H. influenzae + Pneumocystis,10206,525,171,3,0,0,0,0,0,34,0.017543859649122806,0.017543859649122806,,True,False,0,False
+season,Spring,Spring,H. influenzae,COVID-19,H. influenzae + COVID-19,10206,76945,4208,45,8937,57153,3862,38,6,28,0.010693916349809885,0.010693916349809885,0.48877451726003884,True,True,6,True
+season,Spring,Spring,H. influenzae,EBV,H. influenzae + EBV,10206,3660,389,49,4015,1945,225,35,2,32,0.12596401028277635,0.12596401028277635,,True,False,2,True
+season,Spring,Spring,H. influenzae,HAdV,H. influenzae + HAdV,10206,60821,1898,22,8937,49098,1694,21,6,28,0.011591148577449948,0.011591148577449948,0.6882024801751294,True,True,6,True
+season,Spring,Spring,H. influenzae,HBoV,H. influenzae + HBoV,10206,16320,2654,3,7478,12979,2455,2,5,29,0.0011303692539562924,0.0011303692539562924,,True,False,5,True
+season,Spring,Spring,H. influenzae,HCoV,H. influenzae + HCoV,10206,10610,1942,0,6152,5514,1913,0,3,31,0.0,0.0,,True,False,3,True
+season,Spring,Spring,H. influenzae,HMPV,H. influenzae + HMPV,10206,8638,554,2,4083,3511,500,1,2,32,0.0036101083032490976,0.0036101083032490976,,True,False,2,False
+season,Spring,Spring,H. influenzae,HPIV,H. influenzae + HPIV,10206,36075,4386,45,7478,27589,3882,32,5,29,0.010259917920656635,0.010259917920656635,,True,False,5,True
+season,Spring,Spring,H. influenzae,HRV,H. influenzae + HRV,10206,19393,2923,121,8937,15964,2639,86,6,28,0.041395826205952786,0.041395826205952786,1.1848636291921963,True,True,6,True
+season,Spring,Spring,H. influenzae,IFV,H. influenzae + IFV,10206,158483,5972,103,8937,121389,5268,82,6,28,0.01724715338245144,0.01724715338245144,0.35034237290481607,True,True,6,True
+season,Spring,Spring,H. influenzae,RSV,H. influenzae + RSV,10206,63145,4170,50,8937,49347,3791,43,6,28,0.011990407673860911,0.011990407673860911,0.6092190009258589,True,True,6,True
+season,Spring,Spring,K. pneumoniae,Legionella,K. pneumoniae + Legionella,1188,3517,325,1,0,0,0,0,0,34,0.003076923076923077,0.003076923076923077,,True,False,0,True
+season,Spring,Spring,K. pneumoniae,M. catarrhalis,K. pneumoniae + M. catarrhalis,1188,1332,133,1,0,0,0,0,0,34,0.007518796992481203,0.007518796992481203,,True,False,0,False
+season,Spring,Spring,K. pneumoniae,MP,K. pneumoniae + MP,1188,105310,447,1,0,0,0,0,0,34,0.0022371364653243847,0.0022371364653243847,,True,False,0,True
+season,Spring,Spring,K. pneumoniae,MTB,K. pneumoniae + MTB,1188,9750,259,54,0,0,0,0,0,34,0.2084942084942085,0.2084942084942085,,True,False,0,True
+season,Spring,Spring,K. pneumoniae,P. aeruginosa,K. pneumoniae + P. aeruginosa,1188,1927,164,119,0,0,0,0,0,34,0.725609756097561,0.725609756097561,,True,False,0,True
+season,Spring,Spring,K. pneumoniae,S. aureus,K. pneumoniae + S. aureus,1188,4867,590,96,0,0,0,0,0,34,0.16271186440677965,0.16271186440677965,,True,False,0,True
+season,Spring,Spring,K. pneumoniae,S. maltophilia,K. pneumoniae + S. maltophilia,1188,1272,330,87,0,0,0,0,0,34,0.2636363636363636,0.2636363636363636,,True,False,0,True
+season,Spring,Spring,K. pneumoniae,S. pneumoniae,K. pneumoniae + S. pneumoniae,1188,3303,225,59,0,0,0,0,0,34,0.26222222222222225,0.26222222222222225,,True,False,0,False
+season,Spring,Spring,K. pneumoniae,COVID-19,K. pneumoniae + COVID-19,1188,76945,423,36,0,0,0,0,0,34,0.0851063829787234,0.0851063829787234,,True,False,0,True
+season,Spring,Spring,K. pneumoniae,EBV,K. pneumoniae + EBV,1188,3660,124,25,0,0,0,0,0,34,0.20161290322580644,0.20161290322580644,,True,False,0,False
+season,Spring,Spring,K. pneumoniae,HAdV,K. pneumoniae + HAdV,1188,60821,288,1,0,0,0,0,0,34,0.003472222222222222,0.003472222222222222,,True,False,0,True
+season,Spring,Spring,K. pneumoniae,HPIV,K. pneumoniae + HPIV,1188,36075,112,4,0,0,0,0,0,34,0.03571428571428571,0.03571428571428571,,True,False,0,False
+season,Spring,Spring,K. pneumoniae,IFV,K. pneumoniae + IFV,1188,158483,462,17,0,0,0,0,0,34,0.0367965367965368,0.0367965367965368,,True,False,0,True
+season,Spring,Spring,K. pneumoniae,RSV,K. pneumoniae + RSV,1188,63145,318,2,0,0,0,0,0,34,0.006289308176100629,0.006289308176100629,,True,False,0,True
+season,Spring,Spring,Legionella,MP,Legionella + MP,3517,105310,2341,19,2173,63232,1455,11,3,31,0.008116189662537377,0.008116189662537377,,True,False,3,True
+season,Spring,Spring,Legionella,MTB,Legionella + MTB,3517,9750,661,0,2173,6059,455,0,3,31,0.0,0.0,,True,False,3,True
+season,Spring,Spring,Legionella,P. aeruginosa,Legionella + P. aeruginosa,3517,1927,1392,3,807,563,461,1,1,33,0.0021551724137931034,0.0021551724137931034,,True,False,1,True
+season,Spring,Spring,Legionella,S. aureus,Legionella + S. aureus,3517,4867,1731,5,2173,3238,1224,4,3,31,0.0028885037550548816,0.0028885037550548816,,True,False,3,True
+season,Spring,Spring,Legionella,S. pneumoniae,Legionella + S. pneumoniae,3517,3303,1426,4,2173,2460,1153,3,3,31,0.002805049088359046,0.002805049088359046,,True,False,3,True
+season,Spring,Spring,Legionella,COVID-19,Legionella + COVID-19,3517,76945,1813,3,2173,33870,1137,1,3,31,0.001654715940430226,0.001654715940430226,,True,False,3,True
+season,Spring,Spring,Legionella,EBV,Legionella + EBV,3517,3660,411,18,1348,1945,238,12,2,32,0.043795620437956206,0.043795620437956206,,True,False,2,True
+season,Spring,Spring,Legionella,HAdV,Legionella + HAdV,3517,60821,1957,1,2173,31459,1209,1,3,31,0.000510986203372509,0.000510986203372509,,True,False,3,True
+season,Spring,Spring,Legionella,HBoV,Legionella + HBoV,3517,16320,312,0,1348,5324,125,0,2,32,0.0,0.0,,True,False,2,True
+season,Spring,Spring,Legionella,HMPV,Legionella + HMPV,3517,8638,319,0,1348,3290,132,0,2,32,0.0,0.0,,True,False,2,True
+season,Spring,Spring,Legionella,HPIV,Legionella + HPIV,3517,36075,1653,21,2173,19181,906,19,3,31,0.012704174228675136,0.012704174228675136,,True,False,3,True
+season,Spring,Spring,Legionella,IFV,Legionella + IFV,3517,158483,2410,7,2173,74360,1459,5,3,31,0.002904564315352697,0.002904564315352697,,True,False,3,True
+season,Spring,Spring,Legionella,RSV,Legionella + RSV,3517,63145,1793,4,2173,29351,1090,4,3,31,0.002230897936419409,0.002230897936419409,,True,False,3,True
+season,Spring,Spring,M. catarrhalis,MP,M. catarrhalis + MP,1332,105310,1222,15,0,0,0,0,0,34,0.012274959083469721,0.012274959083469721,,True,False,0,True
+season,Spring,Spring,M. catarrhalis,MTB,M. catarrhalis + MTB,1332,9750,149,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,False
+season,Spring,Spring,M. catarrhalis,S. aureus,M. catarrhalis + S. aureus,1332,4867,409,7,0,0,0,0,0,34,0.017114914425427872,0.017114914425427872,,True,False,0,True
+season,Spring,Spring,M. catarrhalis,S. maltophilia,M. catarrhalis + S. maltophilia,1332,1272,396,1,0,0,0,0,0,34,0.0025252525252525255,0.0025252525252525255,,True,False,0,True
+season,Spring,Spring,M. catarrhalis,S. pneumoniae,M. catarrhalis + S. pneumoniae,1332,3303,773,25,0,0,0,0,0,34,0.03234152652005175,0.03234152652005175,,True,False,0,True
+season,Spring,Spring,M. catarrhalis,Candida,M. catarrhalis + Candida,1332,2636,146,1,0,0,0,0,0,34,0.00684931506849315,0.00684931506849315,,True,False,0,False
+season,Spring,Spring,M. catarrhalis,COVID-19,M. catarrhalis + COVID-19,1332,76945,995,4,0,0,0,0,0,34,0.004020100502512563,0.004020100502512563,,True,False,0,True
+season,Spring,Spring,M. catarrhalis,HAdV,M. catarrhalis + HAdV,1332,60821,194,3,0,0,0,0,0,34,0.015463917525773196,0.015463917525773196,,True,False,0,True
+season,Spring,Spring,M. catarrhalis,HBoV,M. catarrhalis + HBoV,1332,16320,943,1,0,0,0,0,0,34,0.0010604453870625664,0.0010604453870625664,,True,False,0,True
+season,Spring,Spring,M. catarrhalis,HCoV,M. catarrhalis + HCoV,1332,10610,266,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,False
+season,Spring,Spring,M. catarrhalis,HMPV,M. catarrhalis + HMPV,1332,8638,149,2,0,0,0,0,0,34,0.013422818791946308,0.013422818791946308,,True,False,0,False
+season,Spring,Spring,M. catarrhalis,HPIV,M. catarrhalis + HPIV,1332,36075,973,8,0,0,0,0,0,34,0.008221993833504625,0.008221993833504625,,True,False,0,True
+season,Spring,Spring,M. catarrhalis,HRV,M. catarrhalis + HRV,1332,19393,888,29,0,0,0,0,0,34,0.03265765765765766,0.03265765765765766,,True,False,0,True
+season,Spring,Spring,M. catarrhalis,IFV,M. catarrhalis + IFV,1332,158483,1032,13,0,0,0,0,0,34,0.012596899224806201,0.012596899224806201,,True,False,0,True
+season,Spring,Spring,M. catarrhalis,RSV,M. catarrhalis + RSV,1332,63145,899,6,0,0,0,0,0,34,0.006674082313681869,0.006674082313681869,,True,False,0,True
+season,Spring,Spring,MP,MTB,MP + MTB,105310,9750,2812,12,86445,8174,2586,11,6,28,0.004267425320056899,0.004267425320056899,0.1795706072512785,True,True,6,True
+season,Spring,Spring,MP,P. aeruginosa,MP + P. aeruginosa,105310,1927,596,5,22286,563,216,3,1,33,0.008389261744966443,0.008389261744966443,,True,False,1,True
+season,Spring,Spring,MP,S. aureus,MP + S. aureus,105310,4867,2005,18,63232,3238,1392,11,3,31,0.008977556109725686,0.008977556109725686,,True,False,3,True
+season,Spring,Spring,MP,S. maltophilia,MP + S. maltophilia,105310,1272,614,2,0,0,0,0,0,34,0.003257328990228013,0.003257328990228013,,True,False,0,True
+season,Spring,Spring,MP,S. pneumoniae,MP + S. pneumoniae,105310,3303,1962,41,63232,2460,1429,22,3,31,0.02089704383282365,0.02089704383282365,,True,False,3,True
+season,Spring,Spring,MP,Aspergillus,MP + Aspergillus,105310,542,255,1,0,0,0,0,0,34,0.00392156862745098,0.00392156862745098,,True,False,0,False
+season,Spring,Spring,MP,Candida,MP + Candida,105310,2636,1902,64,63232,2292,1769,52,3,31,0.033648790746582544,0.033648790746582544,,True,False,3,True
+season,Spring,Spring,MP,Cryptococcus,MP + Cryptococcus,105310,1557,778,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Spring,Spring,MP,Pneumocystis,MP + Pneumocystis,105310,525,249,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,False
+season,Spring,Spring,MP,CMV,MP + CMV,105310,655,202,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Spring,Spring,MP,COVID-19,MP + COVID-19,105310,76945,29257,133,100004,73091,28469,129,15,19,0.004545920634378098,0.004545920634378098,0.25789054752489265,True,True,15,True
+season,Spring,Spring,MP,EBV,MP + EBV,105310,3660,2616,134,42208,1945,1470,64,2,32,0.05122324159021407,0.05122324159021407,,True,False,2,True
+season,Spring,Spring,MP,HAdV,MP + HAdV,105310,60821,45549,320,97881,57014,42569,298,12,22,0.0070254012162725855,0.0070254012162725855,1.0406916670132293,True,True,12,True
+season,Spring,Spring,MP,HBoV,MP + HBoV,105310,16320,16259,4,86445,15243,15186,4,6,28,0.0002460175902577034,0.0002460175902577034,0.43658907419923176,True,True,6,True
+season,Spring,Spring,MP,HCoV,MP + HCoV,105310,10610,7648,12,86445,9936,7290,11,6,28,0.0015690376569037657,0.0015690376569037657,0.09465360441163388,True,True,6,True
+season,Spring,Spring,MP,HMPV,MP + HMPV,105310,8638,8001,36,86445,8053,7430,36,6,28,0.0044994375703037125,0.0044994375703037125,0.4201053282846308,True,True,6,True
+season,Spring,Spring,MP,HPIV,MP + HPIV,105310,36075,26843,173,94345,33379,24985,162,8,26,0.0064448832097753605,0.0064448832097753605,0.4680178335485062,True,True,8,True
+season,Spring,Spring,MP,HRV,MP + HRV,105310,19393,18322,372,93006,18442,17434,364,7,27,0.020303460320925663,0.020303460320925663,0.7408143313143326,True,True,7,True
+season,Spring,Spring,MP,IFV,MP + IFV,105310,158483,57783,1072,102930,150061,56130,975,19,15,0.01855216932315733,0.01855216932315733,1.0793016366092303,True,True,19,True
+season,Spring,Spring,MP,RSV,MP + RSV,105310,63145,43483,231,96192,58677,41214,216,10,24,0.005312420946116873,0.005312420946116873,0.5496000096524591,True,True,10,True
+season,Spring,Spring,MTB,P. aeruginosa,MTB + P. aeruginosa,9750,1927,265,41,2085,563,89,6,1,33,0.15471698113207547,0.15471698113207547,,True,False,1,False
+season,Spring,Spring,MTB,S. aureus,MTB + S. aureus,9750,4867,719,56,6059,3238,628,54,3,31,0.07788595271210014,0.07788595271210014,,True,False,3,True
+season,Spring,Spring,MTB,S. maltophilia,MTB + S. maltophilia,9750,1272,301,32,0,0,0,0,0,34,0.10631229235880399,0.10631229235880399,,True,False,0,True
+season,Spring,Spring,MTB,S. pneumoniae,MTB + S. pneumoniae,9750,3303,362,31,6059,2460,334,30,3,31,0.0856353591160221,0.0856353591160221,,True,False,3,False
+season,Spring,Spring,MTB,Candida,MTB + Candida,9750,2636,140,4,0,0,0,0,0,34,0.02857142857142857,0.02857142857142857,,True,False,0,False
+season,Spring,Spring,MTB,Cryptococcus,MTB + Cryptococcus,9750,1557,419,3,0,0,0,0,0,34,0.007159904534606206,0.007159904534606206,,True,False,0,True
+season,Spring,Spring,MTB,COVID-19,MTB + COVID-19,9750,76945,2426,71,8174,62784,2191,44,6,28,0.02926628194558945,0.02926628194558945,1.100194096975844,True,True,6,True
+season,Spring,Spring,MTB,EBV,MTB + EBV,9750,3660,596,12,3783,1945,289,2,2,32,0.020134228187919462,0.020134228187919462,,True,False,2,True
+season,Spring,Spring,MTB,HAdV,MTB + HAdV,9750,60821,1169,1,6788,36268,1011,1,4,30,0.000855431993156544,0.000855431993156544,,True,False,4,True
+season,Spring,Spring,MTB,HBoV,MTB + HBoV,9750,16320,1378,0,8174,15243,1256,0,6,28,0.0,0.0,0.0,True,True,6,True
+season,Spring,Spring,MTB,HCoV,MTB + HCoV,9750,10610,228,1,2276,1477,62,0,1,33,0.0043859649122807015,0.0043859649122807015,,True,False,1,True
+season,Spring,Spring,MTB,HMPV,MTB + HMPV,9750,8638,1203,0,8174,8053,1099,0,6,28,0.0,0.0,0.0,True,True,6,True
+season,Spring,Spring,MTB,HPIV,MTB + HPIV,9750,36075,1708,1,8174,31653,1565,1,6,28,0.000585480093676815,0.000585480093676815,0.05784579802006769,True,True,6,True
+season,Spring,Spring,MTB,HRV,MTB + HRV,9750,19393,526,5,7582,15424,446,4,5,29,0.009505703422053232,0.009505703422053232,,True,False,5,True
+season,Spring,Spring,MTB,IFV,MTB + IFV,9750,158483,3540,58,8174,128271,3218,30,6,28,0.01638418079096045,0.01638418079096045,0.5633216648607419,True,True,6,True
+season,Spring,Spring,MTB,RSV,MTB + RSV,9750,63145,1313,4,8174,54133,1226,3,6,28,0.0030464584920030465,0.0030464584920030465,0.1962012370614295,True,True,6,True
+season,Spring,Spring,P. aeruginosa,S. aureus,P. aeruginosa + S. aureus,1927,4867,1437,98,563,1229,464,25,1,33,0.06819763395963814,0.06819763395963814,,True,False,1,True
+season,Spring,Spring,P. aeruginosa,S. maltophilia,P. aeruginosa + S. maltophilia,1927,1272,155,86,0,0,0,0,0,34,0.5548387096774193,0.5548387096774193,,True,False,0,False
+season,Spring,Spring,P. aeruginosa,S. pneumoniae,P. aeruginosa + S. pneumoniae,1927,3303,1561,66,563,886,478,16,1,33,0.04228058936579116,0.04228058936579116,,True,False,1,True
+season,Spring,Spring,P. aeruginosa,COVID-19,P. aeruginosa + COVID-19,1927,76945,789,24,563,12350,191,5,1,33,0.030418250950570342,0.030418250950570342,,True,False,1,True
+season,Spring,Spring,P. aeruginosa,EBV,P. aeruginosa + EBV,1927,3660,218,24,563,740,92,9,1,33,0.11009174311926606,0.11009174311926606,,True,False,1,False
+season,Spring,Spring,P. aeruginosa,HAdV,P. aeruginosa + HAdV,1927,60821,513,1,563,11579,185,1,1,33,0.001949317738791423,0.001949317738791423,,True,False,1,True
+season,Spring,Spring,P. aeruginosa,IFV,P. aeruginosa + IFV,1927,158483,645,15,563,24250,203,3,1,33,0.023255813953488372,0.023255813953488372,,True,False,1,True
+season,Spring,Spring,P. aeruginosa,RSV,P. aeruginosa + RSV,1927,63145,499,5,563,9464,181,4,1,33,0.01002004008016032,0.01002004008016032,,True,False,1,True
+season,Spring,Spring,S. aureus,S. maltophilia,S. aureus + S. maltophilia,4867,1272,832,84,0,0,0,0,0,34,0.10096153846153846,0.10096153846153846,,True,False,0,True
+season,Spring,Spring,S. aureus,S. pneumoniae,S. aureus + S. pneumoniae,4867,3303,1573,92,3238,2460,1267,88,3,31,0.05848696757787667,0.05848696757787667,,True,False,3,True
+season,Spring,Spring,S. aureus,Aspergillus,S. aureus + Aspergillus,4867,542,209,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,False
+season,Spring,Spring,S. aureus,Cryptococcus,S. aureus + Cryptococcus,4867,1557,400,1,0,0,0,0,0,34,0.0025,0.0025,,True,False,0,False
+season,Spring,Spring,S. aureus,Pneumocystis,S. aureus + Pneumocystis,4867,525,216,4,0,0,0,0,0,34,0.018518518518518517,0.018518518518518517,,True,False,0,False
+season,Spring,Spring,S. aureus,COVID-19,S. aureus + COVID-19,4867,76945,1585,35,3238,33870,1110,29,3,31,0.022082018927444796,0.022082018927444796,,True,False,3,True
+season,Spring,Spring,S. aureus,EBV,S. aureus + EBV,4867,3660,343,45,2184,1945,201,27,2,32,0.13119533527696792,0.13119533527696792,,True,False,2,True
+season,Spring,Spring,S. aureus,HAdV,S. aureus + HAdV,4867,60821,1342,3,3238,31459,901,3,3,31,0.0022354694485842027,0.0022354694485842027,,True,False,3,True
+season,Spring,Spring,S. aureus,HBoV,S. aureus + HBoV,4867,16320,204,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Spring,Spring,S. aureus,HMPV,S. aureus + HMPV,4867,8638,143,2,0,0,0,0,0,34,0.013986013986013986,0.013986013986013986,,True,False,0,False
+season,Spring,Spring,S. aureus,HPIV,S. aureus + HPIV,4867,36075,1683,23,3238,19181,1004,13,3,31,0.013666072489601902,0.013666072489601902,,True,False,3,True
+season,Spring,Spring,S. aureus,HRV,S. aureus + HRV,4867,19393,168,11,0,0,0,0,0,34,0.06547619047619048,0.06547619047619048,,True,False,0,True
+season,Spring,Spring,S. aureus,IFV,S. aureus + IFV,4867,158483,2643,26,3238,74360,1708,16,3,31,0.009837306091562617,0.009837306091562617,,True,False,3,True
+season,Spring,Spring,S. aureus,RSV,S. aureus + RSV,4867,63145,1610,18,3238,29351,1064,16,3,31,0.011180124223602485,0.011180124223602485,,True,False,3,True
+season,Spring,Spring,S. maltophilia,S. pneumoniae,S. maltophilia + S. pneumoniae,1272,3303,267,56,0,0,0,0,0,34,0.20973782771535582,0.20973782771535582,,True,False,0,False
+season,Spring,Spring,S. maltophilia,Aspergillus,S. maltophilia + Aspergillus,1272,542,164,1,0,0,0,0,0,34,0.006097560975609756,0.006097560975609756,,True,False,0,False
+season,Spring,Spring,S. maltophilia,Cryptococcus,S. maltophilia + Cryptococcus,1272,1557,209,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,False
+season,Spring,Spring,S. maltophilia,Pneumocystis,S. maltophilia + Pneumocystis,1272,525,182,1,0,0,0,0,0,34,0.005494505494505495,0.005494505494505495,,True,False,0,False
+season,Spring,Spring,S. maltophilia,COVID-19,S. maltophilia + COVID-19,1272,76945,300,30,0,0,0,0,0,34,0.1,0.1,,True,False,0,True
+season,Spring,Spring,S. maltophilia,EBV,S. maltophilia + EBV,1272,3660,139,32,0,0,0,0,0,34,0.2302158273381295,0.2302158273381295,,True,False,0,False
+season,Spring,Spring,S. maltophilia,HAdV,S. maltophilia + HAdV,1272,60821,112,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,False
+season,Spring,Spring,S. maltophilia,HBoV,S. maltophilia + HBoV,1272,16320,176,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Spring,Spring,S. maltophilia,HMPV,S. maltophilia + HMPV,1272,8638,121,1,0,0,0,0,0,34,0.008264462809917356,0.008264462809917356,,True,False,0,False
+season,Spring,Spring,S. maltophilia,HPIV,S. maltophilia + HPIV,1272,36075,251,6,0,0,0,0,0,34,0.02390438247011952,0.02390438247011952,,True,False,0,True
+season,Spring,Spring,S. maltophilia,HRV,S. maltophilia + HRV,1272,19393,129,1,0,0,0,0,0,34,0.007751937984496124,0.007751937984496124,,True,False,0,False
+season,Spring,Spring,S. maltophilia,IFV,S. maltophilia + IFV,1272,158483,422,20,0,0,0,0,0,34,0.04739336492890995,0.04739336492890995,,True,False,0,True
+season,Spring,Spring,S. maltophilia,RSV,S. maltophilia + RSV,1272,63145,242,1,0,0,0,0,0,34,0.004132231404958678,0.004132231404958678,,True,False,0,True
+season,Spring,Spring,S. pneumoniae,Candida,S. pneumoniae + Candida,3303,2636,414,96,2460,2292,396,94,3,31,0.2318840579710145,0.2318840579710145,,True,False,3,False
+season,Spring,Spring,S. pneumoniae,COVID-19,S. pneumoniae + COVID-19,3303,76945,2093,23,2460,33870,1427,22,3,31,0.01098901098901099,0.01098901098901099,,True,False,3,True
+season,Spring,Spring,S. pneumoniae,EBV,S. pneumoniae + EBV,3303,3660,215,53,1648,1945,148,32,2,32,0.24651162790697675,0.24651162790697675,,True,False,2,False
+season,Spring,Spring,S. pneumoniae,HAdV,S. pneumoniae + HAdV,3303,60821,694,7,2460,31459,638,7,3,31,0.010086455331412104,0.010086455331412104,,True,False,3,True
+season,Spring,Spring,S. pneumoniae,HBoV,S. pneumoniae + HBoV,3303,16320,1272,0,2460,7961,800,0,3,31,0.0,0.0,,True,False,3,True
+season,Spring,Spring,S. pneumoniae,HCoV,S. pneumoniae + HCoV,3303,10610,616,0,2460,5514,590,0,3,31,0.0,0.0,,True,False,3,False
+season,Spring,Spring,S. pneumoniae,HMPV,S. pneumoniae + HMPV,3303,8638,269,17,1698,3511,232,16,2,32,0.06319702602230483,0.06319702602230483,,True,False,2,False
+season,Spring,Spring,S. pneumoniae,HPIV,S. pneumoniae + HPIV,3303,36075,1364,36,2460,19181,879,29,3,31,0.026392961876832845,0.026392961876832845,,True,False,3,True
+season,Spring,Spring,S. pneumoniae,HRV,S. pneumoniae + HRV,3303,19393,1228,78,2460,9620,757,55,3,31,0.06351791530944625,0.06351791530944625,,True,False,3,True
+season,Spring,Spring,S. pneumoniae,IFV,S. pneumoniae + IFV,3303,158483,2005,43,2460,74360,1469,37,3,31,0.02144638403990025,0.02144638403990025,,True,False,3,True
+season,Spring,Spring,S. pneumoniae,RSV,S. pneumoniae + RSV,3303,63145,1734,87,2460,29351,1233,80,3,31,0.050173010380622836,0.050173010380622836,,True,False,3,True
+season,Spring,Spring,Aspergillus,Candida,Aspergillus + Candida,542,2636,269,12,0,0,0,0,0,34,0.04460966542750929,0.04460966542750929,,True,False,0,False
+season,Spring,Spring,Aspergillus,Cryptococcus,Aspergillus + Cryptococcus,542,1557,478,1,0,0,0,0,0,34,0.0020920502092050207,0.0020920502092050207,,True,False,0,True
+season,Spring,Spring,Aspergillus,Pneumocystis,Aspergillus + Pneumocystis,542,525,476,4,0,0,0,0,0,34,0.008403361344537815,0.008403361344537815,,True,False,0,True
+season,Spring,Spring,Aspergillus,COVID-19,Aspergillus + COVID-19,542,76945,163,1,0,0,0,0,0,34,0.006134969325153374,0.006134969325153374,,True,False,0,False
+season,Spring,Spring,Aspergillus,HAdV,Aspergillus + HAdV,542,60821,173,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,False
+season,Spring,Spring,Aspergillus,HBoV,Aspergillus + HBoV,542,16320,132,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,False
+season,Spring,Spring,Aspergillus,HMPV,Aspergillus + HMPV,542,8638,130,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,False
+season,Spring,Spring,Aspergillus,HPIV,Aspergillus + HPIV,542,36075,181,1,0,0,0,0,0,34,0.0055248618784530384,0.0055248618784530384,,True,False,0,False
+season,Spring,Spring,Aspergillus,HRV,Aspergillus + HRV,542,19393,133,2,0,0,0,0,0,34,0.015037593984962405,0.015037593984962405,,True,False,0,False
+season,Spring,Spring,Aspergillus,IFV,Aspergillus + IFV,542,158483,244,2,0,0,0,0,0,34,0.00819672131147541,0.00819672131147541,,True,False,0,False
+season,Spring,Spring,Aspergillus,RSV,Aspergillus + RSV,542,63145,242,1,0,0,0,0,0,34,0.004132231404958678,0.004132231404958678,,True,False,0,False
+season,Spring,Spring,Candida,Cryptococcus,Candida + Cryptococcus,2636,1557,263,2,0,0,0,0,0,34,0.0076045627376425855,0.0076045627376425855,,True,False,0,False
+season,Spring,Spring,Candida,Pneumocystis,Candida + Pneumocystis,2636,525,273,6,0,0,0,0,0,34,0.02197802197802198,0.02197802197802198,,True,False,0,False
+season,Spring,Spring,Candida,COVID-19,Candida + COVID-19,2636,76945,1840,107,2292,33870,1731,100,3,31,0.058152173913043476,0.058152173913043476,,True,False,3,True
+season,Spring,Spring,Candida,HAdV,Candida + HAdV,2636,60821,417,7,2292,31459,327,3,3,31,0.016786570743405275,0.016786570743405275,,True,False,3,True
+season,Spring,Spring,Candida,HBoV,Candida + HBoV,2636,16320,1719,5,2292,7961,1645,5,3,31,0.0029086678301337987,0.0029086678301337987,,True,False,3,True
+season,Spring,Spring,Candida,HCoV,Candida + HCoV,2636,10610,1596,9,2292,5514,1557,6,3,31,0.005639097744360902,0.005639097744360902,,True,False,3,True
+season,Spring,Spring,Candida,HMPV,Candida + HMPV,2636,8638,494,88,1554,3511,420,87,2,32,0.17813765182186234,0.17813765182186234,,True,False,2,False
+season,Spring,Spring,Candida,HPIV,Candida + HPIV,2636,36075,1806,164,2292,19181,1706,162,3,31,0.09080841638981174,0.09080841638981174,,True,False,3,True
+season,Spring,Spring,Candida,HRV,Candida + HRV,2636,19393,1759,424,2292,9620,1674,414,3,31,0.24104604889141557,0.24104604889141557,,True,False,3,True
+season,Spring,Spring,Candida,IFV,Candida + IFV,2636,158483,1903,201,2292,74360,1776,191,3,31,0.10562270099842354,0.10562270099842354,,True,False,3,True
+season,Spring,Spring,Candida,RSV,Candida + RSV,2636,63145,1772,388,2292,29351,1682,383,3,31,0.21896162528216703,0.21896162528216703,,True,False,3,True
+season,Spring,Spring,Cryptococcus,Pneumocystis,Cryptococcus + Pneumocystis,1557,525,480,2,0,0,0,0,0,34,0.004166666666666667,0.004166666666666667,,True,False,0,True
+season,Spring,Spring,Cryptococcus,COVID-19,Cryptococcus + COVID-19,1557,76945,500,2,0,0,0,0,0,34,0.004,0.004,,True,False,0,True
+season,Spring,Spring,Cryptococcus,EBV,Cryptococcus + EBV,1557,3660,101,2,0,0,0,0,0,34,0.019801980198019802,0.019801980198019802,,True,False,0,False
+season,Spring,Spring,Cryptococcus,HAdV,Cryptococcus + HAdV,1557,60821,353,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Spring,Spring,Cryptococcus,HBoV,Cryptococcus + HBoV,1557,16320,285,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Spring,Spring,Cryptococcus,HMPV,Cryptococcus + HMPV,1557,8638,283,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Spring,Spring,Cryptococcus,HPIV,Cryptococcus + HPIV,1557,36075,440,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Spring,Spring,Cryptococcus,HRV,Cryptococcus + HRV,1557,19393,142,1,0,0,0,0,0,34,0.007042253521126761,0.007042253521126761,,True,False,0,False
+season,Spring,Spring,Cryptococcus,IFV,Cryptococcus + IFV,1557,158483,770,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Spring,Spring,Cryptococcus,RSV,Cryptococcus + RSV,1557,63145,427,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Spring,Spring,Pneumocystis,COVID-19,Pneumocystis + COVID-19,525,76945,155,2,0,0,0,0,0,34,0.012903225806451613,0.012903225806451613,,True,False,0,False
+season,Spring,Spring,Pneumocystis,HAdV,Pneumocystis + HAdV,525,60821,171,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,False
+season,Spring,Spring,Pneumocystis,HBoV,Pneumocystis + HBoV,525,16320,127,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,False
+season,Spring,Spring,Pneumocystis,HMPV,Pneumocystis + HMPV,525,8638,130,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,False
+season,Spring,Spring,Pneumocystis,HPIV,Pneumocystis + HPIV,525,36075,175,2,0,0,0,0,0,34,0.011428571428571429,0.011428571428571429,,True,False,0,False
+season,Spring,Spring,Pneumocystis,HRV,Pneumocystis + HRV,525,19393,140,3,0,0,0,0,0,34,0.02142857142857143,0.02142857142857143,,True,False,0,False
+season,Spring,Spring,Pneumocystis,IFV,Pneumocystis + IFV,525,158483,241,1,0,0,0,0,0,34,0.004149377593360996,0.004149377593360996,,True,False,0,False
+season,Spring,Spring,Pneumocystis,RSV,Pneumocystis + RSV,525,63145,235,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,False
+season,Spring,Spring,CMV,COVID-19,CMV + COVID-19,655,76945,209,2,0,0,0,0,0,34,0.009569377990430622,0.009569377990430622,,True,False,0,True
+season,Spring,Spring,CMV,EBV,CMV + EBV,655,3660,117,54,0,0,0,0,0,34,0.46153846153846156,0.46153846153846156,,True,False,0,False
+season,Spring,Spring,CMV,HAdV,CMV + HAdV,655,60821,205,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Spring,Spring,CMV,HSV,CMV + HSV,655,201,108,4,0,0,0,0,0,34,0.037037037037037035,0.037037037037037035,,True,False,0,True
+season,Spring,Spring,CMV,IFV,CMV + IFV,655,158483,218,1,0,0,0,0,0,34,0.0045871559633027525,0.0045871559633027525,,True,False,0,True
+season,Spring,Spring,CMV,RSV,CMV + RSV,655,63145,155,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Spring,Spring,COVID-19,EBV,COVID-19 + EBV,76945,3660,715,32,24577,1945,331,16,2,32,0.044755244755244755,0.044755244755244755,,True,False,2,True
+season,Spring,Spring,COVID-19,HAdV,COVID-19 + HAdV,76945,60821,18052,22,68868,55274,17275,21,9,25,0.0012187015289164636,0.0012187015289164636,0.8555936436403115,True,True,9,True
+season,Spring,Spring,COVID-19,HBoV,COVID-19 + HBoV,76945,16320,16313,4,62784,15243,15236,4,6,28,0.00024520321216207934,0.00024520321216207934,0.43739608478622966,True,True,6,True
+season,Spring,Spring,COVID-19,HCoV,COVID-19 + HCoV,76945,10610,10603,737,62784,9936,9931,674,6,28,0.0695086296331227,0.0695086296331227,5.294813789415102,True,True,6,True
+season,Spring,Spring,COVID-19,HMPV,COVID-19 + HMPV,76945,8638,8106,10,62784,8053,7532,10,6,28,0.001233654083395016,0.001233654083395016,0.17775034965841707,True,True,6,True
+season,Spring,Spring,COVID-19,HPIV,COVID-19 + HPIV,76945,36075,18546,47,68217,33379,17849,41,8,26,0.0025342391890434595,0.0025342391890434595,0.30363460345005294,True,True,8,True
+season,Spring,Spring,COVID-19,HRV,COVID-19 + HRV,76945,19393,15028,76,66391,18442,14355,69,7,27,0.005057226510513707,0.005057226510513707,0.16589780960945283,True,True,7,True
+season,Spring,Spring,COVID-19,IFV,COVID-19 + IFV,76945,158483,54632,918,73091,146328,52217,889,15,19,0.01680333870259189,0.01680333870259189,0.9358845674543527,True,True,15,True
+season,Spring,Spring,COVID-19,RSV,COVID-19 + RSV,76945,63145,26744,64,68868,58098,25753,62,9,25,0.0023930601256356566,0.0023930601256356566,0.19643821310792056,True,True,9,True
+season,Spring,Spring,EBV,HAdV,EBV + HAdV,3660,60821,1291,35,1945,20786,579,16,2,32,0.027110766847405113,0.027110766847405113,,True,False,2,True
+season,Spring,Spring,EBV,HBoV,EBV + HBoV,3660,16320,317,0,1945,5324,116,0,2,32,0.0,0.0,,True,False,2,True
+season,Spring,Spring,EBV,HMPV,EBV + HMPV,3660,8638,316,4,1945,3290,115,3,2,32,0.012658227848101266,0.012658227848101266,,True,False,2,True
+season,Spring,Spring,EBV,HPIV,EBV + HPIV,3660,36075,1123,87,1945,13125,413,61,2,32,0.07747105966162066,0.07747105966162066,,True,False,2,True
+season,Spring,Spring,EBV,IFV,EBV + IFV,3660,158483,2582,107,1945,46529,1419,47,2,32,0.04144074360960496,0.04144074360960496,,True,False,2,True
+season,Spring,Spring,EBV,RSV,EBV + RSV,3660,63145,719,32,1945,17668,372,21,2,32,0.04450625869262865,0.04450625869262865,,True,False,2,True
+season,Spring,Spring,HAdV,HBoV,HAdV + HBoV,60821,16320,4414,0,49420,15243,4126,0,6,28,0.0,0.0,0.0,True,True,6,True
+season,Spring,Spring,HAdV,HCoV,HAdV + HCoV,60821,10610,913,2,49420,9936,813,2,6,28,0.002190580503833516,0.002190580503833516,0.26861753246288916,True,True,6,True
+season,Spring,Spring,HAdV,HMPV,HAdV + HMPV,60821,8638,4098,3,49420,8053,3845,3,6,28,0.0007320644216691069,0.0007320644216691069,0.5972498443490682,True,True,6,True
+season,Spring,Spring,HAdV,HPIV,HAdV + HPIV,60821,36075,16606,90,54658,33379,15056,74,8,26,0.005419727809225581,0.005419727809225581,1.5512525797095256,True,True,8,True
+season,Spring,Spring,HAdV,HRV,HAdV + HRV,60821,19393,8505,45,53907,18442,8018,43,7,27,0.005291005291005291,0.005291005291005291,0.701425377059247,True,True,7,True
+season,Spring,Spring,HAdV,IFV,HAdV + IFV,60821,158483,39319,264,57014,143858,36833,249,12,22,0.0067143111472824845,0.0067143111472824845,1.8750259643907667,True,True,12,True
+season,Spring,Spring,HAdV,RSV,HAdV + RSV,60821,63145,36302,192,55819,58677,34039,184,10,24,0.005288964795328081,0.005288964795328081,3.3779269552396807,True,True,10,True
+season,Spring,Spring,HBoV,HCoV,HBoV + HCoV,16320,10610,7407,0,15243,9936,7152,0,6,28,0.0,0.0,0.0,True,True,6,True
+season,Spring,Spring,HBoV,HMPV,HBoV + HMPV,16320,8638,7963,1,15243,8053,7404,1,6,28,0.0001255808112520407,0.0001255808112520407,0.027765813890351678,True,True,6,True
+season,Spring,Spring,HBoV,HPIV,HBoV + HPIV,16320,36075,16311,9,15243,31653,15234,7,6,28,0.000551774875850653,0.000551774875850653,1.411219233851484,True,True,6,True
+season,Spring,Spring,HBoV,HRV,HBoV + HRV,16320,19393,14018,18,15243,17678,13211,18,6,28,0.0012840633471251249,0.0012840633471251249,1.623555094666368,True,True,6,True
+season,Spring,Spring,HBoV,IFV,HBoV + IFV,16320,158483,16316,9,15243,128271,15239,7,6,28,0.000551605785731797,0.000551605785731797,1.0068999035976467,True,True,6,True
+season,Spring,Spring,HBoV,RSV,HBoV + RSV,16320,63145,14178,11,15243,54133,13359,11,6,28,0.0007758499083086472,0.0007758499083086472,2.2377924014316024,True,True,6,True
+season,Spring,Spring,HCoV,HMPV,HCoV + HMPV,10610,8638,2162,5,9936,8053,2109,5,6,28,0.002312673450508788,0.002312673450508788,0.3552936440514335,True,True,6,True
+season,Spring,Spring,HCoV,HPIV,HCoV + HPIV,10610,36075,7527,3,9936,31653,7272,3,6,28,0.00039856516540454366,0.00039856516540454366,0.10866108501195273,True,True,6,True
+season,Spring,Spring,HCoV,HRV,HCoV + HRV,10610,19393,7528,19,9936,17678,7272,18,6,28,0.0025239107332624866,0.0025239107332624866,0.1291052649850855,True,True,6,True
+season,Spring,Spring,HCoV,IFV,HCoV + IFV,10610,158483,8441,180,9936,128271,7958,174,6,28,0.021324487619950244,0.021324487619950244,3.4710500707546057,True,True,6,True
+season,Spring,Spring,HCoV,RSV,HCoV + RSV,10610,63145,7585,9,9936,54133,7303,8,6,28,0.0011865524060646012,0.0011865524060646012,0.22976276226899528,True,True,6,True
+season,Spring,Spring,HMPV,HPIV,HMPV + HPIV,8638,36075,8091,12,8053,31653,7515,12,6,28,0.0014831294030404152,0.0014831294030404152,0.3806193795268583,True,True,6,True
+season,Spring,Spring,HMPV,HRV,HMPV + HRV,8638,19393,5789,59,8053,17678,5496,59,6,28,0.010191742960787701,0.010191742960787701,0.5481033968813869,True,True,6,True
+season,Spring,Spring,HMPV,IFV,HMPV + IFV,8638,158483,8257,17,8053,128271,7676,17,6,28,0.0020588591498122803,0.0020588591498122803,0.33627398257671803,True,True,6,True
+season,Spring,Spring,HMPV,RSV,HMPV + RSV,8638,63145,5842,10,8053,54133,5536,10,6,28,0.0017117425539198905,0.0017117425539198905,0.29334103438412656,True,True,6,True
+season,Spring,Spring,HPIV,HRV,HPIV + HRV,36075,19393,16753,219,32773,18442,16040,211,7,27,0.013072285560795082,0.013072285560795082,0.9631088920055496,True,True,7,True
+season,Spring,Spring,HPIV,IFV,HPIV + IFV,36075,158483,36016,2080,33379,137688,33337,1979,8,26,0.05775211017325633,0.05775211017325633,7.873084964473074,True,True,8,True
+season,Spring,Spring,HPIV,RSV,HPIV + RSV,36075,63145,25229,175,33379,57397,23918,158,8,26,0.006936462008006659,0.006936462008006659,1.4881476311771642,True,True,8,True
+season,Spring,Spring,HRV,IFV,HRV + IFV,19393,158483,18502,260,18442,136050,17606,253,7,27,0.014052534861096097,0.014052534861096097,0.5567269300514766,True,True,7,True
+season,Spring,Spring,HRV,RSV,HRV + RSV,19393,63145,17958,267,18442,56663,17136,264,7,27,0.014868025392582694,0.014868025392582694,1.0637741383505115,True,True,7,True
+season,Spring,Spring,HSV,IFV,HSV + IFV,201,158483,106,4,0,0,0,0,0,34,0.03773584905660377,0.03773584905660377,,True,False,0,True
+season,Spring,Spring,IFV,RSV,IFV + RSV,158483,63145,44439,342,140426,58677,41934,325,10,24,0.007695942752987241,0.007695942752987241,1.1748094231944244,True,True,10,True
+season,Summer,Summer,A. baumannii,B. pertussis,A. baumannii + B. pertussis,1664,7429,283,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,True
+season,Summer,Summer,A. baumannii,CP,A. baumannii + CP,1664,22621,142,2,0,0,0,0,0,33,0.014084507042253521,0.014084507042253521,,True,False,0,True
+season,Summer,Summer,A. baumannii,H. influenzae,A. baumannii + H. influenzae,1664,5544,886,29,0,0,0,0,0,33,0.0327313769751693,0.0327313769751693,,True,False,0,True
+season,Summer,Summer,A. baumannii,K. pneumoniae,A. baumannii + K. pneumoniae,1664,1173,350,84,0,0,0,0,0,33,0.24,0.24,,True,False,0,True
+season,Summer,Summer,A. baumannii,Legionella,A. baumannii + Legionella,1664,2047,129,7,0,0,0,0,0,33,0.05426356589147287,0.05426356589147287,,True,False,0,False
+season,Summer,Summer,A. baumannii,M. catarrhalis,A. baumannii + M. catarrhalis,1664,855,384,7,0,0,0,0,0,33,0.018229166666666668,0.018229166666666668,,True,False,0,True
+season,Summer,Summer,A. baumannii,MP,A. baumannii + MP,1664,97663,704,6,0,0,0,0,0,33,0.008522727272727272,0.008522727272727272,,True,False,0,True
+season,Summer,Summer,A. baumannii,MTB,A. baumannii + MTB,1664,8273,410,7,0,0,0,0,0,33,0.01707317073170732,0.01707317073170732,,True,False,0,True
+season,Summer,Summer,A. baumannii,P. aeruginosa,A. baumannii + P. aeruginosa,1664,1118,141,59,0,0,0,0,0,33,0.41843971631205673,0.41843971631205673,,True,False,0,False
+season,Summer,Summer,A. baumannii,S. aureus,A. baumannii + S. aureus,1664,4048,938,70,0,0,0,0,0,33,0.07462686567164178,0.07462686567164178,,True,False,0,True
+season,Summer,Summer,A. baumannii,S. maltophilia,A. baumannii + S. maltophilia,1664,1293,910,155,0,0,0,0,0,33,0.17032967032967034,0.17032967032967034,,True,False,0,True
+season,Summer,Summer,A. baumannii,S. pneumoniae,A. baumannii + S. pneumoniae,1664,2006,225,17,0,0,0,0,0,33,0.07555555555555556,0.07555555555555556,,True,False,0,False
+season,Summer,Summer,A. baumannii,Aspergillus,A. baumannii + Aspergillus,1664,544,185,2,0,0,0,0,0,33,0.010810810810810811,0.010810810810810811,,True,False,0,False
+season,Summer,Summer,A. baumannii,Cryptococcus,A. baumannii + Cryptococcus,1664,1470,249,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,False
+season,Summer,Summer,A. baumannii,Pneumocystis,A. baumannii + Pneumocystis,1664,518,197,2,0,0,0,0,0,33,0.01015228426395939,0.01015228426395939,,True,False,0,False
+season,Summer,Summer,A. baumannii,COVID-19,A. baumannii + COVID-19,1664,64574,362,23,0,0,0,0,0,33,0.06353591160220995,0.06353591160220995,,True,False,0,True
+season,Summer,Summer,A. baumannii,EBV,A. baumannii + EBV,1664,3706,218,94,0,0,0,0,0,33,0.43119266055045874,0.43119266055045874,,True,False,0,False
+season,Summer,Summer,A. baumannii,HAdV,A. baumannii + HAdV,1664,49644,167,2,0,0,0,0,0,33,0.011976047904191617,0.011976047904191617,,True,False,0,False
+season,Summer,Summer,A. baumannii,HBoV,A. baumannii + HBoV,1664,14357,196,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,True
+season,Summer,Summer,A. baumannii,HMPV,A. baumannii + HMPV,1664,6254,155,1,0,0,0,0,0,33,0.0064516129032258064,0.0064516129032258064,,True,False,0,False
+season,Summer,Summer,A. baumannii,HPIV,A. baumannii + HPIV,1664,29026,416,9,0,0,0,0,0,33,0.021634615384615384,0.021634615384615384,,True,False,0,True
+season,Summer,Summer,A. baumannii,HRV,A. baumannii + HRV,1664,19758,116,10,0,0,0,0,0,33,0.08620689655172414,0.08620689655172414,,True,False,0,True
+season,Summer,Summer,A. baumannii,IFV,A. baumannii + IFV,1664,115718,588,13,0,0,0,0,0,33,0.022108843537414966,0.022108843537414966,,True,False,0,True
+season,Summer,Summer,A. baumannii,RSV,A. baumannii + RSV,1664,44506,265,1,0,0,0,0,0,33,0.0037735849056603774,0.0037735849056603774,,True,False,0,True
+season,Summer,Summer,B. pertussis,CP,B. pertussis + CP,7429,22621,104,2,0,0,0,0,0,33,0.019230769230769232,0.019230769230769232,,True,False,0,False
+season,Summer,Summer,B. pertussis,H. influenzae,B. pertussis + H. influenzae,7429,5544,944,7,4416,4171,667,2,4,29,0.007415254237288136,0.007415254237288136,,True,False,4,True
+season,Summer,Summer,B. pertussis,K. pneumoniae,B. pertussis + K. pneumoniae,7429,1173,159,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,False
+season,Summer,Summer,B. pertussis,M. catarrhalis,B. pertussis + M. catarrhalis,7429,855,640,1,0,0,0,0,0,33,0.0015625,0.0015625,,True,False,0,True
+season,Summer,Summer,B. pertussis,MP,B. pertussis + MP,7429,97663,4957,46,7188,90334,4808,45,6,27,0.009279806334476498,0.009279806334476498,0.3313259941927524,True,True,6,True
+season,Summer,Summer,B. pertussis,MTB,B. pertussis + MTB,7429,8273,255,0,3065,4807,190,0,3,30,0.0,0.0,,True,False,3,True
+season,Summer,Summer,B. pertussis,S. aureus,B. pertussis + S. aureus,7429,4048,350,0,3065,2505,258,0,3,30,0.0,0.0,,True,False,3,True
+season,Summer,Summer,B. pertussis,S. maltophilia,B. pertussis + S. maltophilia,7429,1293,282,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,True
+season,Summer,Summer,B. pertussis,S. pneumoniae,B. pertussis + S. pneumoniae,7429,2006,589,0,896,536,99,0,1,32,0.0,0.0,,True,False,1,True
+season,Summer,Summer,B. pertussis,COVID-19,B. pertussis + COVID-19,7429,64574,3055,8,7188,57569,2977,7,6,27,0.002618657937806874,0.002618657937806874,0.11814115696234964,True,True,6,True
+season,Summer,Summer,B. pertussis,HAdV,B. pertussis + HAdV,7429,49644,904,0,7188,45690,860,0,6,27,0.0,0.0,0.0,True,True,6,True
+season,Summer,Summer,B. pertussis,HBoV,B. pertussis + HBoV,7429,14357,2725,2,7188,13713,2660,1,6,27,0.0007339449541284404,0.0007339449541284404,0.18397873511792398,True,True,6,True
+season,Summer,Summer,B. pertussis,HCoV,B. pertussis + HCoV,7429,9639,1928,2,7188,9180,1899,2,6,27,0.001037344398340249,0.001037344398340249,0.256456698294636,True,True,6,True
+season,Summer,Summer,B. pertussis,HMPV,B. pertussis + HMPV,7429,6254,117,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,False
+season,Summer,Summer,B. pertussis,HPIV,B. pertussis + HPIV,7429,29026,2735,8,7188,26972,2670,8,6,27,0.0029250457038391227,0.0029250457038391227,0.45681875014252676,True,True,6,True
+season,Summer,Summer,B. pertussis,HRV,B. pertussis + HRV,7429,19758,2704,16,7188,19042,2625,16,6,27,0.005917159763313609,0.005917159763313609,0.38568204339504353,True,True,6,True
+season,Summer,Summer,B. pertussis,IFV,B. pertussis + IFV,7429,115718,3473,8,7188,100127,3367,8,6,27,0.002303484019579614,0.002303484019579614,0.34236161514463725,True,True,6,True
+season,Summer,Summer,B. pertussis,RSV,B. pertussis + RSV,7429,44506,3320,6,7188,40571,3246,6,6,27,0.0018072289156626507,0.0018072289156626507,0.37619421994280583,True,True,6,True
+season,Summer,Summer,CP,Legionella,CP + Legionella,22621,2047,681,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,True
+season,Summer,Summer,CP,MP,CP + MP,22621,97663,21779,298,20948,90334,20187,269,6,27,0.013682905551219064,0.013682905551219064,3.091282171750346,True,True,6,True
+season,Summer,Summer,CP,MTB,CP + MTB,22621,8273,1097,0,17940,6801,928,0,5,28,0.0,0.0,,True,False,5,True
+season,Summer,Summer,CP,Aspergillus,CP + Aspergillus,22621,544,104,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,False
+season,Summer,Summer,CP,Cryptococcus,CP + Cryptococcus,22621,1470,192,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,True
+season,Summer,Summer,CP,COVID-19,CP + COVID-19,22621,64574,5771,56,20948,57569,5322,50,6,27,0.009703690868133772,0.009703690868133772,3.6984612404012323,True,True,6,True
+season,Summer,Summer,CP,EBV,CP + EBV,22621,3706,248,1,2602,1051,65,0,1,32,0.004032258064516129,0.004032258064516129,,True,False,1,True
+season,Summer,Summer,CP,HAdV,CP + HAdV,22621,49644,19520,32,20948,45690,18317,31,6,27,0.001639344262295082,0.001639344262295082,2.0026649618966164,True,True,6,True
+season,Summer,Summer,CP,HBoV,CP + HBoV,22621,14357,4278,1,20948,13713,3963,1,6,27,0.0002337540906965872,0.0002337540906965872,0.24143408880460868,True,True,6,True
+season,Summer,Summer,CP,HCoV,CP + HCoV,22621,9639,814,0,20948,9180,743,0,6,27,0.0,0.0,0.0,True,True,6,True
+season,Summer,Summer,CP,HMPV,CP + HMPV,22621,6254,4284,1,20948,5819,3961,0,6,27,0.00023342670401493932,0.00023342670401493932,0.0,True,True,6,True
+season,Summer,Summer,CP,HPIV,CP + HPIV,22621,29026,5827,25,20948,26972,5404,23,6,27,0.004290372404324695,0.004290372404324695,2.5374055860953932,True,True,6,True
+season,Summer,Summer,CP,HRV,CP + HRV,22621,19758,3072,6,20948,19042,2912,5,6,27,0.001953125,0.001953125,0.6941896048231381,True,True,6,True
+season,Summer,Summer,CP,IFV,CP + IFV,22621,115718,10288,29,20948,100127,9251,27,6,27,0.0028188180404354586,0.0028188180404354586,1.7721914705667554,True,True,6,True
+season,Summer,Summer,CP,RSV,CP + RSV,22621,44506,9133,28,20948,40571,8396,27,6,27,0.0030658053213620936,0.0030658053213620936,3.9955873830309674,True,True,6,True
+season,Summer,Summer,H. influenzae,K. pneumoniae,H. influenzae + K. pneumoniae,5544,1173,576,34,0,0,0,0,0,33,0.059027777777777776,0.059027777777777776,,True,False,0,True
+season,Summer,Summer,H. influenzae,Legionella,H. influenzae + Legionella,5544,2047,882,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,True
+season,Summer,Summer,H. influenzae,M. catarrhalis,H. influenzae + M. catarrhalis,5544,855,807,40,0,0,0,0,0,33,0.04956629491945477,0.04956629491945477,,True,False,0,True
+season,Summer,Summer,H. influenzae,MP,H. influenzae + MP,5544,97663,2734,71,4171,56415,2159,39,4,29,0.02596927578639356,0.02596927578639356,,True,False,4,True
+season,Summer,Summer,H. influenzae,MTB,H. influenzae + MTB,5544,8273,535,14,3577,4807,472,7,3,30,0.026168224299065422,0.026168224299065422,,True,False,3,True
+season,Summer,Summer,H. influenzae,P. aeruginosa,H. influenzae + P. aeruginosa,5544,1118,545,14,0,0,0,0,0,33,0.025688073394495414,0.025688073394495414,,True,False,0,True
+season,Summer,Summer,H. influenzae,S. aureus,H. influenzae + S. aureus,5544,4048,3679,62,4171,3017,2734,45,4,29,0.01685240554498505,0.01685240554498505,,True,False,4,True
+season,Summer,Summer,H. influenzae,S. maltophilia,H. influenzae + S. maltophilia,5544,1293,831,19,0,0,0,0,0,33,0.02286401925391095,0.02286401925391095,,True,False,0,True
+season,Summer,Summer,H. influenzae,S. pneumoniae,H. influenzae + S. pneumoniae,5544,2006,1269,60,1441,536,285,5,1,32,0.04728132387706856,0.04728132387706856,,True,False,1,True
+season,Summer,Summer,H. influenzae,Aspergillus,H. influenzae + Aspergillus,5544,544,170,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,False
+season,Summer,Summer,H. influenzae,Candida,H. influenzae + Candida,5544,1238,609,119,1441,631,371,49,1,32,0.19540229885057472,0.19540229885057472,,True,False,1,True
+season,Summer,Summer,H. influenzae,Cryptococcus,H. influenzae + Cryptococcus,5544,1470,286,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,False
+season,Summer,Summer,H. influenzae,Pneumocystis,H. influenzae + Pneumocystis,5544,518,177,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,False
+season,Summer,Summer,H. influenzae,COVID-19,H. influenzae + COVID-19,5544,64574,2432,20,4171,44765,1959,15,4,29,0.008223684210526315,0.008223684210526315,,True,False,4,True
+season,Summer,Summer,H. influenzae,EBV,H. influenzae + EBV,5544,3706,441,27,3577,2792,368,24,3,30,0.061224489795918366,0.061224489795918366,,True,False,3,True
+season,Summer,Summer,H. influenzae,HAdV,H. influenzae + HAdV,5544,49644,1346,16,4171,29265,914,3,4,29,0.01188707280832095,0.01188707280832095,,True,False,4,True
+season,Summer,Summer,H. influenzae,HBoV,H. influenzae + HBoV,5544,14357,1146,8,4171,8485,907,2,4,29,0.006980802792321117,0.006980802792321117,,True,False,4,True
+season,Summer,Summer,H. influenzae,HCoV,H. influenzae + HCoV,5544,9639,672,1,2757,2927,624,0,2,31,0.001488095238095238,0.001488095238095238,,True,False,2,True
+season,Summer,Summer,H. influenzae,HPIV,H. influenzae + HPIV,5544,29026,2751,31,4171,18052,1935,18,4,29,0.011268629589240277,0.011268629589240277,,True,False,4,True
+season,Summer,Summer,H. influenzae,HRV,H. influenzae + HRV,5544,19758,1197,43,4171,11361,949,22,4,29,0.03592314118629908,0.03592314118629908,,True,False,4,True
+season,Summer,Summer,H. influenzae,IFV,H. influenzae + IFV,5544,115718,3557,43,4171,64059,2597,29,4,29,0.01208883890919314,0.01208883890919314,,True,False,4,True
+season,Summer,Summer,H. influenzae,RSV,H. influenzae + RSV,5544,44506,2338,20,4171,28376,1801,16,4,29,0.00855431993156544,0.00855431993156544,,True,False,4,True
+season,Summer,Summer,K. pneumoniae,Legionella,K. pneumoniae + Legionella,1173,2047,353,2,0,0,0,0,0,33,0.0056657223796034,0.0056657223796034,,True,False,0,True
+season,Summer,Summer,K. pneumoniae,M. catarrhalis,K. pneumoniae + M. catarrhalis,1173,855,166,2,0,0,0,0,0,33,0.012048192771084338,0.012048192771084338,,True,False,0,False
+season,Summer,Summer,K. pneumoniae,MP,K. pneumoniae + MP,1173,97663,490,7,0,0,0,0,0,33,0.014285714285714285,0.014285714285714285,,True,False,0,True
+season,Summer,Summer,K. pneumoniae,MTB,K. pneumoniae + MTB,1173,8273,250,36,0,0,0,0,0,33,0.144,0.144,,True,False,0,True
+season,Summer,Summer,K. pneumoniae,P. aeruginosa,K. pneumoniae + P. aeruginosa,1173,1118,151,63,0,0,0,0,0,33,0.41721854304635764,0.41721854304635764,,True,False,0,True
+season,Summer,Summer,K. pneumoniae,S. aureus,K. pneumoniae + S. aureus,1173,4048,591,42,0,0,0,0,0,33,0.07106598984771574,0.07106598984771574,,True,False,0,True
+season,Summer,Summer,K. pneumoniae,S. maltophilia,K. pneumoniae + S. maltophilia,1173,1293,287,43,0,0,0,0,0,33,0.14982578397212543,0.14982578397212543,,True,False,0,True
+season,Summer,Summer,K. pneumoniae,S. pneumoniae,K. pneumoniae + S. pneumoniae,1173,2006,204,16,0,0,0,0,0,33,0.0784313725490196,0.0784313725490196,,True,False,0,False
+season,Summer,Summer,K. pneumoniae,COVID-19,K. pneumoniae + COVID-19,1173,64574,419,5,0,0,0,0,0,33,0.011933174224343675,0.011933174224343675,,True,False,0,True
+season,Summer,Summer,K. pneumoniae,EBV,K. pneumoniae + EBV,1173,3706,141,29,0,0,0,0,0,33,0.20567375886524822,0.20567375886524822,,True,False,0,False
+season,Summer,Summer,K. pneumoniae,HAdV,K. pneumoniae + HAdV,1173,49644,304,2,0,0,0,0,0,33,0.006578947368421052,0.006578947368421052,,True,False,0,True
+season,Summer,Summer,K. pneumoniae,HPIV,K. pneumoniae + HPIV,1173,29026,107,5,0,0,0,0,0,33,0.04672897196261682,0.04672897196261682,,True,False,0,False
+season,Summer,Summer,K. pneumoniae,IFV,K. pneumoniae + IFV,1173,115718,449,6,0,0,0,0,0,33,0.013363028953229399,0.013363028953229399,,True,False,0,True
+season,Summer,Summer,K. pneumoniae,RSV,K. pneumoniae + RSV,1173,44506,327,2,0,0,0,0,0,33,0.0061162079510703364,0.0061162079510703364,,True,False,0,True
+season,Summer,Summer,Legionella,MP,Legionella + MP,2047,97663,1402,4,0,0,0,0,0,33,0.0028530670470756064,0.0028530670470756064,,True,False,0,True
+season,Summer,Summer,Legionella,MTB,Legionella + MTB,2047,8273,509,1,0,0,0,0,0,33,0.0019646365422396855,0.0019646365422396855,,True,False,0,True
+season,Summer,Summer,Legionella,P. aeruginosa,Legionella + P. aeruginosa,2047,1118,520,1,0,0,0,0,0,33,0.0019230769230769232,0.0019230769230769232,,True,False,0,True
+season,Summer,Summer,Legionella,S. aureus,Legionella + S. aureus,2047,4048,931,1,0,0,0,0,0,33,0.0010741138560687433,0.0010741138560687433,,True,False,0,True
+season,Summer,Summer,Legionella,S. maltophilia,Legionella + S. maltophilia,2047,1293,102,1,0,0,0,0,0,33,0.00980392156862745,0.00980392156862745,,True,False,0,False
+season,Summer,Summer,Legionella,S. pneumoniae,Legionella + S. pneumoniae,2047,2006,570,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,True
+season,Summer,Summer,Legionella,COVID-19,Legionella + COVID-19,2047,64574,1260,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,True
+season,Summer,Summer,Legionella,EBV,Legionella + EBV,2047,3706,202,5,0,0,0,0,0,33,0.024752475247524754,0.024752475247524754,,True,False,0,True
+season,Summer,Summer,Legionella,HAdV,Legionella + HAdV,2047,49644,971,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,True
+season,Summer,Summer,Legionella,HBoV,Legionella + HBoV,2047,14357,376,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,True
+season,Summer,Summer,Legionella,HMPV,Legionella + HMPV,2047,6254,379,1,0,0,0,0,0,33,0.002638522427440633,0.002638522427440633,,True,False,0,True
+season,Summer,Summer,Legionella,HPIV,Legionella + HPIV,2047,29026,907,3,0,0,0,0,0,33,0.0033076074972436605,0.0033076074972436605,,True,False,0,True
+season,Summer,Summer,Legionella,IFV,Legionella + IFV,2047,115718,1431,3,0,0,0,0,0,33,0.0020964360587002098,0.0020964360587002098,,True,False,0,True
+season,Summer,Summer,Legionella,RSV,Legionella + RSV,2047,44506,814,1,0,0,0,0,0,33,0.0012285012285012285,0.0012285012285012285,,True,False,0,True
+season,Summer,Summer,M. catarrhalis,MP,M. catarrhalis + MP,855,97663,769,13,0,0,0,0,0,33,0.016905071521456438,0.016905071521456438,,True,False,0,True
+season,Summer,Summer,M. catarrhalis,MTB,M. catarrhalis + MTB,855,8273,168,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,False
+season,Summer,Summer,M. catarrhalis,S. aureus,M. catarrhalis + S. aureus,855,4048,423,5,0,0,0,0,0,33,0.01182033096926714,0.01182033096926714,,True,False,0,True
+season,Summer,Summer,M. catarrhalis,S. maltophilia,M. catarrhalis + S. maltophilia,855,1293,377,2,0,0,0,0,0,33,0.005305039787798408,0.005305039787798408,,True,False,0,True
+season,Summer,Summer,M. catarrhalis,S. pneumoniae,M. catarrhalis + S. pneumoniae,855,2006,537,16,0,0,0,0,0,33,0.0297951582867784,0.0297951582867784,,True,False,0,True
+season,Summer,Summer,M. catarrhalis,COVID-19,M. catarrhalis + COVID-19,855,64574,520,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,True
+season,Summer,Summer,M. catarrhalis,HAdV,M. catarrhalis + HAdV,855,49644,385,6,0,0,0,0,0,33,0.015584415584415584,0.015584415584415584,,True,False,0,True
+season,Summer,Summer,M. catarrhalis,HBoV,M. catarrhalis + HBoV,855,14357,468,4,0,0,0,0,0,33,0.008547008547008548,0.008547008547008548,,True,False,0,True
+season,Summer,Summer,M. catarrhalis,HPIV,M. catarrhalis + HPIV,855,29026,502,8,0,0,0,0,0,33,0.01593625498007968,0.01593625498007968,,True,False,0,True
+season,Summer,Summer,M. catarrhalis,HRV,M. catarrhalis + HRV,855,19758,422,16,0,0,0,0,0,33,0.037914691943127965,0.037914691943127965,,True,False,0,True
+season,Summer,Summer,M. catarrhalis,IFV,M. catarrhalis + IFV,855,115718,563,12,0,0,0,0,0,33,0.021314387211367674,0.021314387211367674,,True,False,0,True
+season,Summer,Summer,M. catarrhalis,RSV,M. catarrhalis + RSV,855,44506,450,1,0,0,0,0,0,33,0.0022222222222222222,0.0022222222222222222,,True,False,0,True
+season,Summer,Summer,MP,MTB,MP + MTB,97663,8273,2292,1,74716,6801,1922,1,5,28,0.0004363001745200698,0.0004363001745200698,,True,False,5,True
+season,Summer,Summer,MP,P. aeruginosa,MP + P. aeruginosa,97663,1118,280,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,True
+season,Summer,Summer,MP,S. aureus,MP + S. aureus,97663,4048,1685,6,56415,3017,1346,4,4,29,0.0035608308605341245,0.0035608308605341245,,True,False,4,True
+season,Summer,Summer,MP,S. maltophilia,MP + S. maltophilia,97663,1293,623,4,0,0,0,0,0,33,0.006420545746388443,0.006420545746388443,,True,False,0,True
+season,Summer,Summer,MP,S. pneumoniae,MP + S. pneumoniae,97663,2006,1193,23,13744,536,320,2,1,32,0.019279128248113998,0.019279128248113998,,True,False,1,True
+season,Summer,Summer,MP,Aspergillus,MP + Aspergillus,97663,544,181,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,False
+season,Summer,Summer,MP,Candida,MP + Candida,97663,1238,753,30,13744,631,472,16,1,32,0.0398406374501992,0.0398406374501992,,True,False,1,True
+season,Summer,Summer,MP,Cryptococcus,MP + Cryptococcus,97663,1470,642,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,True
+season,Summer,Summer,MP,Pneumocystis,MP + Pneumocystis,97663,518,178,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,False
+season,Summer,Summer,MP,CMV,MP + CMV,97663,723,232,10,0,0,0,0,0,33,0.04310344827586207,0.04310344827586207,,True,False,0,True
+season,Summer,Summer,MP,COVID-19,MP + COVID-19,97663,64574,25890,234,92175,59336,24838,228,8,25,0.009038238702201622,0.009038238702201622,0.31077068106742356,True,True,8,True
+season,Summer,Summer,MP,EBV,MP + EBV,97663,3706,2590,48,41683,2792,2089,15,3,30,0.018532818532818532,0.018532818532818532,,True,False,3,True
+season,Summer,Summer,MP,HAdV,MP + HAdV,97663,49644,37579,275,91130,46218,34942,251,7,26,0.007317916921684983,0.007317916921684983,0.6150233462398529,True,True,7,True
+season,Summer,Summer,MP,HBoV,MP + HBoV,97663,14357,14336,41,90334,13713,13694,41,6,27,0.0028599330357142855,0.0028599330357142855,0.601854014848854,True,True,6,True
+season,Summer,Summer,MP,HCoV,MP + HCoV,97663,9639,7779,37,90334,9180,7533,35,6,27,0.004756395423576295,0.004756395423576295,0.3994235246930477,True,True,6,True
+season,Summer,Summer,MP,HMPV,MP + HMPV,97663,6254,6036,4,90334,5819,5625,3,6,27,0.0006626905235255136,0.0006626905235255136,0.549044826467109,True,True,6,True
+season,Summer,Summer,MP,HPIV,MP + HPIV,97663,29026,22103,152,90334,26972,20810,148,6,27,0.006876894539202823,0.006876894539202823,0.4832854977383855,True,True,6,True
+season,Summer,Summer,MP,HRV,MP + HRV,97663,19758,16837,383,90334,19042,16193,380,6,27,0.0227475203421037,0.0227475203421037,0.8397646489926371,True,True,6,True
+season,Summer,Summer,MP,IFV,MP + IFV,97663,115718,45720,705,93523,104666,43379,613,10,23,0.01541994750656168,0.01541994750656168,0.7805323814577122,True,True,10,True
+season,Summer,Summer,MP,RSV,MP + RSV,97663,44506,34909,138,91130,41135,33024,129,7,26,0.003953135294623163,0.003953135294623163,0.4242079134517733,True,True,7,True
+season,Summer,Summer,MTB,S. aureus,MTB + S. aureus,8273,4048,452,17,4807,2505,401,12,3,30,0.03761061946902655,0.03761061946902655,,True,False,3,True
+season,Summer,Summer,MTB,S. maltophilia,MTB + S. maltophilia,8273,1293,347,9,0,0,0,0,0,33,0.025936599423631124,0.025936599423631124,,True,False,0,True
+season,Summer,Summer,MTB,S. pneumoniae,MTB + S. pneumoniae,8273,2006,181,3,1763,536,65,0,1,32,0.016574585635359115,0.016574585635359115,,True,False,1,False
+season,Summer,Summer,MTB,Cryptococcus,MTB + Cryptococcus,8273,1470,344,1,0,0,0,0,0,33,0.0029069767441860465,0.0029069767441860465,,True,False,0,True
+season,Summer,Summer,MTB,COVID-19,MTB + COVID-19,8273,64574,2058,32,6801,51846,1688,22,5,28,0.015549076773566569,0.015549076773566569,,True,False,5,True
+season,Summer,Summer,MTB,EBV,MTB + EBV,8273,3706,476,8,3561,2142,253,4,2,31,0.01680672268907563,0.01680672268907563,,True,False,2,True
+season,Summer,Summer,MTB,HAdV,MTB + HAdV,8273,49644,518,0,6801,38577,451,0,5,28,0.0,0.0,,True,False,5,True
+season,Summer,Summer,MTB,HBoV,MTB + HBoV,8273,14357,1450,0,6801,11144,1203,0,5,28,0.0,0.0,,True,False,5,True
+season,Summer,Summer,MTB,HCoV,MTB + HCoV,8273,9639,263,0,824,1549,57,0,1,32,0.0,0.0,,True,False,1,True
+season,Summer,Summer,MTB,HMPV,MTB + HMPV,8273,6254,1195,0,6801,4917,997,0,5,28,0.0,0.0,,True,False,5,True
+season,Summer,Summer,MTB,HPIV,MTB + HPIV,8273,29026,1648,5,6801,22654,1376,5,5,28,0.003033980582524272,0.003033980582524272,,True,False,5,True
+season,Summer,Summer,MTB,HRV,MTB + HRV,8273,19758,533,0,6801,15511,448,0,5,28,0.0,0.0,,True,False,5,True
+season,Summer,Summer,MTB,IFV,MTB + IFV,8273,115718,2720,20,6801,82652,2302,10,5,28,0.007352941176470588,0.007352941176470588,,True,False,5,True
+season,Summer,Summer,MTB,RSV,MTB + RSV,8273,44506,841,0,6801,34085,709,0,5,28,0.0,0.0,,True,False,5,True
+season,Summer,Summer,P. aeruginosa,S. aureus,P. aeruginosa + S. aureus,1118,4048,586,43,0,0,0,0,0,33,0.07337883959044368,0.07337883959044368,,True,False,0,True
+season,Summer,Summer,P. aeruginosa,S. maltophilia,P. aeruginosa + S. maltophilia,1118,1293,129,48,0,0,0,0,0,33,0.37209302325581395,0.37209302325581395,,True,False,0,False
+season,Summer,Summer,P. aeruginosa,S. pneumoniae,P. aeruginosa + S. pneumoniae,1118,2006,678,13,0,0,0,0,0,33,0.019174041297935103,0.019174041297935103,,True,False,0,True
+season,Summer,Summer,P. aeruginosa,COVID-19,P. aeruginosa + COVID-19,1118,64574,479,6,0,0,0,0,0,33,0.012526096033402923,0.012526096033402923,,True,False,0,True
+season,Summer,Summer,P. aeruginosa,HAdV,P. aeruginosa + HAdV,1118,49644,294,1,0,0,0,0,0,33,0.003401360544217687,0.003401360544217687,,True,False,0,True
+season,Summer,Summer,P. aeruginosa,IFV,P. aeruginosa + IFV,1118,115718,356,4,0,0,0,0,0,33,0.011235955056179775,0.011235955056179775,,True,False,0,True
+season,Summer,Summer,P. aeruginosa,RSV,P. aeruginosa + RSV,1118,44506,293,1,0,0,0,0,0,33,0.0034129692832764505,0.0034129692832764505,,True,False,0,True
+season,Summer,Summer,S. aureus,S. maltophilia,S. aureus + S. maltophilia,4048,1293,833,53,0,0,0,0,0,33,0.06362545018007203,0.06362545018007203,,True,False,0,True
+season,Summer,Summer,S. aureus,S. pneumoniae,S. aureus + S. pneumoniae,4048,2006,783,19,799,536,135,5,1,32,0.024265644955300127,0.024265644955300127,,True,False,1,True
+season,Summer,Summer,S. aureus,Aspergillus,S. aureus + Aspergillus,4048,544,188,1,0,0,0,0,0,33,0.005319148936170213,0.005319148936170213,,True,False,0,False
+season,Summer,Summer,S. aureus,Cryptococcus,S. aureus + Cryptococcus,4048,1470,306,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,False
+season,Summer,Summer,S. aureus,Pneumocystis,S. aureus + Pneumocystis,4048,518,198,3,0,0,0,0,0,33,0.015151515151515152,0.015151515151515152,,True,False,0,False
+season,Summer,Summer,S. aureus,COVID-19,S. aureus + COVID-19,4048,64574,1451,18,3017,44765,1197,16,4,29,0.012405237767057202,0.012405237767057202,,True,False,4,True
+season,Summer,Summer,S. aureus,EBV,S. aureus + EBV,4048,3706,421,61,2505,2792,345,53,3,30,0.14489311163895488,0.14489311163895488,,True,False,3,True
+season,Summer,Summer,S. aureus,HAdV,S. aureus + HAdV,4048,49644,960,0,3017,29265,699,0,4,29,0.0,0.0,,True,False,4,True
+season,Summer,Summer,S. aureus,HBoV,S. aureus + HBoV,4048,14357,155,2,799,1980,52,0,1,32,0.012903225806451613,0.012903225806451613,,True,False,1,True
+season,Summer,Summer,S. aureus,HPIV,S. aureus + HPIV,4048,29026,1718,26,3017,18052,1116,16,4,29,0.015133876600698487,0.015133876600698487,,True,False,4,True
+season,Summer,Summer,S. aureus,HRV,S. aureus + HRV,4048,19758,193,3,1769,5200,113,1,2,31,0.015544041450777202,0.015544041450777202,,True,False,2,True
+season,Summer,Summer,S. aureus,IFV,S. aureus + IFV,4048,115718,2507,23,3017,64059,1790,14,4,29,0.009174311926605505,0.009174311926605505,,True,False,4,True
+season,Summer,Summer,S. aureus,RSV,S. aureus + RSV,4048,44506,1361,8,3017,28376,1031,8,4,29,0.005878030859662013,0.005878030859662013,,True,False,4,True
+season,Summer,Summer,S. maltophilia,S. pneumoniae,S. maltophilia + S. pneumoniae,1293,2006,213,10,0,0,0,0,0,33,0.046948356807511735,0.046948356807511735,,True,False,0,False
+season,Summer,Summer,S. maltophilia,Aspergillus,S. maltophilia + Aspergillus,1293,544,168,1,0,0,0,0,0,33,0.005952380952380952,0.005952380952380952,,True,False,0,False
+season,Summer,Summer,S. maltophilia,Cryptococcus,S. maltophilia + Cryptococcus,1293,1470,223,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,False
+season,Summer,Summer,S. maltophilia,Pneumocystis,S. maltophilia + Pneumocystis,1293,518,179,1,0,0,0,0,0,33,0.00558659217877095,0.00558659217877095,,True,False,0,False
+season,Summer,Summer,S. maltophilia,COVID-19,S. maltophilia + COVID-19,1293,64574,295,10,0,0,0,0,0,33,0.03389830508474576,0.03389830508474576,,True,False,0,True
+season,Summer,Summer,S. maltophilia,EBV,S. maltophilia + EBV,1293,3706,159,62,0,0,0,0,0,33,0.389937106918239,0.389937106918239,,True,False,0,False
+season,Summer,Summer,S. maltophilia,HAdV,S. maltophilia + HAdV,1293,49644,120,1,0,0,0,0,0,33,0.008333333333333333,0.008333333333333333,,True,False,0,False
+season,Summer,Summer,S. maltophilia,HBoV,S. maltophilia + HBoV,1293,14357,153,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,True
+season,Summer,Summer,S. maltophilia,HMPV,S. maltophilia + HMPV,1293,6254,112,1,0,0,0,0,0,33,0.008928571428571428,0.008928571428571428,,True,False,0,False
+season,Summer,Summer,S. maltophilia,HPIV,S. maltophilia + HPIV,1293,29026,321,6,0,0,0,0,0,33,0.018691588785046728,0.018691588785046728,,True,False,0,True
+season,Summer,Summer,S. maltophilia,IFV,S. maltophilia + IFV,1293,115718,470,7,0,0,0,0,0,33,0.014893617021276596,0.014893617021276596,,True,False,0,True
+season,Summer,Summer,S. maltophilia,RSV,S. maltophilia + RSV,1293,44506,219,2,0,0,0,0,0,33,0.0091324200913242,0.0091324200913242,,True,False,0,True
+season,Summer,Summer,S. pneumoniae,Candida,S. pneumoniae + Candida,2006,1238,203,30,536,631,147,19,1,32,0.1477832512315271,0.1477832512315271,,True,False,1,False
+season,Summer,Summer,S. pneumoniae,COVID-19,S. pneumoniae + COVID-19,2006,64574,1285,5,536,10613,294,2,1,32,0.0038910505836575876,0.0038910505836575876,,True,False,1,True
+season,Summer,Summer,S. pneumoniae,HAdV,S. pneumoniae + HAdV,2006,49644,638,1,536,6504,66,0,1,32,0.001567398119122257,0.001567398119122257,,True,False,1,True
+season,Summer,Summer,S. pneumoniae,HBoV,S. pneumoniae + HBoV,2006,14357,779,2,536,1980,233,1,1,32,0.0025673940949935813,0.0025673940949935813,,True,False,1,True
+season,Summer,Summer,S. pneumoniae,HCoV,S. pneumoniae + HCoV,2006,9639,360,2,536,1386,184,2,1,32,0.005555555555555556,0.005555555555555556,,True,False,1,False
+season,Summer,Summer,S. pneumoniae,HPIV,S. pneumoniae + HPIV,2006,29026,813,10,536,4258,243,1,1,32,0.012300123001230012,0.012300123001230012,,True,False,1,True
+season,Summer,Summer,S. pneumoniae,HRV,S. pneumoniae + HRV,2006,19758,739,13,536,2691,218,4,1,32,0.017591339648173207,0.017591339648173207,,True,False,1,True
+season,Summer,Summer,S. pneumoniae,IFV,S. pneumoniae + IFV,2006,115718,1213,10,536,14867,315,2,1,32,0.008244023083264633,0.008244023083264633,,True,False,1,True
+season,Summer,Summer,S. pneumoniae,RSV,S. pneumoniae + RSV,2006,44506,1055,27,536,7330,265,18,1,32,0.025592417061611375,0.025592417061611375,,True,False,1,True
+season,Summer,Summer,Aspergillus,Candida,Aspergillus + Candida,544,1238,193,7,0,0,0,0,0,33,0.03626943005181347,0.03626943005181347,,True,False,0,False
+season,Summer,Summer,Aspergillus,Cryptococcus,Aspergillus + Cryptococcus,544,1470,466,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,True
+season,Summer,Summer,Aspergillus,Pneumocystis,Aspergillus + Pneumocystis,544,518,466,1,0,0,0,0,0,33,0.002145922746781116,0.002145922746781116,,True,False,0,True
+season,Summer,Summer,Aspergillus,COVID-19,Aspergillus + COVID-19,544,64574,111,3,0,0,0,0,0,33,0.02702702702702703,0.02702702702702703,,True,False,0,False
+season,Summer,Summer,Aspergillus,HAdV,Aspergillus + HAdV,544,49644,134,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,False
+season,Summer,Summer,Aspergillus,HPIV,Aspergillus + HPIV,544,29026,156,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,False
+season,Summer,Summer,Aspergillus,IFV,Aspergillus + IFV,544,115718,206,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,False
+season,Summer,Summer,Aspergillus,RSV,Aspergillus + RSV,544,44506,173,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,False
+season,Summer,Summer,Candida,Cryptococcus,Candida + Cryptococcus,1238,1470,191,1,0,0,0,0,0,33,0.005235602094240838,0.005235602094240838,,True,False,0,False
+season,Summer,Summer,Candida,Pneumocystis,Candida + Pneumocystis,1238,518,191,7,0,0,0,0,0,33,0.03664921465968586,0.03664921465968586,,True,False,0,False
+season,Summer,Summer,Candida,COVID-19,Candida + COVID-19,1238,64574,725,61,631,10613,454,36,1,32,0.08413793103448276,0.08413793103448276,,True,False,1,True
+season,Summer,Summer,Candida,HAdV,Candida + HAdV,1238,49644,207,3,631,6504,78,1,1,32,0.014492753623188406,0.014492753623188406,,True,False,1,True
+season,Summer,Summer,Candida,HBoV,Candida + HBoV,1238,14357,653,30,631,1980,431,23,1,32,0.045941807044410414,0.045941807044410414,,True,False,1,True
+season,Summer,Summer,Candida,HCoV,Candida + HCoV,1238,9639,576,36,631,1386,416,30,1,32,0.0625,0.0625,,True,False,1,True
+season,Summer,Summer,Candida,HPIV,Candida + HPIV,1238,29026,705,33,631,4258,447,23,1,32,0.04680851063829787,0.04680851063829787,,True,False,1,True
+season,Summer,Summer,Candida,HRV,Candida + HRV,1238,19758,674,98,631,2691,444,73,1,32,0.14540059347181009,0.14540059347181009,,True,False,1,True
+season,Summer,Summer,Candida,IFV,Candida + IFV,1238,115718,778,85,631,14867,479,69,1,32,0.10925449871465295,0.10925449871465295,,True,False,1,True
+season,Summer,Summer,Candida,RSV,Candida + RSV,1238,44506,694,211,631,7330,453,149,1,32,0.30403458213256485,0.30403458213256485,,True,False,1,True
+season,Summer,Summer,Cryptococcus,Pneumocystis,Cryptococcus + Pneumocystis,1470,518,469,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,True
+season,Summer,Summer,Cryptococcus,COVID-19,Cryptococcus + COVID-19,1470,64574,452,1,0,0,0,0,0,33,0.0022123893805309734,0.0022123893805309734,,True,False,0,True
+season,Summer,Summer,Cryptococcus,HAdV,Cryptococcus + HAdV,1470,49644,286,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,True
+season,Summer,Summer,Cryptococcus,HBoV,Cryptococcus + HBoV,1470,14357,241,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,True
+season,Summer,Summer,Cryptococcus,HMPV,Cryptococcus + HMPV,1470,6254,242,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,True
+season,Summer,Summer,Cryptococcus,HPIV,Cryptococcus + HPIV,1470,29026,421,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,True
+season,Summer,Summer,Cryptococcus,IFV,Cryptococcus + IFV,1470,115718,661,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,True
+season,Summer,Summer,Cryptococcus,RSV,Cryptococcus + RSV,1470,44506,332,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,True
+season,Summer,Summer,Pneumocystis,COVID-19,Pneumocystis + COVID-19,518,64574,116,2,0,0,0,0,0,33,0.017241379310344827,0.017241379310344827,,True,False,0,False
+season,Summer,Summer,Pneumocystis,HAdV,Pneumocystis + HAdV,518,49644,135,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,False
+season,Summer,Summer,Pneumocystis,HPIV,Pneumocystis + HPIV,518,29026,147,3,0,0,0,0,0,33,0.02040816326530612,0.02040816326530612,,True,False,0,False
+season,Summer,Summer,Pneumocystis,IFV,Pneumocystis + IFV,518,115718,211,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,False
+season,Summer,Summer,Pneumocystis,RSV,Pneumocystis + RSV,518,44506,177,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,False
+season,Summer,Summer,CMV,COVID-19,CMV + COVID-19,723,64574,243,36,0,0,0,0,0,33,0.14814814814814814,0.14814814814814814,,True,False,0,True
+season,Summer,Summer,CMV,EBV,CMV + EBV,723,3706,199,107,0,0,0,0,0,33,0.5376884422110553,0.5376884422110553,,True,False,0,False
+season,Summer,Summer,CMV,HAdV,CMV + HAdV,723,49644,225,1,0,0,0,0,0,33,0.0044444444444444444,0.0044444444444444444,,True,False,0,True
+season,Summer,Summer,CMV,HSV,CMV + HSV,723,211,102,7,0,0,0,0,0,33,0.06862745098039216,0.06862745098039216,,True,False,0,True
+season,Summer,Summer,CMV,IFV,CMV + IFV,723,115718,292,40,0,0,0,0,0,33,0.136986301369863,0.136986301369863,,True,False,0,True
+season,Summer,Summer,CMV,RSV,CMV + RSV,723,44506,220,0,0,0,0,0,0,33,0.0,0.0,,True,False,0,True
+season,Summer,Summer,COVID-19,EBV,COVID-19 + EBV,64574,3706,654,59,35281,2792,397,17,3,30,0.09021406727828746,0.09021406727828746,,True,False,3,True
+season,Summer,Summer,COVID-19,HAdV,COVID-19 + HAdV,64574,49644,12349,51,58353,46218,11714,49,7,26,0.004129889059842903,0.004129889059842903,0.7511214864672905,True,True,7,True
+season,Summer,Summer,COVID-19,HBoV,COVID-19 + HBoV,64574,14357,14340,18,57569,13713,13696,17,6,27,0.0012552301255230125,0.0012552301255230125,0.28138918252372225,True,True,6,True
+season,Summer,Summer,COVID-19,HCoV,COVID-19 + HCoV,64574,9639,9612,648,57569,9180,9156,580,6,27,0.06741573033707865,0.06741573033707865,5.216864565745831,True,True,6,True
+season,Summer,Summer,COVID-19,HMPV,COVID-19 + HMPV,64574,6254,6062,1,57569,5819,5643,0,6,27,0.0001649620587264929,0.0001649620587264929,0.0,True,True,6,True
+season,Summer,Summer,COVID-19,HPIV,COVID-19 + HPIV,64574,29026,17126,43,57569,26972,16309,40,6,27,0.0025108022889174355,0.0025108022889174355,0.19870732875337138,True,True,6,True
+season,Summer,Summer,COVID-19,HRV,COVID-19 + HRV,64574,19758,14670,93,57569,19042,14169,91,6,27,0.006339468302658487,0.006339468302658487,0.22566607683924755,True,True,6,True
+season,Summer,Summer,COVID-19,HSV,COVID-19 + HSV,64574,211,102,5,0,0,0,0,0,33,0.049019607843137254,0.049019607843137254,,True,False,0,False
+season,Summer,Summer,COVID-19,IFV,COVID-19 + IFV,64574,115718,42000,747,59861,103001,39086,708,9,24,0.017785714285714287,0.017785714285714287,1.067243034508473,True,True,9,True
+season,Summer,Summer,COVID-19,RSV,COVID-19 + RSV,64574,44506,21972,47,58353,41135,21113,42,7,26,0.002139086109594029,0.002139086109594029,0.1486273431968886,True,True,7,True
+season,Summer,Summer,EBV,HAdV,EBV + HAdV,3706,49644,721,8,2792,20819,468,6,3,30,0.011095700416088766,0.011095700416088766,,True,False,3,True
+season,Summer,Summer,EBV,HBoV,EBV + HBoV,3706,14357,297,0,2142,4011,127,0,2,31,0.0,0.0,,True,False,2,True
+season,Summer,Summer,EBV,HMPV,EBV + HMPV,3706,6254,296,1,2142,2025,125,1,2,31,0.0033783783783783786,0.0033783783783783786,,True,False,2,True
+season,Summer,Summer,EBV,HPIV,EBV + HPIV,3706,29026,1004,30,2792,14358,654,19,3,30,0.029880478087649404,0.029880478087649404,,True,False,3,True
+season,Summer,Summer,EBV,HRV,EBV + HRV,3706,19758,131,13,1051,2509,54,8,1,32,0.09923664122137404,0.09923664122137404,,True,False,1,False
+season,Summer,Summer,EBV,IFV,EBV + IFV,3706,115718,2762,101,2792,49250,2190,28,3,30,0.036567704561911656,0.036567704561911656,,True,False,3,True
+season,Summer,Summer,EBV,RSV,EBV + RSV,3706,44506,372,2,2792,21645,274,2,3,30,0.005376344086021506,0.005376344086021506,,True,False,3,True
+season,Summer,Summer,HAdV,HBoV,HAdV + HBoV,49644,14357,3295,4,45690,13713,3175,4,6,27,0.0012139605462822458,0.0012139605462822458,0.9934565065794568,True,True,6,True
+season,Summer,Summer,HAdV,HCoV,HAdV + HCoV,49644,9639,648,0,39186,7794,581,0,5,28,0.0,0.0,,True,False,5,True
+season,Summer,Summer,HAdV,HMPV,HAdV + HMPV,49644,6254,2862,2,45690,5819,2756,1,6,27,0.0006988120195667365,0.0006988120195667365,1.345953954557592,True,True,6,True
+season,Summer,Summer,HAdV,HPIV,HAdV + HPIV,49644,29026,12443,57,45690,26972,11590,44,6,27,0.004580888853170457,0.004580888853170457,0.9850451328428619,True,True,6,True
+season,Summer,Summer,HAdV,HRV,HAdV + HRV,49644,19758,9454,57,45690,19042,9115,56,6,27,0.0060291939919610744,0.0060291939919610744,1.0225797019008633,True,True,6,True
+season,Summer,Summer,HAdV,IFV,HAdV + IFV,49644,115718,26488,176,46218,101227,24319,150,7,26,0.006644518272425249,0.006644518272425249,1.0085067761286266,True,True,7,True
+season,Summer,Summer,HAdV,RSV,HAdV + RSV,49644,44506,25794,97,46218,41135,24112,78,7,26,0.003760564472357913,0.003760564472357913,1.7392646556956142,True,True,7,True
+season,Summer,Summer,HBoV,HCoV,HBoV + HCoV,14357,9639,7408,6,13713,9180,7192,6,6,27,0.0008099352051835853,0.0008099352051835853,0.6655315137859417,True,True,6,True
+season,Summer,Summer,HBoV,HMPV,HBoV + HMPV,14357,6254,5904,0,13713,5819,5499,0,6,27,0.0,0.0,0.0,True,True,6,True
+season,Summer,Summer,HBoV,HPIV,HBoV + HPIV,14357,29026,14333,19,13713,26972,13690,19,6,27,0.0013256122235400824,0.0013256122235400824,0.8074367072842297,True,True,6,True
+season,Summer,Summer,HBoV,HRV,HBoV + HRV,14357,19758,12301,85,13713,19042,11893,85,6,27,0.006910007316478335,0.006910007316478335,2.077203101885315,True,True,6,True
+season,Summer,Summer,HBoV,IFV,HBoV + IFV,14357,115718,14347,24,13713,100127,13703,24,6,27,0.0016728235868125742,0.0016728235868125742,0.788756650557109,True,True,6,True
+season,Summer,Summer,HBoV,RSV,HBoV + RSV,14357,44506,12420,23,13713,40571,12007,23,6,27,0.001851851851851852,0.001851851851851852,1.513548462097777,True,True,6,True
+season,Summer,Summer,HCoV,HMPV,HCoV + HMPV,9639,6254,1147,0,9180,5819,1070,0,6,27,0.0,0.0,0.0,True,True,6,True
+season,Summer,Summer,HCoV,HPIV,HCoV + HPIV,9639,29026,7602,17,9180,26972,7383,16,6,27,0.0022362536174690873,0.0022362536174690873,0.5290961154201554,True,True,6,True
+season,Summer,Summer,HCoV,HRV,HCoV + HRV,9639,19758,7596,49,9180,19042,7378,49,6,27,0.006450763559768299,0.006450763559768299,0.7135489258890164,True,True,6,True
+season,Summer,Summer,HCoV,IFV,HCoV + IFV,9639,115718,8314,99,9180,100127,7952,81,6,27,0.011907625691604522,0.011907625691604522,2.4571696345930287,True,True,6,True
+season,Summer,Summer,HCoV,RSV,HCoV + RSV,9639,44506,7701,17,9180,40571,7461,17,6,27,0.002207505518763797,0.002207505518763797,0.6075363618355716,True,True,6,True
+season,Summer,Summer,HMPV,HPIV,HMPV + HPIV,6254,29026,6111,1,5819,26972,5690,0,6,27,0.00016363933889707084,0.00016363933889707084,0.0,True,True,6,True
+season,Summer,Summer,HMPV,HRV,HMPV + HRV,6254,19758,3989,4,5819,19042,3804,2,6,27,0.001002757583354224,0.001002757583354224,0.35206422173151775,True,True,6,True
+season,Summer,Summer,HMPV,IFV,HMPV + IFV,6254,115718,6205,3,5819,100127,5780,1,6,27,0.00048348106365834006,0.00048348106365834006,0.11840245213618425,True,True,6,True
+season,Summer,Summer,HMPV,RSV,HMPV + RSV,6254,44506,4072,1,5819,40571,3889,0,6,27,0.0002455795677799607,0.0002455795677799607,0.0,True,True,6,True
+season,Summer,Summer,HPIV,HRV,HPIV + HRV,29026,19758,14903,200,26972,19042,14388,197,6,27,0.013420116755015768,0.013420116755015768,1.1711440757139933,True,True,6,True
+season,Summer,Summer,HPIV,IFV,HPIV + IFV,29026,115718,28977,1830,26972,100127,26926,1759,6,27,0.06315353556268764,0.06315353556268764,9.63080600991761,True,True,6,True
+season,Summer,Summer,HPIV,RSV,HPIV + RSV,29026,44506,20701,97,26972,40571,19712,84,6,27,0.004685763972754939,0.004685763972754939,1.1423228861924335,True,True,6,True
+season,Summer,Summer,HRV,IFV,HRV + IFV,19758,115718,17001,217,19042,100127,16345,212,6,27,0.012763955061466973,0.012763955061466973,0.9165471979740231,True,True,6,True
+season,Summer,Summer,HRV,RSV,HRV + RSV,19758,44506,17891,194,19042,40571,17219,191,6,27,0.010843440836174613,0.010843440836174613,1.3302187328377706,True,True,6,True
+season,Summer,Summer,HSV,IFV,HSV + IFV,211,115718,105,1,0,0,0,0,0,33,0.009523809523809525,0.009523809523809525,,True,False,0,True
+season,Summer,Summer,IFV,RSV,IFV + RSV,115718,44506,33401,194,101227,41135,31258,164,7,26,0.005808209335049849,0.005808209335049849,0.718721269795584,True,True,7,True
+season,Autumn,Autumn,A. baumannii,B. pertussis,A. baumannii + B. pertussis,1064,6327,176,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Autumn,Autumn,A. baumannii,CP,A. baumannii + CP,1064,29605,103,3,0,0,0,0,0,34,0.02912621359223301,0.02912621359223301,,True,False,0,True
+season,Autumn,Autumn,A. baumannii,H. influenzae,A. baumannii + H. influenzae,1064,7381,512,20,0,0,0,0,0,34,0.0390625,0.0390625,,True,False,0,True
+season,Autumn,Autumn,A. baumannii,K. pneumoniae,A. baumannii + K. pneumoniae,1064,912,135,69,0,0,0,0,0,34,0.5111111111111111,0.5111111111111111,,True,False,0,True
+season,Autumn,Autumn,A. baumannii,M. catarrhalis,A. baumannii + M. catarrhalis,1064,666,287,3,0,0,0,0,0,34,0.010452961672473868,0.010452961672473868,,True,False,0,True
+season,Autumn,Autumn,A. baumannii,MP,A. baumannii + MP,1064,113277,470,3,0,0,0,0,0,34,0.006382978723404255,0.006382978723404255,,True,False,0,True
+season,Autumn,Autumn,A. baumannii,MTB,A. baumannii + MTB,1064,7420,170,21,0,0,0,0,0,34,0.12352941176470589,0.12352941176470589,,True,False,0,True
+season,Autumn,Autumn,A. baumannii,S. aureus,A. baumannii + S. aureus,1064,2891,564,52,0,0,0,0,0,34,0.09219858156028368,0.09219858156028368,,True,False,0,True
+season,Autumn,Autumn,A. baumannii,S. maltophilia,A. baumannii + S. maltophilia,1064,796,567,101,0,0,0,0,0,34,0.1781305114638448,0.1781305114638448,,True,False,0,True
+season,Autumn,Autumn,A. baumannii,COVID-19,A. baumannii + COVID-19,1064,57383,282,25,0,0,0,0,0,34,0.08865248226950355,0.08865248226950355,,True,False,0,True
+season,Autumn,Autumn,A. baumannii,HBoV,A. baumannii + HBoV,1064,14472,202,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Autumn,Autumn,A. baumannii,HPIV,A. baumannii + HPIV,1064,34217,243,6,0,0,0,0,0,34,0.024691358024691357,0.024691358024691357,,True,False,0,True
+season,Autumn,Autumn,A. baumannii,HRV,A. baumannii + HRV,1064,16352,129,3,0,0,0,0,0,34,0.023255813953488372,0.023255813953488372,,True,False,0,True
+season,Autumn,Autumn,A. baumannii,IFV,A. baumannii + IFV,1064,147942,320,11,0,0,0,0,0,34,0.034375,0.034375,,True,False,0,True
+season,Autumn,Autumn,A. baumannii,RSV,A. baumannii + RSV,1064,60193,171,6,0,0,0,0,0,34,0.03508771929824561,0.03508771929824561,,True,False,0,True
+season,Autumn,Autumn,B. pertussis,H. influenzae,B. pertussis + H. influenzae,6327,7381,1140,4,5547,5359,823,3,5,29,0.0035087719298245615,0.0035087719298245615,,True,False,5,True
+season,Autumn,Autumn,B. pertussis,M. catarrhalis,B. pertussis + M. catarrhalis,6327,666,485,3,0,0,0,0,0,34,0.006185567010309278,0.006185567010309278,,True,False,0,True
+season,Autumn,Autumn,B. pertussis,MP,B. pertussis + MP,6327,113277,4407,22,5547,80236,3907,21,5,29,0.004992058089403222,0.004992058089403222,,True,False,5,True
+season,Autumn,Autumn,B. pertussis,MTB,B. pertussis + MTB,6327,7420,116,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Autumn,Autumn,B. pertussis,S. aureus,B. pertussis + S. aureus,6327,2891,209,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Autumn,Autumn,B. pertussis,S. maltophilia,B. pertussis + S. maltophilia,6327,796,176,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Autumn,Autumn,B. pertussis,S. pneumoniae,B. pertussis + S. pneumoniae,6327,1978,410,1,604,512,63,0,1,33,0.0024390243902439024,0.0024390243902439024,,True,False,1,True
+season,Autumn,Autumn,B. pertussis,Candida,B. pertussis + Candida,6327,1881,166,1,1264,1259,127,1,2,32,0.006024096385542169,0.006024096385542169,,True,False,2,False
+season,Autumn,Autumn,B. pertussis,COVID-19,B. pertussis + COVID-19,6327,57383,2814,1,5547,33258,2561,1,5,29,0.00035536602700781805,0.00035536602700781805,,True,False,5,True
+season,Autumn,Autumn,B. pertussis,HAdV,B. pertussis + HAdV,6327,60591,892,0,4887,33706,796,0,4,30,0.0,0.0,,True,False,4,True
+season,Autumn,Autumn,B. pertussis,HBoV,B. pertussis + HBoV,6327,14472,2127,0,5547,9978,1905,0,5,29,0.0,0.0,,True,False,5,True
+season,Autumn,Autumn,B. pertussis,HCoV,B. pertussis + HCoV,6327,8661,1717,1,5547,6668,1553,1,5,29,0.0005824111822947001,0.0005824111822947001,,True,False,5,True
+season,Autumn,Autumn,B. pertussis,HPIV,B. pertussis + HPIV,6327,34217,2153,3,5547,21550,1923,3,5,29,0.0013934045517882026,0.0013934045517882026,,True,False,5,True
+season,Autumn,Autumn,B. pertussis,HRV,B. pertussis + HRV,6327,16352,2305,7,5547,11600,1999,6,5,29,0.003036876355748373,0.003036876355748373,,True,False,5,True
+season,Autumn,Autumn,B. pertussis,IFV,B. pertussis + IFV,6327,147942,3349,3,5547,77145,2990,3,5,29,0.0008957897879964168,0.0008957897879964168,,True,False,5,True
+season,Autumn,Autumn,B. pertussis,RSV,B. pertussis + RSV,6327,60193,2648,4,5547,34819,2361,3,5,29,0.0015105740181268882,0.0015105740181268882,,True,False,5,True
+season,Autumn,Autumn,CP,H. influenzae,CP + H. influenzae,29605,7381,217,0,6046,1546,112,0,1,33,0.0,0.0,,True,False,1,False
+season,Autumn,Autumn,CP,Legionella,CP + Legionella,29605,3512,1807,2,13801,2116,1162,2,3,31,0.0011068068622025456,0.0011068068622025456,,True,False,3,True
+season,Autumn,Autumn,CP,MP,CP + MP,29605,113277,27866,450,26658,99629,25121,412,8,26,0.016148711691667265,0.016148711691667265,3.485246151124814,True,True,8,True
+season,Autumn,Autumn,CP,MTB,CP + MTB,29605,7420,1170,52,20163,5063,856,28,5,29,0.044444444444444446,0.044444444444444446,,True,False,5,True
+season,Autumn,Autumn,CP,Cryptococcus,CP + Cryptococcus,29605,731,136,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Autumn,Autumn,CP,COVID-19,CP + COVID-19,29605,57383,6083,39,26658,45478,5402,37,8,26,0.006411310208778563,0.006411310208778563,1.4021389502516524,True,True,8,True
+season,Autumn,Autumn,CP,EBV,CP + EBV,29605,2186,314,8,0,0,0,0,0,34,0.025477707006369428,0.025477707006369428,,True,False,0,True
+season,Autumn,Autumn,CP,HAdV,CP + HAdV,29605,60591,25941,230,26658,52030,23633,224,8,26,0.008866273466712926,0.008866273466712926,14.970169013540236,True,True,8,True
+season,Autumn,Autumn,CP,HBoV,CP + HBoV,29605,14472,4680,0,25722,12306,4273,0,7,27,0.0,0.0,0.0,True,True,7,True
+season,Autumn,Autumn,CP,HCoV,CP + HCoV,29605,8661,649,0,18312,5625,573,0,4,30,0.0,0.0,,True,False,4,True
+season,Autumn,Autumn,CP,HMPV,CP + HMPV,29605,6877,4958,193,22236,5976,4464,189,6,28,0.03892698668818072,0.03892698668818072,16.348671899180783,True,True,6,True
+season,Autumn,Autumn,CP,HPIV,CP + HPIV,29605,34217,8825,222,26658,30341,8121,217,8,26,0.025155807365439094,0.025155807365439094,14.627673103077383,True,True,8,True
+season,Autumn,Autumn,CP,HRV,CP + HRV,29605,16352,3977,201,25722,14025,3739,197,7,27,0.050540608498868496,0.050540608498868496,8.188792036845962,True,True,7,True
+season,Autumn,Autumn,CP,IFV,CP + IFV,29605,147942,14955,227,26658,121065,13279,221,8,26,0.015178869943162821,0.015178869943162821,6.7806722497152805,True,True,8,True
+season,Autumn,Autumn,CP,RSV,CP + RSV,29605,60193,20849,224,26658,52689,19575,217,8,26,0.01074392057173006,0.01074392057173006,17.576129449575767,True,True,8,True
+season,Autumn,Autumn,H. influenzae,K. pneumoniae,H. influenzae + K. pneumoniae,7381,912,417,35,0,0,0,0,0,34,0.08393285371702638,0.08393285371702638,,True,False,0,True
+season,Autumn,Autumn,H. influenzae,Legionella,H. influenzae + Legionella,7381,3512,786,0,2586,1422,299,0,2,32,0.0,0.0,,True,False,2,True
+season,Autumn,Autumn,H. influenzae,M. catarrhalis,H. influenzae + M. catarrhalis,7381,666,638,40,0,0,0,0,0,34,0.06269592476489028,0.06269592476489028,,True,False,0,True
+season,Autumn,Autumn,H. influenzae,MP,H. influenzae + MP,7381,113277,3410,65,6089,91111,3015,50,6,28,0.01906158357771261,0.01906158357771261,0.4063444522238966,True,True,6,True
+season,Autumn,Autumn,H. influenzae,MTB,H. influenzae + MTB,7381,7420,392,17,1062,790,124,2,1,33,0.04336734693877551,0.04336734693877551,,True,False,1,True
+season,Autumn,Autumn,H. influenzae,P. aeruginosa,H. influenzae + P. aeruginosa,7381,927,414,16,0,0,0,0,0,34,0.03864734299516908,0.03864734299516908,,True,False,0,True
+season,Autumn,Autumn,H. influenzae,S. aureus,H. influenzae + S. aureus,7381,2891,2658,52,2586,1159,1106,11,2,32,0.019563581640331076,0.019563581640331076,,True,False,2,True
+season,Autumn,Autumn,H. influenzae,S. maltophilia,H. influenzae + S. maltophilia,7381,796,496,18,0,0,0,0,0,34,0.036290322580645164,0.036290322580645164,,True,False,0,True
+season,Autumn,Autumn,H. influenzae,S. pneumoniae,H. influenzae + S. pneumoniae,7381,1978,1269,28,1062,512,249,1,1,33,0.02206461780929866,0.02206461780929866,,True,False,1,True
+season,Autumn,Autumn,H. influenzae,Candida,H. influenzae + Candida,7381,1881,1232,153,2190,1259,920,74,2,32,0.1241883116883117,0.1241883116883117,,True,False,2,True
+season,Autumn,Autumn,H. influenzae,COVID-19,H. influenzae + COVID-19,7381,57383,3202,21,6089,38536,2932,15,6,28,0.00655840099937539,0.00655840099937539,0.6593593496178413,True,True,6,True
+season,Autumn,Autumn,H. influenzae,EBV,H. influenzae + EBV,7381,2186,118,11,0,0,0,0,0,34,0.09322033898305085,0.09322033898305085,,True,False,0,True
+season,Autumn,Autumn,H. influenzae,HAdV,H. influenzae + HAdV,7381,60591,1128,22,6089,42610,951,20,6,28,0.01950354609929078,0.01950354609929078,1.9180507741114148,True,True,6,True
+season,Autumn,Autumn,H. influenzae,HBoV,H. influenzae + HBoV,7381,14472,2189,2,6089,11019,2115,2,6,28,0.0009136592051164915,0.0009136592051164915,0.5840494978966784,True,True,6,True
+season,Autumn,Autumn,H. influenzae,HCoV,H. influenzae + HCoV,7381,8661,1789,1,2920,2834,1744,1,3,31,0.0005589714924538849,0.0005589714924538849,,True,False,3,True
+season,Autumn,Autumn,H. influenzae,HPIV,H. influenzae + HPIV,7381,34217,3078,31,6089,25507,2886,28,6,28,0.010071474983755685,0.010071474983755685,1.1175233773172994,True,True,6,True
+season,Autumn,Autumn,H. influenzae,HRV,H. influenzae + HRV,7381,16352,2289,84,6089,12701,2173,78,6,28,0.03669724770642202,0.03669724770642202,0.8536921328330341,True,True,6,True
+season,Autumn,Autumn,H. influenzae,IFV,H. influenzae + IFV,7381,147942,3957,58,6089,103128,3559,42,6,28,0.014657568865301996,0.014657568865301996,0.3368738881952818,True,True,6,True
+season,Autumn,Autumn,H. influenzae,RSV,H. influenzae + RSV,7381,60193,3027,21,6089,43264,2770,19,6,28,0.006937561942517344,0.006937561942517344,0.2961681327725553,True,True,6,True
+season,Autumn,Autumn,K. pneumoniae,Legionella,K. pneumoniae + Legionella,912,3512,329,2,0,0,0,0,0,34,0.0060790273556231,0.0060790273556231,,True,False,0,True
+season,Autumn,Autumn,K. pneumoniae,MP,K. pneumoniae + MP,912,113277,329,10,0,0,0,0,0,34,0.030395136778115502,0.030395136778115502,,True,False,0,True
+season,Autumn,Autumn,K. pneumoniae,MTB,K. pneumoniae + MTB,912,7420,126,48,0,0,0,0,0,34,0.38095238095238093,0.38095238095238093,,True,False,0,True
+season,Autumn,Autumn,K. pneumoniae,P. aeruginosa,K. pneumoniae + P. aeruginosa,912,927,156,86,0,0,0,0,0,34,0.5512820512820513,0.5512820512820513,,True,False,0,True
+season,Autumn,Autumn,K. pneumoniae,S. aureus,K. pneumoniae + S. aureus,912,2891,437,56,0,0,0,0,0,34,0.12814645308924486,0.12814645308924486,,True,False,0,True
+season,Autumn,Autumn,K. pneumoniae,S. maltophilia,K. pneumoniae + S. maltophilia,912,796,120,55,0,0,0,0,0,34,0.4583333333333333,0.4583333333333333,,True,False,0,True
+season,Autumn,Autumn,K. pneumoniae,S. pneumoniae,K. pneumoniae + S. pneumoniae,912,1978,126,27,0,0,0,0,0,34,0.21428571428571427,0.21428571428571427,,True,False,0,False
+season,Autumn,Autumn,K. pneumoniae,COVID-19,K. pneumoniae + COVID-19,912,57383,373,15,0,0,0,0,0,34,0.040214477211796246,0.040214477211796246,,True,False,0,True
+season,Autumn,Autumn,K. pneumoniae,HAdV,K. pneumoniae + HAdV,912,60591,224,3,0,0,0,0,0,34,0.013392857142857142,0.013392857142857142,,True,False,0,True
+season,Autumn,Autumn,K. pneumoniae,IFV,K. pneumoniae + IFV,912,147942,317,13,0,0,0,0,0,34,0.04100946372239748,0.04100946372239748,,True,False,0,True
+season,Autumn,Autumn,K. pneumoniae,RSV,K. pneumoniae + RSV,912,60193,256,4,0,0,0,0,0,34,0.015625,0.015625,,True,False,0,True
+season,Autumn,Autumn,Legionella,MP,Legionella + MP,3512,113277,2662,32,2116,51497,1666,25,3,31,0.012021036814425245,0.012021036814425245,,True,False,3,True
+season,Autumn,Autumn,Legionella,MTB,Legionella + MTB,3512,7420,467,2,1422,2697,197,0,2,32,0.004282655246252677,0.004282655246252677,,True,False,2,True
+season,Autumn,Autumn,Legionella,P. aeruginosa,Legionella + P. aeruginosa,3512,927,447,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Autumn,Autumn,Legionella,S. aureus,Legionella + S. aureus,3512,2891,789,1,1422,1159,300,0,2,32,0.0012674271229404308,0.0012674271229404308,,True,False,2,True
+season,Autumn,Autumn,Legionella,S. pneumoniae,Legionella + S. pneumoniae,3512,1978,457,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Autumn,Autumn,Legionella,COVID-19,Legionella + COVID-19,3512,57383,1399,1,2116,20515,760,0,3,31,0.0007147962830593281,0.0007147962830593281,,True,False,3,True
+season,Autumn,Autumn,Legionella,EBV,Legionella + EBV,3512,2186,194,4,0,0,0,0,0,34,0.020618556701030927,0.020618556701030927,,True,False,0,True
+season,Autumn,Autumn,Legionella,HAdV,Legionella + HAdV,3512,60591,2476,1,2116,27626,1640,0,3,31,0.0004038772213247173,0.0004038772213247173,,True,False,3,True
+season,Autumn,Autumn,Legionella,HBoV,Legionella + HBoV,3512,14472,269,0,699,2589,65,0,1,33,0.0,0.0,,True,False,1,True
+season,Autumn,Autumn,Legionella,HMPV,Legionella + HMPV,3512,6877,305,0,699,1318,66,0,1,33,0.0,0.0,,True,False,1,True
+season,Autumn,Autumn,Legionella,HPIV,Legionella + HPIV,3512,34217,2494,1,2116,15981,1674,1,3,31,0.00040096230954290296,0.00040096230954290296,,True,False,3,True
+season,Autumn,Autumn,Legionella,IFV,Legionella + IFV,3512,147942,2949,9,2116,49842,1877,5,3,31,0.003051881993896236,0.003051881993896236,,True,False,3,True
+season,Autumn,Autumn,Legionella,RSV,Legionella + RSV,3512,60193,2197,1,2116,27441,1421,0,3,31,0.0004551661356395084,0.0004551661356395084,,True,False,3,True
+season,Autumn,Autumn,M. catarrhalis,MP,M. catarrhalis + MP,666,113277,644,9,0,0,0,0,0,34,0.013975155279503106,0.013975155279503106,,True,False,0,True
+season,Autumn,Autumn,M. catarrhalis,S. aureus,M. catarrhalis + S. aureus,666,2891,293,4,0,0,0,0,0,34,0.013651877133105802,0.013651877133105802,,True,False,0,True
+season,Autumn,Autumn,M. catarrhalis,S. maltophilia,M. catarrhalis + S. maltophilia,666,796,287,4,0,0,0,0,0,34,0.013937282229965157,0.013937282229965157,,True,False,0,True
+season,Autumn,Autumn,M. catarrhalis,S. pneumoniae,M. catarrhalis + S. pneumoniae,666,1978,346,6,0,0,0,0,0,34,0.017341040462427744,0.017341040462427744,,True,False,0,True
+season,Autumn,Autumn,M. catarrhalis,COVID-19,M. catarrhalis + COVID-19,666,57383,441,8,0,0,0,0,0,34,0.018140589569160998,0.018140589569160998,,True,False,0,True
+season,Autumn,Autumn,M. catarrhalis,HAdV,M. catarrhalis + HAdV,666,60591,272,10,0,0,0,0,0,34,0.03676470588235294,0.03676470588235294,,True,False,0,True
+season,Autumn,Autumn,M. catarrhalis,HBoV,M. catarrhalis + HBoV,666,14472,410,1,0,0,0,0,0,34,0.0024390243902439024,0.0024390243902439024,,True,False,0,True
+season,Autumn,Autumn,M. catarrhalis,HPIV,M. catarrhalis + HPIV,666,34217,424,11,0,0,0,0,0,34,0.025943396226415096,0.025943396226415096,,True,False,0,True
+season,Autumn,Autumn,M. catarrhalis,HRV,M. catarrhalis + HRV,666,16352,398,33,0,0,0,0,0,34,0.0829145728643216,0.0829145728643216,,True,False,0,True
+season,Autumn,Autumn,M. catarrhalis,IFV,M. catarrhalis + IFV,666,147942,458,12,0,0,0,0,0,34,0.026200873362445413,0.026200873362445413,,True,False,0,True
+season,Autumn,Autumn,M. catarrhalis,RSV,M. catarrhalis + RSV,666,60193,401,3,0,0,0,0,0,34,0.007481296758104738,0.007481296758104738,,True,False,0,True
+season,Autumn,Autumn,MP,MTB,MP + MTB,113277,7420,1892,57,77630,5063,1407,29,5,29,0.030126849894291756,0.030126849894291756,,True,False,5,True
+season,Autumn,Autumn,MP,P. aeruginosa,MP + P. aeruginosa,113277,927,207,2,0,0,0,0,0,34,0.00966183574879227,0.00966183574879227,,True,False,0,True
+season,Autumn,Autumn,MP,S. aureus,MP + S. aureus,113277,2891,1182,2,46298,1159,478,2,2,32,0.001692047377326565,0.001692047377326565,,True,False,2,True
+season,Autumn,Autumn,MP,S. maltophilia,MP + S. maltophilia,113277,796,415,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Autumn,Autumn,MP,S. pneumoniae,MP + S. pneumoniae,113277,1978,1213,10,9147,512,285,0,1,33,0.008244023083264633,0.008244023083264633,,True,False,1,True
+season,Autumn,Autumn,MP,Candida,MP + Candida,113277,1881,1436,48,15072,1259,1105,38,2,32,0.033426183844011144,0.033426183844011144,,True,False,2,True
+season,Autumn,Autumn,MP,Cryptococcus,MP + Cryptococcus,113277,731,263,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Autumn,Autumn,MP,CMV,MP + CMV,113277,348,138,1,0,0,0,0,0,34,0.007246376811594203,0.007246376811594203,,True,False,0,True
+season,Autumn,Autumn,MP,COVID-19,MP + COVID-19,113277,57383,24183,116,109130,53700,23578,109,19,15,0.004796758053177852,0.004796758053177852,0.276132049747009,True,True,19,True
+season,Autumn,Autumn,MP,EBV,MP + EBV,113277,2186,1345,89,0,0,0,0,0,34,0.06617100371747212,0.06617100371747212,,True,False,0,True
+season,Autumn,Autumn,MP,HAdV,MP + HAdV,113277,60591,46952,547,104478,55445,43064,517,12,22,0.011650195944794684,0.011650195944794684,1.8040588853040824,True,True,12,True
+season,Autumn,Autumn,MP,HBoV,MP + HBoV,113277,14472,14444,33,99629,13519,13503,33,8,26,0.0022846856826363887,0.0022846856826363887,0.4835985397789166,True,True,8,True
+season,Autumn,Autumn,MP,HCoV,MP + HCoV,113277,8661,7180,25,91111,7336,6462,20,6,28,0.003481894150417827,0.003481894150417827,0.6301249692340603,True,True,6,True
+season,Autumn,Autumn,MP,HMPV,MP + HMPV,113277,6877,6466,299,82829,5976,5665,294,6,28,0.046241880606248065,0.046241880606248065,3.1497913237081065,True,True,6,True
+season,Autumn,Autumn,MP,HPIV,MP + HPIV,113277,34217,27811,426,101387,31053,25549,413,9,25,0.015317680054654633,0.015317680054654633,1.9954707967542442,True,True,9,True
+season,Autumn,Autumn,MP,HRV,MP + HRV,113277,16352,15647,714,99629,15197,14620,702,8,26,0.04563175049530262,0.04563175049530262,0.8749917167965763,True,True,8,True
+season,Autumn,Autumn,MP,HSV,MP + HSV,113277,271,149,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,False
+season,Autumn,Autumn,MP,IFV,MP + IFV,113277,147942,51050,1942,112115,143291,50278,1884,23,11,0.0380411361410382,0.0380411361410382,0.9019189536721025,True,True,23,True
+season,Autumn,Autumn,MP,RSV,MP + RSV,113277,60193,45488,413,103819,55837,42835,388,12,22,0.009079317622230038,0.009079317622230038,1.0328705888691017,True,True,12,True
+season,Autumn,Autumn,MTB,S. aureus,MTB + S. aureus,7420,2891,261,23,0,0,0,0,0,34,0.08812260536398467,0.08812260536398467,,True,False,0,True
+season,Autumn,Autumn,MTB,S. maltophilia,MTB + S. maltophilia,7420,796,131,19,0,0,0,0,0,34,0.1450381679389313,0.1450381679389313,,True,False,0,True
+season,Autumn,Autumn,MTB,Cryptococcus,MTB + Cryptococcus,7420,731,224,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Autumn,Autumn,MTB,COVID-19,MTB + COVID-19,7420,57383,1746,106,5063,32690,1239,37,5,29,0.06071019473081329,0.06071019473081329,,True,False,5,True
+season,Autumn,Autumn,MTB,EBV,MTB + EBV,7420,2186,400,46,0,0,0,0,0,34,0.115,0.115,,True,False,0,True
+season,Autumn,Autumn,MTB,HAdV,MTB + HAdV,7420,60591,655,53,5063,37329,468,28,5,29,0.08091603053435115,0.08091603053435115,,True,False,5,True
+season,Autumn,Autumn,MTB,HBoV,MTB + HBoV,7420,14472,1164,0,4517,8765,816,0,4,30,0.0,0.0,,True,False,4,True
+season,Autumn,Autumn,MTB,HCoV,MTB + HCoV,7420,8661,177,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Autumn,Autumn,MTB,HMPV,MTB + HMPV,7420,6877,1117,53,5063,4665,848,28,5,29,0.047448522829006266,0.047448522829006266,,True,False,5,True
+season,Autumn,Autumn,MTB,HPIV,MTB + HPIV,7420,34217,1447,55,5063,21158,1077,30,5,29,0.03800967519004837,0.03800967519004837,,True,False,5,True
+season,Autumn,Autumn,MTB,HRV,MTB + HRV,7420,16352,597,52,4273,9704,372,28,4,30,0.08710217755443886,0.08710217755443886,,True,False,4,True
+season,Autumn,Autumn,MTB,IFV,MTB + IFV,7420,147942,2131,94,5063,69508,1507,39,5,29,0.044110746128578134,0.044110746128578134,,True,False,5,True
+season,Autumn,Autumn,MTB,RSV,MTB + RSV,7420,60193,869,54,5063,34732,609,28,5,29,0.06214039125431531,0.06214039125431531,,True,False,5,True
+season,Autumn,Autumn,P. aeruginosa,S. aureus,P. aeruginosa + S. aureus,927,2891,428,50,0,0,0,0,0,34,0.11682242990654206,0.11682242990654206,,True,False,0,True
+season,Autumn,Autumn,P. aeruginosa,S. pneumoniae,P. aeruginosa + S. pneumoniae,927,1978,560,25,0,0,0,0,0,34,0.044642857142857144,0.044642857142857144,,True,False,0,True
+season,Autumn,Autumn,P. aeruginosa,COVID-19,P. aeruginosa + COVID-19,927,57383,353,19,0,0,0,0,0,34,0.053824362606232294,0.053824362606232294,,True,False,0,True
+season,Autumn,Autumn,P. aeruginosa,HAdV,P. aeruginosa + HAdV,927,60591,210,1,0,0,0,0,0,34,0.004761904761904762,0.004761904761904762,,True,False,0,True
+season,Autumn,Autumn,P. aeruginosa,IFV,P. aeruginosa + IFV,927,147942,264,6,0,0,0,0,0,34,0.022727272727272728,0.022727272727272728,,True,False,0,True
+season,Autumn,Autumn,P. aeruginosa,RSV,P. aeruginosa + RSV,927,60193,184,1,0,0,0,0,0,34,0.005434782608695652,0.005434782608695652,,True,False,0,True
+season,Autumn,Autumn,S. aureus,S. maltophilia,S. aureus + S. maltophilia,2891,796,512,36,0,0,0,0,0,34,0.0703125,0.0703125,,True,False,0,True
+season,Autumn,Autumn,S. aureus,S. pneumoniae,S. aureus + S. pneumoniae,2891,1978,475,29,0,0,0,0,0,34,0.061052631578947365,0.061052631578947365,,True,False,0,True
+season,Autumn,Autumn,S. aureus,COVID-19,S. aureus + COVID-19,2891,57383,1040,19,1159,16151,429,2,2,32,0.01826923076923077,0.01826923076923077,,True,False,2,True
+season,Autumn,Autumn,S. aureus,EBV,S. aureus + EBV,2891,2186,105,29,0,0,0,0,0,34,0.2761904761904762,0.2761904761904762,,True,False,0,True
+season,Autumn,Autumn,S. aureus,HAdV,S. aureus + HAdV,2891,60591,685,1,1159,21829,314,0,2,32,0.00145985401459854,0.00145985401459854,,True,False,2,True
+season,Autumn,Autumn,S. aureus,HBoV,S. aureus + HBoV,2891,14472,204,2,0,0,0,0,0,34,0.00980392156862745,0.00980392156862745,,True,False,0,True
+season,Autumn,Autumn,S. aureus,HPIV,S. aureus + HPIV,2891,34217,1019,3,1159,12814,548,0,2,32,0.002944062806673209,0.002944062806673209,,True,False,2,True
+season,Autumn,Autumn,S. aureus,HRV,S. aureus + HRV,2891,16352,199,23,0,0,0,0,0,34,0.11557788944723618,0.11557788944723618,,True,False,0,True
+season,Autumn,Autumn,S. aureus,IFV,S. aureus + IFV,2891,147942,1604,9,1159,36418,799,0,2,32,0.005610972568578554,0.005610972568578554,,True,False,2,True
+season,Autumn,Autumn,S. aureus,RSV,S. aureus + RSV,2891,60193,1021,8,1159,21204,455,0,2,32,0.007835455435847209,0.007835455435847209,,True,False,2,True
+season,Autumn,Autumn,S. maltophilia,COVID-19,S. maltophilia + COVID-19,796,57383,231,13,0,0,0,0,0,34,0.05627705627705628,0.05627705627705628,,True,False,0,True
+season,Autumn,Autumn,S. maltophilia,HBoV,S. maltophilia + HBoV,796,14472,170,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Autumn,Autumn,S. maltophilia,HPIV,S. maltophilia + HPIV,796,34217,196,3,0,0,0,0,0,34,0.015306122448979591,0.015306122448979591,,True,False,0,True
+season,Autumn,Autumn,S. maltophilia,HRV,S. maltophilia + HRV,796,16352,113,1,0,0,0,0,0,34,0.008849557522123894,0.008849557522123894,,True,False,0,False
+season,Autumn,Autumn,S. maltophilia,IFV,S. maltophilia + IFV,796,147942,265,3,0,0,0,0,0,34,0.011320754716981131,0.011320754716981131,,True,False,0,True
+season,Autumn,Autumn,S. maltophilia,RSV,S. maltophilia + RSV,796,60193,139,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Autumn,Autumn,S. pneumoniae,Candida,S. pneumoniae + Candida,1978,1881,538,46,512,582,187,13,1,33,0.08550185873605948,0.08550185873605948,,True,False,1,False
+season,Autumn,Autumn,S. pneumoniae,COVID-19,S. pneumoniae + COVID-19,1978,57383,1315,4,512,6220,293,0,1,33,0.003041825095057034,0.003041825095057034,,True,False,1,True
+season,Autumn,Autumn,S. pneumoniae,HAdV,S. pneumoniae + HAdV,1978,60591,508,2,512,4918,77,0,1,33,0.003937007874015748,0.003937007874015748,,True,False,1,True
+season,Autumn,Autumn,S. pneumoniae,HBoV,S. pneumoniae + HBoV,1978,14472,982,2,512,1518,259,1,1,33,0.002036659877800407,0.002036659877800407,,True,False,1,True
+season,Autumn,Autumn,S. pneumoniae,HCoV,S. pneumoniae + HCoV,1978,8661,673,0,512,1123,232,0,1,33,0.0,0.0,,True,False,1,False
+season,Autumn,Autumn,S. pneumoniae,HPIV,S. pneumoniae + HPIV,1978,34217,1002,5,512,2886,266,0,1,33,0.00499001996007984,0.00499001996007984,,True,False,1,True
+season,Autumn,Autumn,S. pneumoniae,HRV,S. pneumoniae + HRV,1978,16352,968,37,512,1911,247,11,1,33,0.038223140495867766,0.038223140495867766,,True,False,1,True
+season,Autumn,Autumn,S. pneumoniae,IFV,S. pneumoniae + IFV,1978,147942,1333,7,512,14805,355,0,1,33,0.005251312828207052,0.005251312828207052,,True,False,1,True
+season,Autumn,Autumn,S. pneumoniae,RSV,S. pneumoniae + RSV,1978,60193,1135,27,512,5681,263,8,1,33,0.02378854625550661,0.02378854625550661,,True,False,1,True
+season,Autumn,Autumn,Aspergillus,Cryptococcus,Aspergillus + Cryptococcus,171,731,156,1,0,0,0,0,0,34,0.00641025641025641,0.00641025641025641,,True,False,0,True
+season,Autumn,Autumn,Aspergillus,Pneumocystis,Aspergillus + Pneumocystis,171,233,157,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Autumn,Autumn,Candida,COVID-19,Candida + COVID-19,1881,57383,1421,35,1259,9366,1095,24,2,32,0.024630541871921183,0.024630541871921183,,True,False,2,True
+season,Autumn,Autumn,Candida,HAdV,Candida + HAdV,1881,60591,207,5,1259,7611,137,4,2,32,0.024154589371980676,0.024154589371980676,,True,False,2,True
+season,Autumn,Autumn,Candida,HBoV,Candida + HBoV,1881,14472,1357,62,1259,2731,1071,51,2,32,0.045689019896831246,0.045689019896831246,,True,False,2,True
+season,Autumn,Autumn,Candida,HCoV,Candida + HCoV,1881,8661,1324,25,1259,2166,1060,21,2,32,0.0188821752265861,0.0188821752265861,,True,False,2,True
+season,Autumn,Autumn,Candida,HPIV,Candida + HPIV,1881,34217,1400,69,1259,4945,1092,56,2,32,0.04928571428571429,0.04928571428571429,,True,False,2,True
+season,Autumn,Autumn,Candida,HRV,Candida + HRV,1881,16352,1363,425,1259,3083,1076,330,2,32,0.3118121790168745,0.3118121790168745,,True,False,2,True
+season,Autumn,Autumn,Candida,IFV,Candida + IFV,1881,147942,1440,135,1259,26955,1108,102,2,32,0.09375,0.09375,,True,False,2,True
+season,Autumn,Autumn,Candida,RSV,Candida + RSV,1881,60193,1372,266,1259,8956,1077,239,2,32,0.19387755102040816,0.19387755102040816,,True,False,2,True
+season,Autumn,Autumn,Cryptococcus,Pneumocystis,Cryptococcus + Pneumocystis,731,233,165,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Autumn,Autumn,Cryptococcus,COVID-19,Cryptococcus + COVID-19,731,57383,243,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Autumn,Autumn,Cryptococcus,HAdV,Cryptococcus + HAdV,731,60591,138,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Autumn,Autumn,Cryptococcus,HBoV,Cryptococcus + HBoV,731,14472,151,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Autumn,Autumn,Cryptococcus,HMPV,Cryptococcus + HMPV,731,6877,152,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Autumn,Autumn,Cryptococcus,HPIV,Cryptococcus + HPIV,731,34217,188,1,0,0,0,0,0,34,0.005319148936170213,0.005319148936170213,,True,False,0,True
+season,Autumn,Autumn,Cryptococcus,IFV,Cryptococcus + IFV,731,147942,301,2,0,0,0,0,0,34,0.006644518272425249,0.006644518272425249,,True,False,0,True
+season,Autumn,Autumn,Cryptococcus,RSV,Cryptococcus + RSV,731,60193,132,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Autumn,Autumn,CMV,COVID-19,CMV + COVID-19,348,57383,141,1,0,0,0,0,0,34,0.0070921985815602835,0.0070921985815602835,,True,False,0,True
+season,Autumn,Autumn,CMV,HAdV,CMV + HAdV,348,60591,134,1,0,0,0,0,0,34,0.007462686567164179,0.007462686567164179,,True,False,0,True
+season,Autumn,Autumn,CMV,HSV,CMV + HSV,348,271,150,12,0,0,0,0,0,34,0.08,0.08,,True,False,0,True
+season,Autumn,Autumn,CMV,IFV,CMV + IFV,348,147942,153,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Autumn,Autumn,CMV,RSV,CMV + RSV,348,60193,135,1,0,0,0,0,0,34,0.007407407407407408,0.007407407407407408,,True,False,0,True
+season,Autumn,Autumn,COVID-19,EBV,COVID-19 + EBV,57383,2186,486,22,0,0,0,0,0,34,0.04526748971193416,0.04526748971193416,,True,False,0,True
+season,Autumn,Autumn,COVID-19,HAdV,COVID-19 + HAdV,57383,60591,11790,47,48017,54854,10800,46,11,23,0.003986429177268872,0.003986429177268872,1.0074550362766441,True,True,11,True
+season,Autumn,Autumn,COVID-19,HBoV,COVID-19 + HBoV,57383,14472,13790,9,45478,13519,12840,9,8,26,0.0006526468455402465,0.0006526468455402465,0.4554418300411837,True,True,8,True
+season,Autumn,Autumn,COVID-19,HCoV,COVID-19 + HCoV,57383,8661,8646,417,38536,7336,7325,211,6,28,0.04823039555863983,0.04823039555863983,11.718074795321245,True,True,6,True
+season,Autumn,Autumn,COVID-19,HMPV,COVID-19 + HMPV,57383,6877,5719,25,37054,5976,4917,25,6,28,0.004371393600279769,0.004371393600279769,0.5765984709597057,True,True,6,True
+season,Autumn,Autumn,COVID-19,HPIV,COVID-19 + HPIV,57383,34217,16185,39,46577,31053,15248,33,9,25,0.0024096385542168677,0.0024096385542168677,0.5318356516814393,True,True,9,True
+season,Autumn,Autumn,COVID-19,HRV,COVID-19 + HRV,57383,16352,12915,91,45478,15197,12141,86,8,26,0.007046070460704607,0.007046070460704607,0.3942683680961989,True,True,8,True
+season,Autumn,Autumn,COVID-19,HSV,COVID-19 + HSV,57383,271,140,2,0,0,0,0,0,34,0.014285714285714285,0.014285714285714285,,True,False,0,False
+season,Autumn,Autumn,COVID-19,IFV,COVID-19 + IFV,57383,147942,39170,371,54286,139766,37357,354,20,14,0.00947153433750319,0.00947153433750319,0.7884553918751478,True,True,20,True
+season,Autumn,Autumn,COVID-19,RSV,COVID-19 + RSV,57383,60193,19593,47,47664,55303,18290,45,11,23,0.002398815903639055,0.002398815903639055,0.7552560555717507,True,True,11,True
+season,Autumn,Autumn,EBV,HAdV,EBV + HAdV,2186,60591,855,13,0,0,0,0,0,34,0.0152046783625731,0.0152046783625731,,True,False,0,True
+season,Autumn,Autumn,EBV,HBoV,EBV + HBoV,2186,14472,274,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Autumn,Autumn,EBV,HMPV,EBV + HMPV,2186,6877,310,6,0,0,0,0,0,34,0.01935483870967742,0.01935483870967742,,True,False,0,True
+season,Autumn,Autumn,EBV,HPIV,EBV + HPIV,2186,34217,853,17,0,0,0,0,0,34,0.01992966002344666,0.01992966002344666,,True,False,0,True
+season,Autumn,Autumn,EBV,HRV,EBV + HRV,2186,16352,138,16,0,0,0,0,0,34,0.11594202898550725,0.11594202898550725,,True,False,0,False
+season,Autumn,Autumn,EBV,IFV,EBV + IFV,2186,147942,1423,62,0,0,0,0,0,34,0.04356992269852424,0.04356992269852424,,True,False,0,True
+season,Autumn,Autumn,EBV,RSV,EBV + RSV,2186,60193,466,13,0,0,0,0,0,34,0.027896995708154508,0.027896995708154508,,True,False,0,True
+season,Autumn,Autumn,HAdV,HBoV,HAdV + HBoV,60591,14472,4457,1,52030,13519,4240,0,8,26,0.0002243661655822302,0.0002243661655822302,0.0,True,True,8,True
+season,Autumn,Autumn,HAdV,HCoV,HAdV + HCoV,60591,8661,1037,3,36399,6668,550,1,5,29,0.0028929604628736743,0.0028929604628736743,,True,False,5,True
+season,Autumn,Autumn,HAdV,HMPV,HAdV + HMPV,60591,6877,4530,205,43126,5976,4156,201,6,28,0.04525386313465784,0.04525386313465784,13.191741836622725,True,True,6,True
+season,Autumn,Autumn,HAdV,HPIV,HAdV + HPIV,60591,34217,18752,383,53421,31053,16885,372,9,25,0.020424488054607507,0.020424488054607507,10.886262532695213,True,True,9,True
+season,Autumn,Autumn,HAdV,HRV,HAdV + HRV,60591,16352,7161,245,52030,15197,6554,239,8,26,0.03421309872922776,0.03421309872922776,4.255864743737279,True,True,8,True
+season,Autumn,Autumn,HAdV,IFV,HAdV + IFV,60591,147942,36237,570,55445,130470,33093,547,12,22,0.015729778955211524,0.015729778955211524,2.0181648419770313,True,True,12,True
+season,Autumn,Autumn,HAdV,RSV,HAdV + RSV,60591,60193,39004,509,54568,55217,36014,485,11,23,0.013049943595528664,0.013049943595528664,6.097868930291168,True,True,11,True
+season,Autumn,Autumn,HBoV,HCoV,HBoV + HCoV,14472,8661,6800,6,11019,7336,6109,6,6,28,0.0008823529411764706,0.0008823529411764706,0.9086217699311825,True,True,6,True
+season,Autumn,Autumn,HBoV,HMPV,HBoV + HMPV,14472,6877,6179,2,11265,5976,5407,2,6,28,0.0003236769703835572,0.0003236769703835572,0.36372057787949685,True,True,6,True
+season,Autumn,Autumn,HBoV,HPIV,HBoV + HPIV,14472,34217,14451,13,13519,30341,13499,13,8,26,0.0008995917237561414,0.0008995917237561414,0.9166188486816937,True,True,8,True
+season,Autumn,Autumn,HBoV,HRV,HBoV + HRV,14472,16352,12669,129,13519,15197,11994,126,8,26,0.010182334833057069,0.010182334833057069,1.3281646178181283,True,True,8,True
+season,Autumn,Autumn,HBoV,IFV,HBoV + IFV,14472,147942,14471,17,13519,121065,13518,16,8,26,0.001174763319742934,0.001174763319742934,0.2154603427849106,True,True,8,True
+season,Autumn,Autumn,HBoV,RSV,HBoV + RSV,14472,60193,12763,20,13519,52689,12075,19,8,26,0.0015670296952127244,0.0015670296952127244,0.6028398379970177,True,True,8,True
+season,Autumn,Autumn,HCoV,HMPV,HCoV + HMPV,8661,6877,1191,0,5625,3478,685,0,4,30,0.0,0.0,,True,False,4,True
+season,Autumn,Autumn,HCoV,HPIV,HCoV + HPIV,8661,34217,6853,8,7336,25507,6160,4,6,28,0.0011673719538888077,0.0011673719538888077,0.46481487444620684,True,True,6,True
+season,Autumn,Autumn,HCoV,HRV,HCoV + HRV,8661,16352,6850,35,7336,12701,6159,35,6,28,0.0051094890510948905,0.0051094890510948905,0.6296616160098157,True,True,6,True
+season,Autumn,Autumn,HCoV,IFV,HCoV + IFV,8661,147942,7732,62,7336,103128,6828,16,6,28,0.00801862390067253,0.00801862390067253,0.6851265887990272,True,True,6,True
+season,Autumn,Autumn,HCoV,RSV,HCoV + RSV,8661,60193,6980,7,7336,43264,6267,7,6,28,0.0010028653295128939,0.0010028653295128939,0.5333669547983021,True,True,6,True
+season,Autumn,Autumn,HMPV,HPIV,HMPV + HPIV,6877,34217,6524,196,5976,24325,5705,192,6,28,0.030042918454935622,0.030042918454935622,7.4022816694867295,True,True,6,True
+season,Autumn,Autumn,HMPV,HRV,HMPV + HRV,6877,16352,4735,224,5976,12924,4358,220,6,28,0.04730728616684266,0.04730728616684266,2.9607664878206563,True,True,6,True
+season,Autumn,Autumn,HMPV,IFV,HMPV + IFV,6877,147942,6822,198,5976,82932,5953,194,6,28,0.029023746701846966,0.029023746701846966,3.344998561979323,True,True,6,True
+season,Autumn,Autumn,HMPV,RSV,HMPV + RSV,6877,60193,4793,193,5976,40969,4392,189,6,28,0.04026705612351346,0.04026705612351346,13.579440806811714,True,True,6,True
+season,Autumn,Autumn,HPIV,HRV,HPIV + HRV,34217,16352,14763,384,30341,15197,13854,376,8,26,0.026010973379394432,0.026010973379394432,2.633668046679441,True,True,8,True
+season,Autumn,Autumn,HPIV,IFV,HPIV + IFV,34217,147942,34195,1576,31053,123918,31042,1473,9,25,0.046088609445825414,0.046088609445825414,4.4147312241828285,True,True,9,True
+season,Autumn,Autumn,HPIV,RSV,HPIV + RSV,34217,60193,22750,412,31053,54177,21257,401,9,25,0.01810989010989011,0.01810989010989011,6.4294603899458,True,True,9,True
+season,Autumn,Autumn,HRV,IFV,HRV + IFV,16352,147942,15753,427,15197,121065,14711,416,8,26,0.027105948073382846,0.027105948073382846,0.544004815937844,True,True,8,True
+season,Autumn,Autumn,HRV,RSV,HRV + RSV,16352,60193,16080,388,15197,52689,15007,372,8,26,0.024129353233830846,0.024129353233830846,0.9488676255967207,True,True,8,True
+season,Autumn,Autumn,HSV,IFV,HSV + IFV,271,147942,148,2,0,0,0,0,0,34,0.013513513513513514,0.013513513513513514,,True,False,0,True
+season,Autumn,Autumn,HSV,RSV,HSV + RSV,271,60193,134,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,False
+season,Autumn,Autumn,IFV,RSV,IFV + RSV,147942,60193,39207,613,129132,55837,36484,589,12,22,0.01563496314433647,0.01563496314433647,1.057954627246059,True,True,12,True
+season,Winter,Winter,A. baumannii,B. pertussis,A. baumannii + B. pertussis,1469,5742,288,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Winter,Winter,A. baumannii,CP,A. baumannii + CP,1469,28835,185,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Winter,Winter,A. baumannii,H. influenzae,A. baumannii + H. influenzae,1469,8258,602,58,0,0,0,0,0,34,0.09634551495016612,0.09634551495016612,,True,False,0,True
+season,Winter,Winter,A. baumannii,K. pneumoniae,A. baumannii + K. pneumoniae,1469,831,157,107,0,0,0,0,0,34,0.6815286624203821,0.6815286624203821,,True,False,0,True
+season,Winter,Winter,A. baumannii,M. catarrhalis,A. baumannii + M. catarrhalis,1469,1085,425,1,0,0,0,0,0,34,0.002352941176470588,0.002352941176470588,,True,False,0,True
+season,Winter,Winter,A. baumannii,MP,A. baumannii + MP,1469,129908,658,3,0,0,0,0,0,34,0.004559270516717325,0.004559270516717325,,True,False,0,True
+season,Winter,Winter,A. baumannii,MTB,A. baumannii + MTB,1469,10901,291,39,0,0,0,0,0,34,0.13402061855670103,0.13402061855670103,,True,False,0,True
+season,Winter,Winter,A. baumannii,P. aeruginosa,A. baumannii + P. aeruginosa,1469,2205,107,85,0,0,0,0,0,34,0.794392523364486,0.794392523364486,,True,False,0,False
+season,Winter,Winter,A. baumannii,S. aureus,A. baumannii + S. aureus,1469,5308,709,91,0,0,0,0,0,34,0.12834978843441466,0.12834978843441466,,True,False,0,True
+season,Winter,Winter,A. baumannii,S. maltophilia,A. baumannii + S. maltophilia,1469,919,688,140,0,0,0,0,0,34,0.20348837209302326,0.20348837209302326,,True,False,0,True
+season,Winter,Winter,A. baumannii,COVID-19,A. baumannii + COVID-19,1469,85473,440,22,0,0,0,0,0,34,0.05,0.05,,True,False,0,True
+season,Winter,Winter,A. baumannii,EBV,A. baumannii + EBV,1469,3598,123,44,0,0,0,0,0,34,0.35772357723577236,0.35772357723577236,,True,False,0,False
+season,Winter,Winter,A. baumannii,HAdV,A. baumannii + HAdV,1469,80501,229,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,False
+season,Winter,Winter,A. baumannii,HBoV,A. baumannii + HBoV,1469,16349,240,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Winter,Winter,A. baumannii,HMPV,A. baumannii + HMPV,1469,9065,175,7,0,0,0,0,0,34,0.04,0.04,,True,False,0,False
+season,Winter,Winter,A. baumannii,HPIV,A. baumannii + HPIV,1469,40143,273,1,0,0,0,0,0,34,0.003663003663003663,0.003663003663003663,,True,False,0,True
+season,Winter,Winter,A. baumannii,HRV,A. baumannii + HRV,1469,18681,120,4,0,0,0,0,0,34,0.03333333333333333,0.03333333333333333,,True,False,0,True
+season,Winter,Winter,A. baumannii,IFV,A. baumannii + IFV,1469,264139,623,68,0,0,0,0,0,34,0.10914927768860354,0.10914927768860354,,True,False,0,True
+season,Winter,Winter,A. baumannii,RSV,A. baumannii + RSV,1469,76203,295,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Winter,Winter,B. pertussis,CP,B. pertussis + CP,5742,28835,102,5,0,0,0,0,0,34,0.049019607843137254,0.049019607843137254,,True,False,0,False
+season,Winter,Winter,B. pertussis,H. influenzae,B. pertussis + H. influenzae,5742,8258,1335,5,2234,3386,427,1,2,32,0.003745318352059925,0.003745318352059925,,True,False,2,True
+season,Winter,Winter,B. pertussis,M. catarrhalis,B. pertussis + M. catarrhalis,5742,1085,845,1,0,0,0,0,0,34,0.001183431952662722,0.001183431952662722,,True,False,0,True
+season,Winter,Winter,B. pertussis,MP,B. pertussis + MP,5742,129908,4265,15,3467,73765,2711,6,3,31,0.0035169988276670576,0.0035169988276670576,,True,False,3,True
+season,Winter,Winter,B. pertussis,MTB,B. pertussis + MTB,5742,10901,306,1,2234,5760,233,1,2,32,0.0032679738562091504,0.0032679738562091504,,True,False,2,True
+season,Winter,Winter,B. pertussis,S. aureus,B. pertussis + S. aureus,5742,5308,333,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Winter,Winter,B. pertussis,S. maltophilia,B. pertussis + S. maltophilia,5742,919,288,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Winter,Winter,B. pertussis,S. pneumoniae,B. pertussis + S. pneumoniae,5742,2780,618,1,2234,1392,292,0,2,32,0.0016181229773462784,0.0016181229773462784,,True,False,2,True
+season,Winter,Winter,B. pertussis,COVID-19,B. pertussis + COVID-19,5742,85473,2709,2,3467,35008,1752,0,3,31,0.0007382798080472499,0.0007382798080472499,,True,False,3,True
+season,Winter,Winter,B. pertussis,HAdV,B. pertussis + HAdV,5742,80501,1283,1,3467,45500,934,1,3,31,0.000779423226812159,0.000779423226812159,,True,False,3,True
+season,Winter,Winter,B. pertussis,HBoV,B. pertussis + HBoV,5742,16349,2099,0,3467,8060,1312,0,3,31,0.0,0.0,,True,False,3,True
+season,Winter,Winter,B. pertussis,HCoV,B. pertussis + HCoV,5742,9201,1206,2,3467,3869,737,0,3,31,0.001658374792703151,0.001658374792703151,,True,False,3,True
+season,Winter,Winter,B. pertussis,HMPV,B. pertussis + HMPV,5742,9065,162,0,1001,1610,141,0,1,33,0.0,0.0,,True,False,1,False
+season,Winter,Winter,B. pertussis,HPIV,B. pertussis + HPIV,5742,40143,2127,1,3467,22639,1326,0,3,31,0.0004701457451810061,0.0004701457451810061,,True,False,3,True
+season,Winter,Winter,B. pertussis,HRV,B. pertussis + HRV,5742,18681,2405,13,3467,10369,1263,3,3,31,0.005405405405405406,0.005405405405405406,,True,False,3,True
+season,Winter,Winter,B. pertussis,IFV,B. pertussis + IFV,5742,264139,3658,7,3467,125424,2259,3,3,31,0.0019136139967195188,0.0019136139967195188,,True,False,3,True
+season,Winter,Winter,B. pertussis,RSV,B. pertussis + RSV,5742,76203,3215,2,3467,38258,2193,2,3,31,0.0006220839813374805,0.0006220839813374805,,True,False,3,True
+season,Winter,Winter,CP,H. influenzae,CP + H. influenzae,28835,8258,218,10,4659,1889,98,10,1,33,0.045871559633027525,0.045871559633027525,,True,False,1,False
+season,Winter,Winter,CP,Legionella,CP + Legionella,28835,4387,1578,4,15949,2478,948,3,3,31,0.0025348542458808617,0.0025348542458808617,,True,False,3,True
+season,Winter,Winter,CP,MP,CP + MP,28835,129908,27684,641,25460,113686,24475,595,9,25,0.023154168472764053,0.023154168472764053,4.465275190835779,True,True,9,True
+season,Winter,Winter,CP,MTB,CP + MTB,28835,10901,1406,4,19526,8374,1122,4,5,29,0.002844950213371266,0.002844950213371266,,True,False,5,True
+season,Winter,Winter,CP,P. aeruginosa,CP + P. aeruginosa,28835,2205,124,1,4659,651,80,1,1,33,0.008064516129032258,0.008064516129032258,,True,False,1,False
+season,Winter,Winter,CP,S. aureus,CP + S. aureus,28835,5308,244,1,9681,2270,153,1,2,32,0.004098360655737705,0.004098360655737705,,True,False,2,False
+season,Winter,Winter,CP,S. pneumoniae,CP + S. pneumoniae,28835,2780,146,10,4659,864,97,10,1,33,0.0684931506849315,0.0684931506849315,,True,False,1,False
+season,Winter,Winter,CP,Cryptococcus,CP + Cryptococcus,28835,1094,201,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Winter,Winter,CP,COVID-19,CP + COVID-19,28835,85473,7660,86,24948,69556,6804,83,8,26,0.011227154046997388,0.011227154046997388,12.520934321244107,True,True,8,True
+season,Winter,Winter,CP,EBV,CP + EBV,28835,3598,550,57,9681,1446,331,57,2,32,0.10363636363636364,0.10363636363636364,,True,False,2,True
+season,Winter,Winter,CP,HAdV,CP + HAdV,28835,80501,23631,45,25460,71687,20931,45,9,25,0.0019042782785324362,0.0019042782785324362,2.3538206579220753,True,True,9,True
+season,Winter,Winter,CP,HBoV,CP + HBoV,28835,16349,5440,0,23976,15121,4997,0,7,27,0.0,0.0,0.0,True,True,7,True
+season,Winter,Winter,CP,HCoV,CP + HCoV,28835,9201,771,0,15949,3869,670,0,3,31,0.0,0.0,,True,False,3,True
+season,Winter,Winter,CP,HMPV,CP + HMPV,28835,9065,5437,3,20795,8083,4915,3,6,28,0.000551774875850653,0.000551774875850653,0.25065456670461705,True,True,6,True
+season,Winter,Winter,CP,HPIV,CP + HPIV,28835,40143,8800,37,23976,35328,7831,34,7,27,0.004204545454545455,0.004204545454545455,3.6132161788268764,True,True,7,True
+season,Winter,Winter,CP,HRV,CP + HRV,28835,18681,3556,4,23976,16901,3274,4,7,27,0.0011248593925759281,0.0011248593925759281,0.26203031435702134,True,True,7,True
+season,Winter,Winter,CP,IFV,CP + IFV,28835,264139,17021,67,25460,238124,15265,64,9,25,0.003936313965101933,0.003936313965101933,0.5997539181806161,True,True,9,True
+season,Winter,Winter,CP,RSV,CP + RSV,28835,76203,17314,51,24948,68365,15863,49,8,26,0.002945593161603327,0.002945593161603327,3.4717088035768615,True,True,8,True
+season,Winter,Winter,H. influenzae,K. pneumoniae,H. influenzae + K. pneumoniae,8258,831,397,70,0,0,0,0,0,34,0.17632241813602015,0.17632241813602015,,True,False,0,True
+season,Winter,Winter,H. influenzae,Legionella,H. influenzae + Legionella,8258,4387,2089,2,4291,2478,1204,2,3,31,0.0009573958831977022,0.0009573958831977022,,True,False,3,True
+season,Winter,Winter,H. influenzae,M. catarrhalis,H. influenzae + M. catarrhalis,8258,1085,1016,30,0,0,0,0,0,34,0.02952755905511811,0.02952755905511811,,True,False,0,True
+season,Winter,Winter,H. influenzae,MP,H. influenzae + MP,8258,129908,3680,93,5454,91984,2468,63,5,29,0.025271739130434782,0.025271739130434782,,True,False,5,True
+season,Winter,Winter,H. influenzae,MTB,H. influenzae + MTB,8258,10901,533,46,3386,5760,353,22,2,32,0.08630393996247655,0.08630393996247655,,True,False,2,True
+season,Winter,Winter,H. influenzae,P. aeruginosa,H. influenzae + P. aeruginosa,8258,2205,1658,65,1889,651,520,29,1,33,0.039203860072376355,0.039203860072376355,,True,False,1,True
+season,Winter,Winter,H. influenzae,S. aureus,H. influenzae + S. aureus,8258,5308,4948,108,4952,3541,3318,67,4,30,0.021827000808407437,0.021827000808407437,,True,False,4,True
+season,Winter,Winter,H. influenzae,S. maltophilia,H. influenzae + S. maltophilia,8258,919,606,55,0,0,0,0,0,34,0.09075907590759076,0.09075907590759076,,True,False,0,True
+season,Winter,Winter,H. influenzae,S. pneumoniae,H. influenzae + S. pneumoniae,8258,2780,2274,148,3386,1392,1107,86,2,32,0.06508355321020229,0.06508355321020229,,True,False,2,True
+season,Winter,Winter,H. influenzae,Candida,H. influenzae + Candida,8258,1199,687,214,1889,518,355,57,1,33,0.31149927219796214,0.31149927219796214,,True,False,1,True
+season,Winter,Winter,H. influenzae,Cryptococcus,H. influenzae + Cryptococcus,8258,1094,138,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,False
+season,Winter,Winter,H. influenzae,COVID-19,H. influenzae + COVID-19,8258,85473,2978,27,5454,49418,2179,7,5,29,0.009066487575554063,0.009066487575554063,,True,False,5,True
+season,Winter,Winter,H. influenzae,EBV,H. influenzae + EBV,8258,3598,392,49,3386,1446,233,41,2,32,0.125,0.125,,True,False,2,True
+season,Winter,Winter,H. influenzae,HAdV,H. influenzae + HAdV,8258,80501,2254,23,5454,58544,1725,14,5,29,0.01020408163265306,0.01020408163265306,,True,False,5,True
+season,Winter,Winter,H. influenzae,HBoV,H. influenzae + HBoV,8258,16349,1010,4,3888,7906,682,3,3,31,0.0039603960396039604,0.0039603960396039604,,True,False,3,True
+season,Winter,Winter,H. influenzae,HCoV,H. influenzae + HCoV,8258,9201,345,2,1889,1436,285,2,1,33,0.005797101449275362,0.005797101449275362,,True,False,1,True
+season,Winter,Winter,H. influenzae,HMPV,H. influenzae + HMPV,8258,9065,106,2,1889,1610,69,1,1,33,0.018867924528301886,0.018867924528301886,,True,False,1,False
+season,Winter,Winter,H. influenzae,HPIV,H. influenzae + HPIV,8258,40143,2684,17,4793,27326,2027,14,4,30,0.006333830104321907,0.006333830104321907,,True,False,4,True
+season,Winter,Winter,H. influenzae,HRV,H. influenzae + HRV,8258,18681,1295,73,3888,9293,668,18,3,31,0.05637065637065637,0.05637065637065637,,True,False,3,True
+season,Winter,Winter,H. influenzae,IFV,H. influenzae + IFV,8258,264139,4585,173,5454,180984,3237,122,5,29,0.03773173391494002,0.03773173391494002,,True,False,5,True
+season,Winter,Winter,H. influenzae,RSV,H. influenzae + RSV,8258,76203,2903,40,5454,53455,2174,28,5,29,0.013778849466069583,0.013778849466069583,,True,False,5,True
+season,Winter,Winter,K. pneumoniae,Legionella,K. pneumoniae + Legionella,831,4387,295,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Winter,Winter,K. pneumoniae,MP,K. pneumoniae + MP,831,129908,283,2,0,0,0,0,0,34,0.007067137809187279,0.007067137809187279,,True,False,0,True
+season,Winter,Winter,K. pneumoniae,MTB,K. pneumoniae + MTB,831,10901,103,46,0,0,0,0,0,34,0.44660194174757284,0.44660194174757284,,True,False,0,True
+season,Winter,Winter,K. pneumoniae,P. aeruginosa,K. pneumoniae + P. aeruginosa,831,2205,143,118,0,0,0,0,0,34,0.8251748251748252,0.8251748251748252,,True,False,0,True
+season,Winter,Winter,K. pneumoniae,S. aureus,K. pneumoniae + S. aureus,831,5308,426,87,0,0,0,0,0,34,0.20422535211267606,0.20422535211267606,,True,False,0,True
+season,Winter,Winter,K. pneumoniae,S. maltophilia,K. pneumoniae + S. maltophilia,831,919,134,84,0,0,0,0,0,34,0.6268656716417911,0.6268656716417911,,True,False,0,True
+season,Winter,Winter,K. pneumoniae,COVID-19,K. pneumoniae + COVID-19,831,85473,293,13,0,0,0,0,0,34,0.04436860068259386,0.04436860068259386,,True,False,0,True
+season,Winter,Winter,K. pneumoniae,HAdV,K. pneumoniae + HAdV,831,80501,228,1,0,0,0,0,0,34,0.0043859649122807015,0.0043859649122807015,,True,False,0,True
+season,Winter,Winter,K. pneumoniae,IFV,K. pneumoniae + IFV,831,264139,316,13,0,0,0,0,0,34,0.04113924050632911,0.04113924050632911,,True,False,0,True
+season,Winter,Winter,K. pneumoniae,RSV,K. pneumoniae + RSV,831,76203,271,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Winter,Winter,Legionella,MP,Legionella + MP,4387,129908,2869,62,2478,73765,1696,55,3,31,0.021610317183687697,0.021610317183687697,,True,False,3,True
+season,Winter,Winter,Legionella,MTB,Legionella + MTB,4387,10901,669,0,2478,7287,474,0,3,31,0.0,0.0,,True,False,3,True
+season,Winter,Winter,Legionella,P. aeruginosa,Legionella + P. aeruginosa,4387,2205,1658,1,1052,651,507,0,1,33,0.0006031363088057901,0.0006031363088057901,,True,False,1,True
+season,Winter,Winter,Legionella,S. aureus,Legionella + S. aureus,4387,5308,2097,0,2478,3019,1212,0,3,31,0.0,0.0,,True,False,3,True
+season,Winter,Winter,Legionella,S. pneumoniae,Legionella + S. pneumoniae,4387,2780,1666,1,1820,1392,820,1,2,32,0.0006002400960384153,0.0006002400960384153,,True,False,2,True
+season,Winter,Winter,Legionella,COVID-19,Legionella + COVID-19,4387,85473,2188,3,2478,35008,1228,2,3,31,0.0013711151736745886,0.0013711151736745886,,True,False,3,True
+season,Winter,Winter,Legionella,EBV,Legionella + EBV,4387,3598,373,14,1820,1446,251,13,2,32,0.03753351206434316,0.03753351206434316,,True,False,2,True
+season,Winter,Winter,Legionella,HAdV,Legionella + HAdV,4387,80501,2451,3,2478,45500,1495,2,3,31,0.0012239902080783353,0.0012239902080783353,,True,False,3,True
+season,Winter,Winter,Legionella,HBoV,Legionella + HBoV,4387,16349,334,0,2478,8060,190,0,3,31,0.0,0.0,,True,False,3,True
+season,Winter,Winter,Legionella,HMPV,Legionella + HMPV,4387,9065,338,0,2478,4796,197,0,3,31,0.0,0.0,,True,False,3,True
+season,Winter,Winter,Legionella,HPIV,Legionella + HPIV,4387,40143,2143,22,2478,22639,1205,22,3,31,0.01026598226784881,0.01026598226784881,,True,False,3,True
+season,Winter,Winter,Legionella,IFV,Legionella + IFV,4387,264139,3023,24,2478,125424,1732,23,3,31,0.007939133311280185,0.007939133311280185,,True,False,3,True
+season,Winter,Winter,Legionella,RSV,Legionella + RSV,4387,76203,2259,9,2478,38258,1344,8,3,31,0.00398406374501992,0.00398406374501992,,True,False,3,True
+season,Winter,Winter,M. catarrhalis,MP,M. catarrhalis + MP,1085,129908,1007,2,0,0,0,0,0,34,0.0019860973187686196,0.0019860973187686196,,True,False,0,True
+season,Winter,Winter,M. catarrhalis,S. aureus,M. catarrhalis + S. aureus,1085,5308,444,8,0,0,0,0,0,34,0.018018018018018018,0.018018018018018018,,True,False,0,True
+season,Winter,Winter,M. catarrhalis,S. maltophilia,M. catarrhalis + S. maltophilia,1085,919,433,1,0,0,0,0,0,34,0.0023094688221709007,0.0023094688221709007,,True,False,0,True
+season,Winter,Winter,M. catarrhalis,S. pneumoniae,M. catarrhalis + S. pneumoniae,1085,2780,594,5,0,0,0,0,0,34,0.008417508417508417,0.008417508417508417,,True,False,0,True
+season,Winter,Winter,M. catarrhalis,COVID-19,M. catarrhalis + COVID-19,1085,85473,779,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Winter,Winter,M. catarrhalis,HAdV,M. catarrhalis + HAdV,1085,80501,447,6,0,0,0,0,0,34,0.013422818791946308,0.013422818791946308,,True,False,0,True
+season,Winter,Winter,M. catarrhalis,HBoV,M. catarrhalis + HBoV,1085,16349,654,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Winter,Winter,M. catarrhalis,HPIV,M. catarrhalis + HPIV,1085,40143,664,2,0,0,0,0,0,34,0.0030120481927710845,0.0030120481927710845,,True,False,0,True
+season,Winter,Winter,M. catarrhalis,HRV,M. catarrhalis + HRV,1085,18681,639,6,0,0,0,0,0,34,0.009389671361502348,0.009389671361502348,,True,False,0,True
+season,Winter,Winter,M. catarrhalis,IFV,M. catarrhalis + IFV,1085,264139,867,15,0,0,0,0,0,34,0.01730103806228374,0.01730103806228374,,True,False,0,True
+season,Winter,Winter,M. catarrhalis,RSV,M. catarrhalis + RSV,1085,76203,781,2,0,0,0,0,0,34,0.002560819462227913,0.002560819462227913,,True,False,0,True
+season,Winter,Winter,MP,MTB,MP + MTB,129908,10901,4040,68,95600,8374,3581,65,5,29,0.016831683168316833,0.016831683168316833,,True,False,5,True
+season,Winter,Winter,MP,P. aeruginosa,MP + P. aeruginosa,129908,2205,665,4,22853,651,229,3,1,33,0.006015037593984963,0.006015037593984963,,True,False,1,True
+season,Winter,Winter,MP,S. aureus,MP + S. aureus,129908,5308,2228,10,80912,3541,1450,6,4,30,0.004488330341113106,0.004488330341113106,,True,False,4,True
+season,Winter,Winter,MP,S. maltophilia,MP + S. maltophilia,129908,919,551,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Winter,Winter,MP,S. pneumoniae,MP + S. pneumoniae,129908,2780,1357,31,51441,1392,692,25,2,32,0.022844509948415623,0.022844509948415623,,True,False,2,True
+season,Winter,Winter,MP,Aspergillus,MP + Aspergillus,129908,305,109,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,False
+season,Winter,Winter,MP,Candida,MP + Candida,129908,1199,526,32,22853,518,313,10,1,33,0.060836501901140684,0.060836501901140684,,True,False,1,True
+season,Winter,Winter,MP,Cryptococcus,MP + Cryptococcus,129908,1094,524,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Winter,Winter,MP,CMV,MP + CMV,129908,533,198,3,0,0,0,0,0,34,0.015151515151515152,0.015151515151515152,,True,False,0,True
+season,Winter,Winter,MP,COVID-19,MP + COVID-19,129908,85473,30698,187,124621,80365,29714,173,19,15,0.006091602058766043,0.006091602058766043,0.2000642741882815,True,True,19,True
+season,Winter,Winter,MP,EBV,MP + EBV,129908,3598,2459,201,51441,1446,1013,145,2,32,0.08174054493696625,0.08174054493696625,,True,False,2,True
+season,Winter,Winter,MP,HAdV,MP + HAdV,129908,80501,58967,357,120824,75810,55145,334,15,19,0.006054233723947293,0.006054233723947293,1.1204066175655827,True,True,15,True
+season,Winter,Winter,MP,HBoV,MP + HBoV,129908,16349,16247,5,109775,15121,15033,5,7,27,0.0003077491229149997,0.0003077491229149997,0.09767425301596198,True,True,7,True
+season,Winter,Winter,MP,HCoV,MP + HCoV,129908,9201,7095,27,102628,7665,6334,26,6,28,0.0038054968287526427,0.0038054968287526427,0.3183114954699419,True,True,6,True
+season,Winter,Winter,MP,HMPV,MP + HMPV,129908,9065,8520,139,102628,8083,7612,139,6,28,0.01631455399061033,0.01631455399061033,1.3234965434483343,True,True,6,True
+season,Winter,Winter,MP,HPIV,MP + HPIV,129908,40143,30757,222,111734,35968,27870,208,8,26,0.00721786910296843,0.00721786910296843,0.9576105908362362,True,True,8,True
+season,Winter,Winter,MP,HRV,MP + HRV,129908,18681,18049,338,109775,16901,16446,329,7,27,0.018726799268657543,0.018726799268657543,0.7776383743804929,True,True,7,True
+season,Winter,Winter,MP,HSV,MP + HSV,129908,268,140,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,False
+season,Winter,Winter,MP,IFV,MP + IFV,129908,264139,83377,3077,128322,257341,82281,3044,24,10,0.03690466195713446,0.03690466195713446,0.7639294514486192,True,True,24,True
+season,Winter,Winter,MP,RSV,MP + RSV,129908,76203,52589,480,114711,69485,47951,458,9,25,0.009127384053699443,0.009127384053699443,0.6838882966485526,True,True,9,True
+season,Winter,Winter,MTB,P. aeruginosa,MTB + P. aeruginosa,10901,2205,252,51,3057,651,112,18,1,33,0.20238095238095238,0.20238095238095238,,True,False,1,False
+season,Winter,Winter,MTB,S. aureus,MTB + S. aureus,10901,5308,500,44,5760,2270,332,23,2,32,0.088,0.088,,True,False,2,True
+season,Winter,Winter,MTB,S. maltophilia,MTB + S. maltophilia,10901,919,158,41,0,0,0,0,0,34,0.25949367088607594,0.25949367088607594,,True,False,0,True
+season,Winter,Winter,MTB,S. pneumoniae,MTB + S. pneumoniae,10901,2780,250,38,5760,1392,182,18,2,32,0.152,0.152,,True,False,2,False
+season,Winter,Winter,MTB,Cryptococcus,MTB + Cryptococcus,10901,1094,328,1,0,0,0,0,0,34,0.003048780487804878,0.003048780487804878,,True,False,0,True
+season,Winter,Winter,MTB,COVID-19,MTB + COVID-19,10901,85473,3438,115,8374,52298,2918,39,5,29,0.033449680046538685,0.033449680046538685,,True,False,5,True
+season,Winter,Winter,MTB,EBV,MTB + EBV,10901,3598,640,16,5760,1446,329,11,2,32,0.025,0.025,,True,False,2,True
+season,Winter,Winter,MTB,HAdV,MTB + HAdV,10901,80501,2222,14,7287,45500,2034,14,3,31,0.0063006300630063005,0.0063006300630063005,,True,False,3,True
+season,Winter,Winter,MTB,HBoV,MTB + HBoV,10901,16349,1622,0,8374,12836,1325,0,5,29,0.0,0.0,,True,False,5,True
+season,Winter,Winter,MTB,HCoV,MTB + HCoV,10901,9201,167,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Winter,Winter,MTB,HMPV,MTB + HMPV,10901,9065,1472,0,8374,7344,1211,0,5,29,0.0,0.0,,True,False,5,True
+season,Winter,Winter,MTB,HPIV,MTB + HPIV,10901,40143,1919,3,8374,30601,1593,2,5,29,0.001563314226159458,0.001563314226159458,,True,False,5,True
+season,Winter,Winter,MTB,HRV,MTB + HRV,10901,18681,479,2,7287,10369,306,2,3,31,0.0041753653444676405,0.0041753653444676405,,True,False,3,True
+season,Winter,Winter,MTB,IFV,MTB + IFV,10901,264139,4894,405,8374,200432,4252,361,5,29,0.08275439313445035,0.08275439313445035,,True,False,5,True
+season,Winter,Winter,MTB,RSV,MTB + RSV,10901,76203,1677,4,8374,53967,1517,3,5,29,0.002385211687537269,0.002385211687537269,,True,False,5,True
+season,Winter,Winter,P. aeruginosa,S. aureus,P. aeruginosa + S. aureus,2205,5308,1681,82,651,1169,529,37,1,33,0.04878048780487805,0.04878048780487805,,True,False,1,True
+season,Winter,Winter,P. aeruginosa,S. maltophilia,P. aeruginosa + S. maltophilia,2205,919,112,87,0,0,0,0,0,34,0.7767857142857143,0.7767857142857143,,True,False,0,False
+season,Winter,Winter,P. aeruginosa,S. pneumoniae,P. aeruginosa + S. pneumoniae,2205,2780,1921,69,651,864,593,31,1,33,0.03591879229567933,0.03591879229567933,,True,False,1,True
+season,Winter,Winter,P. aeruginosa,COVID-19,P. aeruginosa + COVID-19,2205,85473,1019,12,651,11737,257,4,1,33,0.011776251226692836,0.011776251226692836,,True,False,1,True
+season,Winter,Winter,P. aeruginosa,EBV,P. aeruginosa + EBV,2205,3598,170,20,651,789,101,10,1,33,0.11764705882352941,0.11764705882352941,,True,False,1,False
+season,Winter,Winter,P. aeruginosa,HAdV,P. aeruginosa + HAdV,2205,80501,555,2,651,12404,197,0,1,33,0.0036036036036036037,0.0036036036036036037,,True,False,1,True
+season,Winter,Winter,P. aeruginosa,IFV,P. aeruginosa + IFV,2205,264139,752,9,651,37890,271,4,1,33,0.011968085106382979,0.011968085106382979,,True,False,1,True
+season,Winter,Winter,P. aeruginosa,RSV,P. aeruginosa + RSV,2205,76203,544,5,651,10098,196,1,1,33,0.009191176470588236,0.009191176470588236,,True,False,1,True
+season,Winter,Winter,S. aureus,S. maltophilia,S. aureus + S. maltophilia,5308,919,628,77,0,0,0,0,0,34,0.12261146496815287,0.12261146496815287,,True,False,0,True
+season,Winter,Winter,S. aureus,S. pneumoniae,S. aureus + S. pneumoniae,5308,2780,1689,77,2270,1392,844,43,2,32,0.045589105979869746,0.045589105979869746,,True,False,2,True
+season,Winter,Winter,S. aureus,Cryptococcus,S. aureus + Cryptococcus,5308,1094,167,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,False
+season,Winter,Winter,S. aureus,COVID-19,S. aureus + COVID-19,5308,85473,2015,15,3541,40137,1428,5,4,30,0.007444168734491315,0.007444168734491315,,True,False,4,True
+season,Winter,Winter,S. aureus,EBV,S. aureus + EBV,5308,3598,380,45,2270,1446,225,24,2,32,0.11842105263157894,0.11842105263157894,,True,False,2,True
+season,Winter,Winter,S. aureus,HAdV,S. aureus + HAdV,5308,80501,1758,4,3541,50531,1230,2,4,30,0.0022753128555176336,0.0022753128555176336,,True,False,4,True
+season,Winter,Winter,S. aureus,HBoV,S. aureus + HBoV,5308,16349,171,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Winter,Winter,S. aureus,HMPV,S. aureus + HMPV,5308,9065,102,5,0,0,0,0,0,34,0.049019607843137254,0.049019607843137254,,True,False,0,False
+season,Winter,Winter,S. aureus,HPIV,S. aureus + HPIV,5308,40143,1730,6,3019,22639,1141,1,3,31,0.003468208092485549,0.003468208092485549,,True,False,3,True
+season,Winter,Winter,S. aureus,HRV,S. aureus + HRV,5308,18681,122,5,0,0,0,0,0,34,0.040983606557377046,0.040983606557377046,,True,False,0,True
+season,Winter,Winter,S. aureus,IFV,S. aureus + IFV,5308,264139,3085,46,3541,140174,2082,29,4,30,0.014910858995137763,0.014910858995137763,,True,False,4,True
+season,Winter,Winter,S. aureus,RSV,S. aureus + RSV,5308,76203,2023,3,3541,44876,1372,3,4,30,0.0014829461196243204,0.0014829461196243204,,True,False,4,True
+season,Winter,Winter,S. maltophilia,S. pneumoniae,S. maltophilia + S. pneumoniae,919,2780,103,57,0,0,0,0,0,34,0.5533980582524272,0.5533980582524272,,True,False,0,False
+season,Winter,Winter,S. maltophilia,COVID-19,S. maltophilia + COVID-19,919,85473,302,15,0,0,0,0,0,34,0.04966887417218543,0.04966887417218543,,True,False,0,True
+season,Winter,Winter,S. maltophilia,HAdV,S. maltophilia + HAdV,919,80501,192,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,False
+season,Winter,Winter,S. maltophilia,HBoV,S. maltophilia + HBoV,919,16349,140,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Winter,Winter,S. maltophilia,HPIV,S. maltophilia + HPIV,919,40143,168,1,0,0,0,0,0,34,0.005952380952380952,0.005952380952380952,,True,False,0,True
+season,Winter,Winter,S. maltophilia,HRV,S. maltophilia + HRV,919,18681,105,4,0,0,0,0,0,34,0.0380952380952381,0.0380952380952381,,True,False,0,False
+season,Winter,Winter,S. maltophilia,IFV,S. maltophilia + IFV,919,264139,434,17,0,0,0,0,0,34,0.03917050691244239,0.03917050691244239,,True,False,0,True
+season,Winter,Winter,S. maltophilia,RSV,S. maltophilia + RSV,919,76203,263,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Winter,Winter,S. pneumoniae,COVID-19,S. pneumoniae + COVID-19,2780,85473,1692,12,1392,24662,709,5,2,32,0.0070921985815602835,0.0070921985815602835,,True,False,2,True
+season,Winter,Winter,S. pneumoniae,EBV,S. pneumoniae + EBV,2780,3598,165,41,864,789,104,26,1,33,0.24848484848484848,0.24848484848484848,,True,False,1,False
+season,Winter,Winter,S. pneumoniae,HAdV,S. pneumoniae + HAdV,2780,80501,849,3,1392,29969,609,2,2,32,0.0035335689045936395,0.0035335689045936395,,True,False,2,True
+season,Winter,Winter,S. pneumoniae,HBoV,S. pneumoniae + HBoV,2780,16349,655,2,1392,5250,296,2,2,32,0.0030534351145038168,0.0030534351145038168,,True,False,2,True
+season,Winter,Winter,S. pneumoniae,HPIV,S. pneumoniae + HPIV,2780,40143,731,12,1392,14323,364,8,2,32,0.016415868673050615,0.016415868673050615,,True,False,2,True
+season,Winter,Winter,S. pneumoniae,HRV,S. pneumoniae + HRV,2780,18681,640,16,1392,6846,280,5,2,32,0.025,0.025,,True,False,2,True
+season,Winter,Winter,S. pneumoniae,IFV,S. pneumoniae + IFV,2780,264139,1465,50,1392,90297,789,28,2,32,0.034129692832764506,0.034129692832764506,,True,False,2,True
+season,Winter,Winter,S. pneumoniae,RSV,S. pneumoniae + RSV,2780,76203,1211,29,1392,21552,658,25,2,32,0.023947151114781174,0.023947151114781174,,True,False,2,True
+season,Winter,Winter,Aspergillus,Candida,Aspergillus + Candida,305,1199,122,4,0,0,0,0,0,34,0.03278688524590164,0.03278688524590164,,True,False,0,False
+season,Winter,Winter,Aspergillus,Cryptococcus,Aspergillus + Cryptococcus,305,1094,215,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Winter,Winter,Aspergillus,Pneumocystis,Aspergillus + Pneumocystis,305,261,214,2,0,0,0,0,0,34,0.009345794392523364,0.009345794392523364,,True,False,0,True
+season,Winter,Winter,Aspergillus,IFV,Aspergillus + IFV,305,264139,128,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,False
+season,Winter,Winter,Aspergillus,RSV,Aspergillus + RSV,305,76203,120,1,0,0,0,0,0,34,0.008333333333333333,0.008333333333333333,,True,False,0,False
+season,Winter,Winter,Candida,Cryptococcus,Candida + Cryptococcus,1199,1094,123,1,0,0,0,0,0,34,0.008130081300813009,0.008130081300813009,,True,False,0,False
+season,Winter,Winter,Candida,Pneumocystis,Candida + Pneumocystis,1199,261,130,7,0,0,0,0,0,34,0.05384615384615385,0.05384615384615385,,True,False,0,False
+season,Winter,Winter,Candida,COVID-19,Candida + COVID-19,1199,85473,444,14,518,11737,291,5,1,33,0.03153153153153153,0.03153153153153153,,True,False,1,True
+season,Winter,Winter,Candida,HAdV,Candida + HAdV,1199,80501,200,5,518,12404,59,0,1,33,0.025,0.025,,True,False,1,True
+season,Winter,Winter,Candida,HBoV,Candida + HBoV,1199,16349,368,3,518,2266,268,2,1,33,0.008152173913043478,0.008152173913043478,,True,False,1,True
+season,Winter,Winter,Candida,HCoV,Candida + HCoV,1199,9201,321,4,518,1436,268,4,1,33,0.012461059190031152,0.012461059190031152,,True,False,1,True
+season,Winter,Winter,Candida,HPIV,Candida + HPIV,1199,40143,461,12,518,6329,292,10,1,33,0.026030368763557483,0.026030368763557483,,True,False,1,True
+season,Winter,Winter,Candida,HRV,Candida + HRV,1199,18681,378,54,518,3039,274,41,1,33,0.14285714285714285,0.14285714285714285,,True,False,1,True
+season,Winter,Winter,Candida,IFV,Candida + IFV,1199,264139,538,110,518,37890,326,90,1,33,0.20446096654275092,0.20446096654275092,,True,False,1,True
+season,Winter,Winter,Candida,RSV,Candida + RSV,1199,76203,397,24,518,10098,278,21,1,33,0.060453400503778336,0.060453400503778336,,True,False,1,True
+season,Winter,Winter,Cryptococcus,Pneumocystis,Cryptococcus + Pneumocystis,1094,261,215,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Winter,Winter,Cryptococcus,COVID-19,Cryptococcus + COVID-19,1094,85473,371,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Winter,Winter,Cryptococcus,HAdV,Cryptococcus + HAdV,1094,80501,249,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Winter,Winter,Cryptococcus,HBoV,Cryptococcus + HBoV,1094,16349,206,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Winter,Winter,Cryptococcus,HMPV,Cryptococcus + HMPV,1094,9065,207,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Winter,Winter,Cryptococcus,HPIV,Cryptococcus + HPIV,1094,40143,306,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,True
+season,Winter,Winter,Cryptococcus,IFV,Cryptococcus + IFV,1094,264139,565,3,0,0,0,0,0,34,0.005309734513274336,0.005309734513274336,,True,False,0,True
+season,Winter,Winter,Cryptococcus,RSV,Cryptococcus + RSV,1094,76203,234,1,0,0,0,0,0,34,0.004273504273504274,0.004273504273504274,,True,False,0,True
+season,Winter,Winter,Pneumocystis,IFV,Pneumocystis + IFV,261,264139,105,2,0,0,0,0,0,34,0.01904761904761905,0.01904761904761905,,True,False,0,False
+season,Winter,Winter,CMV,COVID-19,CMV + COVID-19,533,85473,181,3,0,0,0,0,0,34,0.016574585635359115,0.016574585635359115,,True,False,0,True
+season,Winter,Winter,CMV,EBV,CMV + EBV,533,3598,119,67,0,0,0,0,0,34,0.5630252100840336,0.5630252100840336,,True,False,0,False
+season,Winter,Winter,CMV,HAdV,CMV + HAdV,533,80501,214,1,0,0,0,0,0,34,0.004672897196261682,0.004672897196261682,,True,False,0,True
+season,Winter,Winter,CMV,HSV,CMV + HSV,533,268,174,3,0,0,0,0,0,34,0.017241379310344827,0.017241379310344827,,True,False,0,True
+season,Winter,Winter,CMV,IFV,CMV + IFV,533,264139,217,6,0,0,0,0,0,34,0.027649769585253458,0.027649769585253458,,True,False,0,True
+season,Winter,Winter,CMV,RSV,CMV + RSV,533,76203,178,3,0,0,0,0,0,34,0.016853932584269662,0.016853932584269662,,True,False,0,True
+season,Winter,Winter,COVID-19,EBV,COVID-19 + EBV,85473,3598,876,22,24662,1446,385,14,2,32,0.02511415525114155,0.02511415525114155,,True,False,2,True
+season,Winter,Winter,COVID-19,HAdV,COVID-19 + HAdV,85473,80501,17405,24,74996,74492,16277,22,13,21,0.0013789141051422005,0.0013789141051422005,0.09625288430112648,True,True,13,True
+season,Winter,Winter,COVID-19,HBoV,COVID-19 + HBoV,85473,16349,16335,11,67289,15121,15109,11,7,27,0.0006734006734006734,0.0006734006734006734,2.164888790162462,True,True,7,True
+season,Winter,Winter,COVID-19,HCoV,COVID-19 + HCoV,85473,9201,9185,679,62160,7665,7656,473,6,28,0.07392487751769189,0.07392487751769189,7.494863158473018,True,True,6,True
+season,Winter,Winter,COVID-19,HMPV,COVID-19 + HMPV,85473,9065,8623,6,62160,8083,7675,5,6,28,0.0006958135219761104,0.0006958135219761104,0.1393565678872309,True,True,6,True
+season,Winter,Winter,COVID-19,HPIV,COVID-19 + HPIV,85473,40143,19199,37,68658,35968,17835,31,8,26,0.0019271837074847648,0.0019271837074847648,0.9994454947509636,True,True,8,True
+season,Winter,Winter,COVID-19,HRV,COVID-19 + HRV,85473,18681,13890,74,67289,16901,12882,70,7,27,0.005327573794096472,0.005327573794096472,0.3430503731057223,True,True,7,True
+season,Winter,Winter,COVID-19,HSV,COVID-19 + HSV,85473,268,141,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,False
+season,Winter,Winter,COVID-19,IFV,COVID-19 + IFV,85473,264139,61833,685,82321,254019,59741,609,21,13,0.011078226836802355,0.011078226836802355,1.048745464872362,True,True,21,True
+season,Winter,Winter,COVID-19,RSV,COVID-19 + RSV,85473,76203,25176,41,70925,69485,23099,37,9,25,0.0016285351128058469,0.0016285351128058469,0.1744325103436484,True,True,9,True
+season,Winter,Winter,EBV,HAdV,EBV + HAdV,3598,80501,1723,23,1446,29969,832,18,2,32,0.013348810214741729,0.013348810214741729,,True,False,2,True
+season,Winter,Winter,EBV,HBoV,EBV + HBoV,3598,16349,378,0,1446,5250,114,0,2,32,0.0,0.0,,True,False,2,True
+season,Winter,Winter,EBV,HMPV,EBV + HMPV,3598,9065,366,7,1446,3153,109,4,2,32,0.01912568306010929,0.01912568306010929,,True,False,2,True
+season,Winter,Winter,EBV,HPIV,EBV + HPIV,3598,40143,1490,57,1446,14323,646,37,2,32,0.03825503355704698,0.03825503355704698,,True,False,2,True
+season,Winter,Winter,EBV,IFV,EBV + IFV,3598,264139,2482,172,1446,90297,997,112,2,32,0.0692989524576954,0.0692989524576954,,True,False,2,True
+season,Winter,Winter,EBV,RSV,EBV + RSV,3598,76203,1108,57,1446,21552,604,49,2,32,0.05144404332129964,0.05144404332129964,,True,False,2,True
+season,Winter,Winter,HAdV,HBoV,HAdV + HBoV,80501,16349,4900,1,69139,15121,4595,1,7,27,0.00020408163265306123,0.00020408163265306123,0.1380028034714466,True,True,7,True
+season,Winter,Winter,HAdV,HCoV,HAdV + HCoV,80501,9201,1698,0,64108,7665,1470,0,6,28,0.0,0.0,0.0,True,True,6,True
+season,Winter,Winter,HAdV,HMPV,HAdV + HMPV,80501,9065,4766,15,64108,8083,4372,14,6,28,0.003147293327738145,0.003147293327738145,1.3279535059314527,True,True,6,True
+season,Winter,Winter,HAdV,HPIV,HAdV + HPIV,80501,40143,20670,312,70287,35968,18400,306,8,26,0.01509433962264151,0.01509433962264151,14.804664495454146,True,True,8,True
+season,Winter,Winter,HAdV,HRV,HAdV + HRV,80501,18681,9512,58,69139,16901,8561,55,7,27,0.006097560975609756,0.006097560975609756,1.8689794903328,True,True,7,True
+season,Winter,Winter,HAdV,HSV,HAdV + HSV,80501,268,105,0,0,0,0,0,0,34,0.0,0.0,,True,False,0,False
+season,Winter,Winter,HAdV,IFV,HAdV + IFV,80501,264139,52544,617,75810,247614,49568,593,15,19,0.01174253958587089,0.01174253958587089,1.2035738470974449,True,True,15,True
+season,Winter,Winter,HAdV,RSV,HAdV + RSV,80501,76203,46622,485,72072,69485,42296,465,9,25,0.010402814122088284,0.010402814122088284,2.6367397660715395,True,True,9,True
+season,Winter,Winter,HBoV,HCoV,HBoV + HCoV,16349,9201,6644,9,14569,7665,6331,9,6,28,0.0013546056592414208,0.0013546056592414208,3.024972493293371,True,True,6,True
+season,Winter,Winter,HBoV,HMPV,HBoV + HMPV,16349,9065,8563,0,14569,8083,7645,0,6,28,0.0,0.0,0.0,True,True,6,True
+season,Winter,Winter,HBoV,HPIV,HBoV + HPIV,16349,40143,16328,7,15121,35328,15102,7,7,27,0.00042871141597256246,0.00042871141597256246,0.7366780145287557,True,True,7,True
+season,Winter,Winter,HBoV,HRV,HBoV + HRV,16349,18681,13259,36,15121,16901,12455,34,7,27,0.0027151368881514443,0.0027151368881514443,1.8376650541253274,True,True,7,True
+season,Winter,Winter,HBoV,IFV,HBoV + IFV,16349,264139,16340,14,15121,232406,15113,14,7,27,0.0008567931456548348,0.0008567931456548348,0.3799567778317561,True,True,7,True
+season,Winter,Winter,HBoV,RSV,HBoV + RSV,16349,76203,13424,5,15121,65866,12545,5,7,27,0.00037246722288438616,0.00037246722288438616,0.7741459247070965,True,True,7,True
+season,Winter,Winter,HCoV,HMPV,HCoV + HMPV,9201,9065,2488,5,7665,8083,2381,4,6,28,0.0020096463022508037,0.0020096463022508037,0.29860715289948064,True,True,6,True
+season,Winter,Winter,HCoV,HPIV,HCoV + HPIV,9201,40143,6645,21,7665,33676,6330,18,6,28,0.003160270880361174,0.003160270880361174,1.2127735313902936,True,True,6,True
+season,Winter,Winter,HCoV,HRV,HCoV + HRV,9201,18681,6644,61,7665,16207,6330,59,6,28,0.00918121613485852,0.00918121613485852,0.9179129010308695,True,True,6,True
+season,Winter,Winter,HCoV,IFV,HCoV + IFV,9201,264139,7876,144,7665,217656,6628,76,6,28,0.018283392585068562,0.018283392585068562,0.6773282375292586,True,True,6,True
+season,Winter,Winter,HCoV,RSV,HCoV + RSV,9201,76203,6683,6,7665,59248,6339,6,6,28,0.0008978003890468353,0.0008978003890468353,0.10530154870141241,True,True,6,True
+season,Winter,Winter,HMPV,HPIV,HMPV + HPIV,9065,40143,8631,8,8083,33676,7671,8,6,28,0.000926891437840343,0.000926891437840343,0.30931429685285644,True,True,6,True
+season,Winter,Winter,HMPV,HRV,HMPV + HRV,9065,18681,5534,23,8083,16207,5118,23,6,28,0.0041561257679797615,0.0041561257679797615,0.40057710713454786,True,True,6,True
+season,Winter,Winter,HMPV,IFV,HMPV + IFV,9065,264139,8654,49,8083,217656,7690,48,6,28,0.005662121562283337,0.005662121562283337,0.34994958584382935,True,True,6,True
+season,Winter,Winter,HMPV,RSV,HMPV + RSV,9065,76203,5677,10,8083,59248,5174,10,6,28,0.0017614937466971991,0.0017614937466971991,0.6372803710839301,True,True,6,True
+season,Winter,Winter,HPIV,HRV,HPIV + HRV,40143,18681,16948,103,35328,16901,15890,96,7,27,0.006077413264101959,0.006077413264101959,0.9695810481470665,True,True,7,True
+season,Winter,Winter,HPIV,IFV,HPIV + IFV,40143,264139,40111,1446,35968,235188,35958,1324,8,26,0.03604996135723368,0.03604996135723368,3.9820003905657853,True,True,8,True
+season,Winter,Winter,HPIV,RSV,HPIV + RSV,40143,76203,26332,358,35968,66986,24191,347,8,26,0.013595625094941517,0.013595625094941517,4.5759620391380595,True,True,8,True
+season,Winter,Winter,HRV,IFV,HRV + IFV,18681,264139,18186,257,16901,232406,16571,251,7,27,0.014131749697569558,0.014131749697569558,0.4031572776844032,True,True,7,True
+season,Winter,Winter,HRV,RSV,HRV + RSV,18681,76203,18181,143,16901,65866,16730,136,7,27,0.007865353940927342,0.007865353940927342,0.9615096209533158,True,True,7,True
+season,Winter,Winter,HSV,IFV,HSV + IFV,268,264139,155,3,0,0,0,0,0,34,0.01935483870967742,0.01935483870967742,,True,False,0,True
+season,Winter,Winter,HSV,RSV,HSV + RSV,268,76203,113,1,0,0,0,0,0,34,0.008849557522123894,0.008849557522123894,,True,False,0,False
+season,Winter,Winter,IFV,RSV,IFV + RSV,264139,76203,51956,792,239309,69485,47527,768,9,25,0.015243667718839017,0.015243667718839017,0.6918728961456518,True,True,9,True

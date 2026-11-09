@@ -1,0 +1,30 @@
+﻿pathogen,pathogen_zh,family,column
+CMV,巨细胞病毒,Viral,病原体状态::巨细胞病毒
+COVID-19,新冠,Viral,病原体状态::新冠
+EBV,EB病毒,Viral,病原体状态::EB病毒
+HAdV,腺病毒,Viral,病原体状态::腺病毒
+HBoV,博卡病毒,Viral,病原体状态::博卡病毒
+HCoV,季节性冠状病毒,Viral,病原体状态::季节性冠状病毒
+HMPV,偏肺病毒,Viral,病原体状态::偏肺病毒
+HPIV,副流感病毒,Viral,病原体状态::副流感病毒
+HRV,鼻病毒,Viral,病原体状态::鼻病毒
+HSV,单纯疱疹病毒,Viral,病原体状态::单纯疱疹病毒
+IFV,流感,Viral,病原体状态::流感
+RSV,呼吸道合胞病毒,Viral,病原体状态::呼吸道合胞病毒
+S. pneumoniae,肺炎链球菌,Bacterial,病原体状态::肺炎链球菌
+K. pneumoniae,肺炎克雷伯菌,Bacterial,病原体状态::肺炎克雷伯菌
+A. baumannii,鲍曼不动杆菌,Bacterial,病原体状态::鲍曼不动杆菌
+B. pertussis,百日咳杆菌,Bacterial,病原体状态::百日咳杆菌
+CP,肺炎衣原体,Bacterial,病原体状态::肺炎衣原体
+H. influenzae,流感嗜血杆菌,Bacterial,病原体状态::流感嗜血杆菌
+Legionella,军团菌,Bacterial,病原体状态::军团菌
+M. catarrhalis,卡他莫拉菌,Bacterial,病原体状态::卡他莫拉菌
+MP,肺炎支原体,Bacterial,病原体状态::肺炎支原体
+MTB,结核分枝杆菌,Bacterial,病原体状态::结核分枝杆菌
+P. aeruginosa,铜绿假单胞菌,Bacterial,病原体状态::铜绿假单胞菌
+S. aureus,金黄色葡萄球菌,Bacterial,病原体状态::金黄色葡萄球菌
+S. maltophilia,嗜麦芽窄食单胞菌,Bacterial,病原体状态::嗜麦芽窄食单胞菌
+Aspergillus,曲霉,Fungi,病原体状态::曲霉
+Candida,念珠菌,Fungi,病原体状态::念珠菌
+Cryptococcus,隐球菌,Fungi,病原体状态::隐球菌
+Pneumocystis,肺孢子菌,Fungi,病原体状态::肺孢子菌

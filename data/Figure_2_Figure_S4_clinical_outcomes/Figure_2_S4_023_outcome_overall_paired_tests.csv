@@ -1,0 +1,5 @@
+﻿Outcome,Outcome key,n_pair_rates,mean monoinfection rate (%),mean co-infection rate (%),median monoinfection rate (%),median co-infection rate (%),median paired difference co-minus-mono (%),test_method,statistic,p_value,significance,significant_at_alpha
+LRTI rate (%),LRTI,126,85.2547856063364,80.73814241694414,86.77361195535644,81.01673101673101,-2.8849132294880064,Wilcoxon signed-rank,2275.0,2.655057889317807e-05,***,True
+Death rate (%),Death,125,1.3829787481705638,1.377180263052595,0.546448087431694,0.5988023952095808,0.0,Wilcoxon signed-rank,3092.0,0.5999434538777372,,False
+ICU rate (%),ICU,125,9.190848305092935,7.108458023295993,4.012645914396887,5.0,-0.09173194763489323,Wilcoxon signed-rank,3305.0,0.19977075087364216,,False
+Hospitalization rate (%),Hospitalization,126,86.23232063197618,79.78559694294114,91.35508737781466,84.40310271935796,-3.527300985427104,Wilcoxon signed-rank,1967.0,7.379211752739052e-07,***,True

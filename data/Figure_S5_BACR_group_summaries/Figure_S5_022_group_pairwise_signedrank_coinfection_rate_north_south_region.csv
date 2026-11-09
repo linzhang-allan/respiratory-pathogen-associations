@@ -1,0 +1,2 @@
+﻿Group A,Group B,Paired pair-count,Group A median Observed coinfection rate,Group B median Observed coinfection rate,raw_p_value,p_value,p_value_stars,posthoc_test_applied,posthoc_method
+North,South,224,0.007538116733482749,0.007300413752078055,0.04608639532654218,0.04608639532654218,*,True,Wilcoxon signed-rank test (direct two-group comparison)

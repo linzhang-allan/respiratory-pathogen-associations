@@ -1,0 +1,2 @@
+﻿Group A,Group B,Paired pair-count,Group A median Coinfection risk,Group B median Coinfection risk,raw_p_value,p_value,p_value_stars,posthoc_test_applied,posthoc_method
+Male,Female,83,0.685107810585655,0.7163669292476303,0.9118981744181656,0.9118981744181656,,True,Wilcoxon signed-rank test (direct two-group comparison)

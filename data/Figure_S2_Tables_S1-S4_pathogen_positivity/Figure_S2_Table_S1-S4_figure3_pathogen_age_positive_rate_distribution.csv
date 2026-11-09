@@ -1,0 +1,117 @@
+﻿Stratification,Stratum code,Stratum,Pathogen zh,Pathogen,Pathogen family,Tested encounters,Positive encounters,Positive rate (%)
+age,<5 years,<5 years,巨细胞病毒,CMV,Viral pathogens,93,19,20.43010752688172
+age,5-17 years,5-17 years,巨细胞病毒,CMV,Viral pathogens,136,48,35.294117647058826
+age,18-60 years,18-60 years,巨细胞病毒,CMV,Viral pathogens,596,127,21.308724832214764
+age,>60 years,>60 years,巨细胞病毒,CMV,Viral pathogens,1233,211,17.11273317112733
+age,<5 years,<5 years,新冠,SARS-CoV-2,Viral pathogens,23577,1970,8.355600797387284
+age,5-17 years,5-17 years,新冠,SARS-CoV-2,Viral pathogens,51523,4802,9.320109465675523
+age,18-60 years,18-60 years,新冠,SARS-CoV-2,Viral pathogens,90745,14893,16.411923521957135
+age,>60 years,>60 years,新冠,SARS-CoV-2,Viral pathogens,78022,11756,15.067545051395761
+age,<5 years,<5 years,EB病毒,EBV,Viral pathogens,465,149,32.043010752688176
+age,5-17 years,5-17 years,EB病毒,EBV,Viral pathogens,1460,547,37.465753424657535
+age,18-60 years,18-60 years,EB病毒,EBV,Viral pathogens,4215,1005,23.843416370106763
+age,>60 years,>60 years,EB病毒,EBV,Viral pathogens,4198,1456,34.683182467841824
+age,<5 years,<5 years,腺病毒,HAdV,Viral pathogens,29028,1333,4.592117955077856
+age,5-17 years,5-17 years,腺病毒,HAdV,Viral pathogens,65063,2884,4.4326268386025856
+age,18-60 years,18-60 years,腺病毒,HAdV,Viral pathogens,59482,1367,2.298174237584479
+age,>60 years,>60 years,腺病毒,HAdV,Viral pathogens,53266,1156,2.1702399279089852
+age,<5 years,<5 years,博卡病毒,HBoV,Viral pathogens,12752,238,1.8663739021329988
+age,5-17 years,5-17 years,博卡病毒,HBoV,Viral pathogens,20554,153,0.7443806558334144
+age,18-60 years,18-60 years,博卡病毒,HBoV,Viral pathogens,5483,11,0.20062009848623016
+age,>60 years,>60 years,博卡病毒,HBoV,Viral pathogens,10157,11,0.10829969479176922
+age,<5 years,<5 years,季节性冠状病毒,HCoV,Viral pathogens,7213,272,3.7709690835990575
+age,5-17 years,5-17 years,季节性冠状病毒,HCoV,Viral pathogens,12417,524,4.2200209390351935
+age,18-60 years,18-60 years,季节性冠状病毒,HCoV,Viral pathogens,4600,761,16.543478260869566
+age,>60 years,>60 years,季节性冠状病毒,HCoV,Viral pathogens,6016,734,12.200797872340425
+age,<5 years,<5 years,偏肺病毒,HMPV,Viral pathogens,5435,469,8.629254829806808
+age,5-17 years,5-17 years,偏肺病毒,HMPV,Viral pathogens,8532,441,5.168776371308017
+age,18-60 years,18-60 years,偏肺病毒,HMPV,Viral pathogens,4620,177,3.831168831168831
+age,>60 years,>60 years,偏肺病毒,HMPV,Viral pathogens,9217,309,3.35250081371379
+age,<5 years,<5 years,副流感病毒,HPIV,Viral pathogens,20362,1589,7.803752087221294
+age,5-17 years,5-17 years,副流感病毒,HPIV,Viral pathogens,37885,1744,4.603405041573182
+age,18-60 years,18-60 years,副流感病毒,HPIV,Viral pathogens,22415,975,4.349765781842517
+age,>60 years,>60 years,副流感病毒,HPIV,Viral pathogens,30497,1163,3.8134898514607993
+age,<5 years,<5 years,鼻病毒,HRV,Viral pathogens,14185,3741,26.372929150511105
+age,5-17 years,5-17 years,鼻病毒,HRV,Viral pathogens,21788,4699,21.566917569304202
+age,18-60 years,18-60 years,鼻病毒,HRV,Viral pathogens,7988,693,8.675513269904856
+age,>60 years,>60 years,鼻病毒,HRV,Viral pathogens,14309,941,6.576280662520093
+age,<5 years,<5 years,单纯疱疹病毒,HSV,Viral pathogens,80,3,3.75
+age,5-17 years,5-17 years,单纯疱疹病毒,HSV,Viral pathogens,152,14,9.210526315789473
+age,18-60 years,18-60 years,单纯疱疹病毒,HSV,Viral pathogens,257,41,15.953307392996107
+age,>60 years,>60 years,单纯疱疹病毒,HSV,Viral pathogens,336,115,34.226190476190474
+age,<5 years,<5 years,流感,IFV,Viral pathogens,85349,15035,17.615906454674338
+age,5-17 years,5-17 years,流感,IFV,Viral pathogens,203120,45816,22.556124458448206
+age,18-60 years,18-60 years,流感,IFV,Viral pathogens,182074,29608,16.26152004130189
+age,>60 years,>60 years,流感,IFV,Viral pathogens,115879,15974,13.785068908085158
+age,<5 years,<5 years,呼吸道合胞病毒,RSV,Viral pathogens,32897,3883,11.803507918655196
+age,5-17 years,5-17 years,呼吸道合胞病毒,RSV,Viral pathogens,62000,3052,4.922580645161291
+age,18-60 years,18-60 years,呼吸道合胞病毒,RSV,Viral pathogens,46328,1372,2.9614919702987392
+age,>60 years,>60 years,呼吸道合胞病毒,RSV,Viral pathogens,51073,1864,3.649677912008302
+age,<5 years,<5 years,肺炎支原体,MP,Bacterial pathogens,75471,14869,19.70160723986697
+age,5-17 years,5-17 years,肺炎支原体,MP,Bacterial pathogens,129874,40195,30.949227713014153
+age,18-60 years,18-60 years,肺炎支原体,MP,Bacterial pathogens,95626,9877,10.328780875494111
+age,>60 years,>60 years,肺炎支原体,MP,Bacterial pathogens,73054,3670,5.023681112601637
+age,<5 years,<5 years,肺炎衣原体,CP,Bacterial pathogens,13470,149,1.1061618411284335
+age,5-17 years,5-17 years,肺炎衣原体,CP,Bacterial pathogens,30041,846,2.8161512599447422
+age,18-60 years,18-60 years,肺炎衣原体,CP,Bacterial pathogens,31940,673,2.1070757670632436
+age,>60 years,>60 years,肺炎衣原体,CP,Bacterial pathogens,22672,428,1.8877911079745944
+age,<5 years,<5 years,百日咳杆菌,B pertussis,Bacterial pathogens,7475,375,5.016722408026756
+age,5-17 years,5-17 years,百日咳杆菌,B pertussis,Bacterial pathogens,9305,810,8.704997313272434
+age,18-60 years,18-60 years,百日咳杆菌,B pertussis,Bacterial pathogens,1720,71,4.127906976744186
+age,>60 years,>60 years,百日咳杆菌,B pertussis,Bacterial pathogens,2251,23,1.0217681030653043
+age,<5 years,<5 years,流感嗜血杆菌,H influenzae,Bacterial pathogens,4537,2159,47.58651091029314
+age,5-17 years,5-17 years,流感嗜血杆菌,H influenzae,Bacterial pathogens,6173,2023,32.7717479345537
+age,18-60 years,18-60 years,流感嗜血杆菌,H influenzae,Bacterial pathogens,5054,2021,39.98812821527503
+age,>60 years,>60 years,流感嗜血杆菌,H influenzae,Bacterial pathogens,10865,3908,35.96870685687989
+age,<5 years,<5 years,肺炎克雷伯菌,K pneumoniae,Bacterial pathogens,91,47,51.64835164835166
+age,5-17 years,5-17 years,肺炎克雷伯菌,K pneumoniae,Bacterial pathogens,157,83,52.86624203821656
+age,18-60 years,18-60 years,肺炎克雷伯菌,K pneumoniae,Bacterial pathogens,824,401,48.66504854368932
+age,>60 years,>60 years,肺炎克雷伯菌,K pneumoniae,Bacterial pathogens,1873,1198,63.96155899626268
+age,<5 years,<5 years,军团菌,Legionella,Bacterial pathogens,1320,1,0.07575757575757576
+age,5-17 years,5-17 years,军团菌,Legionella,Bacterial pathogens,3330,25,0.7507507507507507
+age,18-60 years,18-60 years,军团菌,Legionella,Bacterial pathogens,3578,151,4.220234768026831
+age,>60 years,>60 years,军团菌,Legionella,Bacterial pathogens,5416,130,2.400295420974889
+age,<5 years,<5 years,卡他莫拉菌,M catarrhalis,Bacterial pathogens,430,82,19.069767441860467
+age,5-17 years,5-17 years,卡他莫拉菌,M catarrhalis,Bacterial pathogens,850,85,10.0
+age,18-60 years,18-60 years,卡他莫拉菌,M catarrhalis,Bacterial pathogens,901,56,6.215316315205328
+age,>60 years,>60 years,卡他莫拉菌,M catarrhalis,Bacterial pathogens,1215,104,8.559670781893004
+age,<5 years,<5 years,结核分枝杆菌,MTB,Bacterial pathogens,791,203,25.663716814159294
+age,5-17 years,5-17 years,结核分枝杆菌,MTB,Bacterial pathogens,2600,539,20.73076923076923
+age,18-60 years,18-60 years,结核分枝杆菌,MTB,Bacterial pathogens,10158,2920,28.745816105532583
+age,>60 years,>60 years,结核分枝杆菌,MTB,Bacterial pathogens,15625,3968,25.395200000000003
+age,<5 years,<5 years,铜绿假单胞菌,P aeruginosa,Bacterial pathogens,559,24,4.293381037567084
+age,5-17 years,5-17 years,铜绿假单胞菌,P aeruginosa,Bacterial pathogens,689,57,8.272859216255442
+age,18-60 years,18-60 years,铜绿假单胞菌,P aeruginosa,Bacterial pathogens,956,262,27.405857740585777
+age,>60 years,>60 years,铜绿假单胞菌,P aeruginosa,Bacterial pathogens,2611,918,35.15894293374186
+age,<5 years,<5 years,金黄色葡萄球菌,S aureus,Bacterial pathogens,969,73,7.533539731682147
+age,5-17 years,5-17 years,金黄色葡萄球菌,S aureus,Bacterial pathogens,2230,177,7.937219730941704
+age,18-60 years,18-60 years,金黄色葡萄球菌,S aureus,Bacterial pathogens,3115,441,14.157303370786517
+age,>60 years,>60 years,金黄色葡萄球菌,S aureus,Bacterial pathogens,7659,1260,16.45123384253819
+age,<5 years,<5 years,嗜麦芽窄食单胞菌,S maltophilia,Bacterial pathogens,143,4,2.797202797202797
+age,5-17 years,5-17 years,嗜麦芽窄食单胞菌,S maltophilia,Bacterial pathogens,422,43,10.189573459715639
+age,18-60 years,18-60 years,嗜麦芽窄食单胞菌,S maltophilia,Bacterial pathogens,1007,264,26.216484607745777
+age,>60 years,>60 years,嗜麦芽窄食单胞菌,S maltophilia,Bacterial pathogens,2302,1041,45.22154648132059
+age,<5 years,<5 years,肺炎链球菌,S pneumoniae,Bacterial pathogens,1275,200,15.686274509803921
+age,5-17 years,5-17 years,肺炎链球菌,S pneumoniae,Bacterial pathogens,2482,428,17.24415793714746
+age,18-60 years,18-60 years,肺炎链球菌,S pneumoniae,Bacterial pathogens,1449,199,13.7336093857833
+age,>60 years,>60 years,肺炎链球菌,S pneumoniae,Bacterial pathogens,2657,231,8.694015807301469
+age,<5 years,<5 years,鲍曼不动杆菌,A baumannii,Bacterial pathogens,152,17,11.18421052631579
+age,5-17 years,5-17 years,鲍曼不动杆菌,A baumannii,Bacterial pathogens,435,74,17.011494252873565
+age,18-60 years,18-60 years,鲍曼不动杆菌,A baumannii,Bacterial pathogens,1410,677,48.01418439716312
+age,>60 years,>60 years,鲍曼不动杆菌,A baumannii,Bacterial pathogens,3491,2054,58.83700945287883
+age,<5 years,<5 years,曲霉,Aspergillus,Fungi pathogens,7,0,0.0
+age,5-17 years,5-17 years,曲霉,Aspergillus,Fungi pathogens,24,0,0.0
+age,18-60 years,18-60 years,曲霉,Aspergillus,Fungi pathogens,271,11,4.059040590405904
+age,>60 years,>60 years,曲霉,Aspergillus,Fungi pathogens,1086,75,6.906077348066299
+age,<5 years,<5 years,念珠菌,Candida,Fungi pathogens,989,954,96.46107178968654
+age,5-17 years,5-17 years,念珠菌,Candida,Fungi pathogens,1712,1665,97.25467289719626
+age,18-60 years,18-60 years,念珠菌,Candida,Fungi pathogens,565,286,50.61946902654867
+age,>60 years,>60 years,念珠菌,Candida,Fungi pathogens,1225,714,58.285714285714285
+age,<5 years,<5 years,隐球菌,Cryptococcus,Fungi pathogens,44,3,6.8181818181818175
+age,5-17 years,5-17 years,隐球菌,Cryptococcus,Fungi pathogens,111,2,1.8018018018018018
+age,18-60 years,18-60 years,隐球菌,Cryptococcus,Fungi pathogens,1377,42,3.0501089324618738
+age,>60 years,>60 years,隐球菌,Cryptococcus,Fungi pathogens,2915,42,1.4408233276157805
+age,<5 years,<5 years,肺孢子菌,Pneumocystis,Fungi pathogens,17,3,17.647058823529413
+age,5-17 years,5-17 years,肺孢子菌,Pneumocystis,Fungi pathogens,19,0,0.0
+age,18-60 years,18-60 years,肺孢子菌,Pneumocystis,Fungi pathogens,289,29,10.034602076124568
+age,>60 years,>60 years,肺孢子菌,Pneumocystis,Fungi pathogens,969,67,6.9143446852425186

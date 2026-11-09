@@ -1,0 +1,30 @@
+﻿Pathogen,Chinese name,English name,Family,Tested rows,Positive rows,Negative rows,Positive rate (%)
+A. baumannii,鲍曼不动杆菌,Acinetobacter baumannii,Bacterial,6346,3121,3225,49.180586196029
+B. pertussis,百日咳杆菌,Bordetella pertussis,Bacterial,27960,1542,26418,5.515021459227468
+CP,肺炎衣原体,Chlamydia pneumoniae,Bacterial,107557,2186,105371,2.032410721756836
+H. influenzae,流感嗜血杆菌,Haemophilus influenzae,Bacterial,38388,15672,22716,40.825257893091596
+K. pneumoniae,肺炎克雷伯菌,Klebsiella pneumoniae,Bacterial,4148,2221,1927,53.543876567020256
+Legionella,军团菌,Legionella,Bacterial,16963,321,16642,1.8923539468254436
+M. catarrhalis,卡他莫拉菌,Moraxella catarrhalis,Bacterial,3963,388,3575,9.790562705021449
+MP,肺炎支原体,Mycoplasma pneumoniae,Bacterial,463616,84972,378644,18.328099116510217
+MTB,结核分枝杆菌,Mycobacterium tuberculosis,Bacterial,36799,8806,27993,23.929998097774398
+P. aeruginosa,铜绿假单胞菌,Pseudomonas aeruginosa,Bacterial,6258,1515,4743,24.20901246404602
+S. aureus,金黄色葡萄球菌,Staphylococcus aureus,Bacterial,18283,2388,15895,13.061313788765519
+S. maltophilia,嗜麦芽窄食单胞菌,Stenotrophomonas maltophilia,Bacterial,4589,1526,3063,33.25343212028765
+S. pneumoniae,肺炎链球菌,Streptococcus pneumoniae,Bacterial,10149,1417,8732,13.96196669622623
+Aspergillus,曲霉,Aspergillus,Fungi,1694,104,1590,6.139315230224321
+Candida,念珠菌,Candida,Fungi,7033,5789,1244,82.31195791269728
+Cryptococcus,隐球菌,Cryptococcus,Fungi,5006,103,4903,2.0575309628445866
+Pneumocystis,肺孢子菌,Pneumocystis jirovecii,Fungi,1583,119,1464,7.517372078332281
+CMV,巨细胞病毒,Cytomegalovirus,Viral,2269,500,1769,22.036139268400177
+COVID-19,新冠,COVID-19,Viral,301436,42338,259098,14.04543584707865
+EBV,EB病毒,Epstein-Barr virus,Viral,14246,3837,10409,26.93387617576864
+HAdV,腺病毒,Human adenovirus,Viral,265486,8686,256800,3.2717356094106655
+HBoV,博卡病毒,Human bocavirus,Viral,62763,929,61834,1.4801714385864284
+HCoV,季节性冠状病毒,Human coronavirus,Viral,42620,3443,39177,8.07836696386673
+HMPV,偏肺病毒,Human metapneumovirus,Viral,31973,1671,30302,5.226284677696807
+HPIV,副流感病毒,Human parainfluenza virus,Viral,150902,7525,143377,4.986680097016607
+HRV,鼻病毒,Human rhinovirus,Viral,75140,13788,61352,18.349747138674473
+HSV,单纯疱疹病毒,Herpes simplex virus,Viral,956,185,771,19.351464435146443
+IFV,流感,Influenza virus,Viral,719286,131274,588012,18.25059851018927
+RSV,呼吸道合胞病毒,Respiratory syncytial virus,Viral,260031,16178,243853,6.2215658902207815

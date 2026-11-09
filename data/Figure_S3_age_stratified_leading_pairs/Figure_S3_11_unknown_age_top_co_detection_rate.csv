@@ -1,0 +1,189 @@
+﻿Age section,Panel,Pair,Pathogen A,Pathogen B,Both tested n,Coinfection n,Coinfection rate (%),Panel n
+Unknown,All,K. pneumoniae + P. aeruginosa,K. pneumoniae,P. aeruginosa,136,132,97.05882352941177,219515
+Unknown,All,A. baumannii + P. aeruginosa,A. baumannii,P. aeruginosa,147,131,89.1156462585034,219515
+Unknown,All,P. aeruginosa + S. maltophilia,P. aeruginosa,S. maltophilia,128,113,88.28125,219515
+Unknown,All,K. pneumoniae + S. maltophilia,K. pneumoniae,S. maltophilia,149,120,80.53691275167785,219515
+Unknown,All,S. pneumoniae + K. pneumoniae,S. pneumoniae,K. pneumoniae,142,114,80.28169014084507,219515
+Unknown,All,K. pneumoniae + A. baumannii,K. pneumoniae,A. baumannii,154,123,79.87012987012987,219515
+Unknown,All,S. pneumoniae + S. maltophilia,S. pneumoniae,S. maltophilia,157,111,70.70063694267516,219515
+Unknown,All,S. pneumoniae + A. baumannii,S. pneumoniae,A. baumannii,162,111,68.51851851851852,219515
+Unknown,All,S. aureus + MTB,S. aureus,MTB,129,63,48.837209302325576,219515
+Unknown,All,COVID-19 + MTB,COVID-19,MTB,503,157,31.21272365805169,219515
+Unknown,All,H. influenzae + Candida,H. influenzae,Candida,1991,618,31.039678553490706,219515
+Unknown,All,RSV + Candida,RSV,Candida,1362,417,30.616740088105725,219515
+Unknown,All,H. influenzae + MTB,H. influenzae,MTB,232,63,27.155172413793103,219515
+Unknown,All,HRV + Candida,HRV,Candida,1353,332,24.538063562453807,219515
+Unknown,All,COVID-19 + A. baumannii,COVID-19,A. baumannii,129,31,24.031007751937985,219515
+Unknown,All,COVID-19 + S. maltophilia,COVID-19,S. maltophilia,116,27,23.275862068965516,219515
+Unknown,All,A. baumannii + S. aureus,A. baumannii,S. aureus,598,124,20.735785953177256,219515
+Unknown,All,S. maltophilia + S. aureus,S. maltophilia,S. aureus,595,119,20.0,219515
+Unknown,All,A. baumannii + S. maltophilia,A. baumannii,S. maltophilia,631,125,19.809825673534075,219515
+Unknown,All,S. pneumoniae + Candida,S. pneumoniae,Candida,397,76,19.143576826196472,219515
+Unknown,All,CP + EBV,CP,EBV,157,29,18.471337579617835,219515
+Unknown,All,H. influenzae + A. baumannii,H. influenzae,A. baumannii,634,113,17.823343848580443,219515
+Unknown,All,H. influenzae + S. maltophilia,H. influenzae,S. maltophilia,624,110,17.628205128205128,219515
+Unknown,All,HMPV + Candida,HMPV,Candida,142,24,16.901408450704224,219515
+Unknown,All,H. influenzae + K. pneumoniae,H. influenzae,K. pneumoniae,942,148,15.711252653927813,219515
+Unknown,All,IFV + Candida,IFV,Candida,1644,222,13.503649635036496,219515
+Unknown,All,K. pneumoniae + S. aureus,K. pneumoniae,S. aureus,939,126,13.418530351437699,219515
+Unknown,All,Candida + EBV,Candida,EBV,121,15,12.396694214876034,219515
+Unknown,All,S. pneumoniae + S. aureus,S. pneumoniae,S. aureus,1134,129,11.375661375661375,219515
+Unknown,All,H. influenzae + P. aeruginosa,H. influenzae,P. aeruginosa,1081,117,10.823311748381128,219515
+Unknown,All,P. aeruginosa + S. aureus,P. aeruginosa,S. aureus,1086,114,10.497237569060774,219515
+Unknown,All,S. pneumoniae + P. aeruginosa,S. pneumoniae,P. aeruginosa,1286,117,9.097978227060652,219515
+Unknown,All,S. pneumoniae + H. influenzae,S. pneumoniae,H. influenzae,1703,151,8.866705813270698,219515
+Unknown,All,HPIV + Candida,HPIV,Candida,1573,126,8.010171646535284,219515
+Unknown,All,H. influenzae + EBV,H. influenzae,EBV,428,30,7.009345794392523,219515
+Unknown,All,COVID-19 + EBV,COVID-19,EBV,752,52,6.914893617021277,219515
+Unknown,All,H. influenzae + M. catarrhalis,H. influenzae,M. catarrhalis,463,30,6.479481641468683,219515
+Unknown,All,RSV + S. pneumoniae,RSV,S. pneumoniae,1260,75,5.952380952380952,219515
+Unknown,All,IFV + A. baumannii,IFV,A. baumannii,291,16,5.498281786941581,219515
+Unknown,All,HRV + M. catarrhalis,HRV,M. catarrhalis,317,17,5.3627760252365935,219515
+Unknown,All,MP + EBV,MP,EBV,3097,166,5.36002583144979,219515
+Unknown,All,IFV + HPIV,IFV,HPIV,39448,2030,5.146015007097952,219515
+Unknown,All,MP + Candida,MP,Candida,1632,82,5.0245098039215685,219515
+Unknown,All,COVID-19 + K. pneumoniae,COVID-19,K. pneumoniae,714,35,4.901960784313726,219515
+Unknown,All,IFV + MTB,IFV,MTB,2443,115,4.707327056897258,219515
+Unknown,All,IFV + S. maltophilia,IFV,S. maltophilia,282,13,4.609929078014184,219515
+Unknown,All,IFV + EBV,IFV,EBV,3155,143,4.532488114104596,219515
+Unknown,All,COVID-19 + Candida,COVID-19,Candida,1448,64,4.41988950276243,219515
+Unknown,All,S. aureus + EBV,S. aureus,EBV,302,13,4.304635761589404,219515
+Unknown,All,HBoV + Candida,HBoV,Candida,1353,56,4.138950480413895,219515
+Unknown,All,COVID-19 + HCoV,COVID-19,HCoV,8995,351,3.9021678710394663,219515
+Unknown,All,H. influenzae + S. aureus,H. influenzae,S. aureus,4080,158,3.872549019607843,219515
+Unknown,All,IFV + MP,IFV,MP,55044,2085,3.787878787878788,219515
+Unknown,All,HAdV + Candida,HAdV,Candida,352,13,3.6931818181818183,219515
+Unknown,All,S. pneumoniae + M. catarrhalis,S. pneumoniae,M. catarrhalis,224,8,3.571428571428571,219515
+Unknown,All,HRV + S. pneumoniae,HRV,S. pneumoniae,763,27,3.5386631716906947,219515
+Unknown,All,IFV + K. pneumoniae,IFV,K. pneumoniae,676,23,3.4023668639053253,219515
+Unknown,All,IFV + M. catarrhalis,IFV,M. catarrhalis,422,14,3.3175355450236967,219515
+Unknown,All,COVID-19 + P. aeruginosa,COVID-19,P. aeruginosa,791,26,3.286978508217446,219515
+Unknown,All,HAdV + M. catarrhalis,HAdV,M. catarrhalis,217,7,3.225806451612903,219515
+Unknown,All,HMPV + S. aureus,HMPV,S. aureus,126,4,3.1746031746031744,219515
+Unknown,All,IFV + P. aeruginosa,IFV,P. aeruginosa,520,16,3.076923076923077,219515
+Unknown,All,HRV + H. influenzae,HRV,H. influenzae,2120,65,3.0660377358490565,219515
+Unknown,All,COVID-19 + IFV,COVID-19,IFV,35025,1026,2.9293361884368307,219515
+Unknown,All,IFV + H. influenzae,IFV,H. influenzae,4825,128,2.6528497409326426,219515
+Unknown,All,COVID-19 + H. influenzae,COVID-19,H. influenzae,4311,112,2.5980051032243097,219515
+Unknown,All,HPIV + M. catarrhalis,HPIV,M. catarrhalis,326,8,2.4539877300613497,219515
+Unknown,All,MP + H. influenzae,MP,H. influenzae,4693,111,2.365224802897933,219515
+Unknown,All,IFV + S. pneumoniae,IFV,S. pneumoniae,1317,31,2.3538344722854974,219515
+Unknown,All,RSV + EBV,RSV,EBV,1598,35,2.1902377972465583,219515
+Unknown,All,HPIV + S. pneumoniae,HPIV,S. pneumoniae,773,16,2.069857697283312,219515
+Unknown,All,MP + HRV,MP,HRV,16104,318,1.9746646795827123,219515
+Unknown,All,COVID-19 + S. aureus,COVID-19,S. aureus,2061,40,1.9408054342552157,219515
+Unknown,All,MP + HMPV,MP,HMPV,3790,73,1.9261213720316621,219515
+Unknown,All,HCoV + Candida,HCoV,Candida,1346,25,1.8573551263001487,219515
+Unknown,All,RSV + HRV,RSV,HRV,16169,299,1.849217638691323,219515
+Unknown,All,IFV + HRV,IFV,HRV,16111,284,1.7627707777295016,219515
+Unknown,All,COVID-19 + S. pneumoniae,COVID-19,S. pneumoniae,1554,27,1.7374517374517375,219515
+Unknown,All,IFV + Pneumocystis,IFV,Pneumocystis,117,2,1.7094017094017095,219515
+Unknown,All,MP + K. pneumoniae,MP,K. pneumoniae,655,11,1.6793893129770994,219515
+Unknown,All,HPIV + HRV,HPIV,HRV,15369,241,1.568091612987182,219515
+Unknown,All,RSV + M. catarrhalis,RSV,M. catarrhalis,408,6,1.4705882352941175,219515
+Unknown,All,Aspergillus + Pneumocystis,Aspergillus,Pneumocystis,275,4,1.4545454545454546,219515
+Unknown,All,HPIV + S. aureus,HPIV,S. aureus,516,7,1.3565891472868217,219515
+Unknown,All,HAdV + MTB,HAdV,MTB,300,4,1.3333333333333335,219515
+Unknown,All,MP + MTB,MP,MTB,1067,13,1.218369259606373,219515
+Unknown,All,HAdV + HRV,HAdV,HRV,5916,71,1.2001352265043947,219515
+Unknown,All,IFV + S. aureus,IFV,S. aureus,2218,26,1.1722272317403066,219515
+Unknown,All,MP + S. pneumoniae,MP,S. pneumoniae,1293,15,1.160092807424594,219515
+Unknown,All,HAdV + H. influenzae,HAdV,H. influenzae,2764,32,1.1577424023154848,219515
+Unknown,All,HRV + HBoV,HRV,HBoV,12836,147,1.145216578373325,219515
+Unknown,All,MP + M. catarrhalis,MP,M. catarrhalis,452,5,1.1061946902654867,219515
+Unknown,All,HRV + HMPV,HRV,HMPV,2890,30,1.0380622837370241,219515
+Unknown,All,B. pertussis + Candida,B. pertussis,Candida,197,2,1.015228426395939,219515
+Unknown,All,HAdV + EBV,HAdV,EBV,3045,30,0.9852216748768473,219515
+Unknown,All,MP + CP,MP,CP,8522,79,0.927012438394743,219515
+Unknown,All,RSV + H. influenzae,RSV,H. influenzae,4363,39,0.8938803575521429,219515
+Unknown,All,B. pertussis + EBV,B. pertussis,EBV,115,1,0.8695652173913043,219515
+Unknown,All,IFV + Aspergillus,IFV,Aspergillus,118,1,0.847457627118644,219515
+Unknown,All,HPIV + H. influenzae,HPIV,H. influenzae,2634,22,0.8352315869400152,219515
+Unknown,All,HAdV + K. pneumoniae,HAdV,K. pneumoniae,600,5,0.8333333333333334,219515
+Unknown,All,RSV + Aspergillus,RSV,Aspergillus,121,1,0.8264462809917356,219515
+Unknown,All,RSV + Pneumocystis,RSV,Pneumocystis,122,1,0.819672131147541,219515
+Unknown,All,HAdV + S. maltophilia,HAdV,S. maltophilia,123,1,0.8130081300813009,219515
+Unknown,All,HPIV + EBV,HPIV,EBV,2589,21,0.8111239860950173,219515
+Unknown,All,COVID-19 + M. catarrhalis,COVID-19,M. catarrhalis,372,3,0.8064516129032258,219515
+Unknown,All,IFV + RSV,IFV,RSV,43688,352,0.8057132393334554,219515
+Unknown,All,IFV + HAdV,IFV,HAdV,38680,309,0.7988624612202689,219515
+Unknown,All,CP + HMPV,CP,HMPV,1580,12,0.7594936708860759,219515
+Unknown,All,CP + HRV,CP,HRV,1450,11,0.7586206896551724,219515
+Unknown,All,MP + HAdV,MP,HAdV,39350,295,0.7496823379923762,219515
+Unknown,All,B. pertussis + MTB,B. pertussis,MTB,135,1,0.7407407407407408,219515
+Unknown,All,HMPV + EBV,HMPV,EBV,139,1,0.7194244604316548,219515
+Unknown,All,HAdV + HMPV,HAdV,HMPV,2928,21,0.7172131147540983,219515
+Unknown,All,HAdV + A. baumannii,HAdV,A. baumannii,145,1,0.6896551724137931,219515
+Unknown,All,IFV + HMPV,IFV,HMPV,3937,26,0.6604013208026416,219515
+Unknown,All,HRV + B. pertussis,HRV,B. pertussis,3035,20,0.6589785831960462,219515
+Unknown,All,MP + RSV,MP,RSV,36446,227,0.6228392690555892,219515
+Unknown,All,RSV + P. aeruginosa,RSV,P. aeruginosa,483,3,0.6211180124223602,219515
+Unknown,All,HRV + MTB,HRV,MTB,161,1,0.6211180124223602,219515
+Unknown,All,B. pertussis + S. pneumoniae,B. pertussis,S. pneumoniae,323,2,0.6191950464396285,219515
+Unknown,All,M. catarrhalis + A. baumannii,M. catarrhalis,A. baumannii,163,1,0.6134969325153374,219515
+Unknown,All,HAdV + S. pneumoniae,HAdV,S. pneumoniae,664,4,0.6024096385542169,219515
+Unknown,All,RSV + HPIV,RSV,HPIV,23094,137,0.5932276781848099,219515
+Unknown,All,S. maltophilia + Aspergillus,S. maltophilia,Aspergillus,170,1,0.5882352941176471,219515
+Unknown,All,H. influenzae + Pneumocystis,H. influenzae,Pneumocystis,171,1,0.5847953216374269,219515
+Unknown,All,HBoV + S. aureus,HBoV,S. aureus,171,1,0.5847953216374269,219515
+Unknown,All,MP + P. aeruginosa,MP,P. aeruginosa,527,3,0.5692599620493358,219515
+Unknown,All,RSV + S. aureus,RSV,S. aureus,2468,14,0.5672609400324149,219515
+Unknown,All,S. aureus + Pneumocystis,S. aureus,Pneumocystis,177,1,0.5649717514124294,219515
+Unknown,All,COVID-19 + HRV,COVID-19,HRV,13129,73,0.5560210221646736,219515
+Unknown,All,COVID-19 + MP,COVID-19,MP,23527,120,0.5100522803587367,219515
+Unknown,All,CP + HPIV,CP,HPIV,2886,14,0.4851004851004851,219515
+Unknown,All,MP + HPIV,MP,HPIV,31012,145,0.46756094415065136,219515
+Unknown,All,HCoV + HRV,HCoV,HRV,8244,37,0.44881125667151867,219515
+Unknown,All,RSV + HMPV,RSV,HMPV,3573,16,0.44780296669465436,219515
+Unknown,All,HPIV + HMPV,HPIV,HMPV,3835,17,0.4432855280312908,219515
+Unknown,All,B. pertussis + H. influenzae,B. pertussis,H. influenzae,1169,5,0.42771599657827203,219515
+Unknown,All,RSV + A. baumannii,RSV,A. baumannii,235,1,0.425531914893617,219515
+Unknown,All,RSV + HAdV,RSV,HAdV,31188,132,0.42323970757983836,219515
+Unknown,All,HCoV + IFV,HCoV,IFV,8536,35,0.41002811621368324,219515
+Unknown,All,HBoV + H. influenzae,HBoV,H. influenzae,2040,8,0.39215686274509803,219515
+Unknown,All,COVID-19 + CP,COVID-19,CP,2047,8,0.39081582804103565,219515
+Unknown,All,CP + RSV,CP,RSV,5528,21,0.3798842257597685,219515
+Unknown,All,Aspergillus + Cryptococcus,Aspergillus,Cryptococcus,275,1,0.36363636363636365,219515
+Unknown,All,Cryptococcus + Pneumocystis,Cryptococcus,Pneumocystis,279,1,0.35842293906810035,219515
+Unknown,All,HMPV + H. influenzae,HMPV,H. influenzae,280,1,0.35714285714285715,219515
+Unknown,All,IFV + CP,IFV,CP,4892,16,0.3270645952575634,219515
+Unknown,All,HBoV + M. catarrhalis,HBoV,M. catarrhalis,310,1,0.3225806451612903,219515
+Unknown,All,MP + S. aureus,MP,S. aureus,2236,7,0.31305903398926654,219515
+Unknown,All,RSV + MTB,RSV,MTB,323,1,0.30959752321981426,219515
+Unknown,All,MP + HBoV,MP,HBoV,13680,42,0.30701754385964913,219515
+Unknown,All,RSV + K. pneumoniae,RSV,K. pneumoniae,658,2,0.303951367781155,219515
+Unknown,All,HCoV + MP,HCoV,MP,8276,24,0.28999516674722087,219515
+Unknown,All,RSV + HBoV,RSV,HBoV,13486,38,0.28177369123535523,219515
+Unknown,All,MP + B. pertussis,MP,B. pertussis,5046,14,0.27744748315497425,219515
+Unknown,All,HBoV + S. pneumoniae,HBoV,S. pneumoniae,752,2,0.26595744680851063,219515
+Unknown,All,Legionella + K. pneumoniae,Legionella,K. pneumoniae,799,2,0.2503128911138924,219515
+Unknown,All,COVID-19 + HPIV,COVID-19,HPIV,15287,36,0.23549421076731863,219515
+Unknown,All,HAdV + HPIV,HAdV,HPIV,21757,50,0.2298110952796801,219515
+Unknown,All,RSV + B. pertussis,RSV,B. pertussis,3954,9,0.2276176024279211,219515
+Unknown,All,COVID-19 + RSV,COVID-19,RSV,24036,53,0.22050257946413712,219515
+Unknown,All,HAdV + P. aeruginosa,HAdV,P. aeruginosa,474,1,0.21097046413502107,219515
+Unknown,All,CP + HAdV,CP,HAdV,8212,17,0.20701412566975158,219515
+Unknown,All,Legionella + S. pneumoniae,Legionella,S. pneumoniae,1000,2,0.2,219515
+Unknown,All,COVID-19 + HBoV,COVID-19,HBoV,13677,25,0.18278862323608977,219515
+Unknown,All,IFV + HBoV,IFV,HBoV,13755,25,0.1817520901490367,219515
+Unknown,All,HPIV + B. pertussis,HPIV,B. pertussis,2904,5,0.17217630853994492,219515
+Unknown,All,HCoV + S. pneumoniae,HCoV,S. pneumoniae,581,1,0.17211703958691912,219515
+Unknown,All,HCoV + HMPV,HCoV,HMPV,1164,2,0.1718213058419244,219515
+Unknown,All,COVID-19 + HAdV,COVID-19,HAdV,15980,26,0.16270337922403005,219515
+Unknown,All,IFV + B. pertussis,IFV,B. pertussis,4386,7,0.15959872321021432,219515
+Unknown,All,COVID-19 + B. pertussis,COVID-19,B. pertussis,3214,5,0.1555693839452396,219515
+Unknown,All,HCoV + HPIV,HCoV,HPIV,8243,12,0.14557806623802014,219515
+Unknown,All,HPIV + HBoV,HPIV,HBoV,13752,20,0.14543339150668994,219515
+Unknown,All,HCoV + RSV,HCoV,RSV,8267,12,0.1451554372807548,219515
+Unknown,All,Legionella + H. influenzae,Legionella,H. influenzae,2197,3,0.13654984069185253,219515
+Unknown,All,HAdV + S. aureus,HAdV,S. aureus,2222,3,0.135013501350135,219515
+Unknown,All,HCoV + HBoV,HCoV,HBoV,8148,11,0.13500245459008345,219515
+Unknown,All,COVID-19 + HMPV,COVID-19,HMPV,3742,5,0.13361838588989847,219515
+Unknown,All,HAdV + HBoV,HAdV,HBoV,3234,4,0.12368583797155226,219515
+Unknown,All,HCoV + H. influenzae,HCoV,H. influenzae,1737,2,0.11514104778353484,219515
+Unknown,All,HPIV + Legionella,HPIV,Legionella,962,1,0.10395010395010396,219515
+Unknown,All,Legionella + P. aeruginosa,Legionella,P. aeruginosa,986,1,0.10141987829614604,219515
+Unknown,All,MP + Legionella,MP,Legionella,2108,1,0.04743833017077799,219515
+Unknown,All,Legionella + S. aureus,Legionella,S. aureus,2218,1,0.045085662759242556,219515
+Unknown,All,HBoV + B. pertussis,HBoV,B. pertussis,2826,1,0.035385704175513094,219515
+Unknown,All,HMPV + HBoV,HMPV,HBoV,3795,1,0.026350461133069828,219515
