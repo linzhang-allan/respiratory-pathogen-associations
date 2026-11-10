@@ -1,2 +1,0 @@
-﻿Group A,Group B,Paired pair-count,Group A median Coinfection risk,Group B median Coinfection risk,raw_p_value,p_value,p_value_stars,posthoc_test_applied,posthoc_method
-URTI,LRTI,27,1.158811964056489,1.1485605943171033,0.4996110200881958,0.4996110200881958,,True,Wilcoxon signed-rank test (direct two-group comparison)
